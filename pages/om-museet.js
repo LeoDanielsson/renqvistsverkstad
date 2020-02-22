@@ -1,9 +1,9 @@
 import Layout from '../components/layout';
 
-const Home = () => (
+const About = () => (
   <Layout>
-    <h1>Aktuellt</h1>
+    <h1>Om museet</h1>
   </Layout>
 );
 
-export default Home;
+export default About;

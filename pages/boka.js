@@ -1,9 +1,9 @@
 import Layout from '../components/layout';
 
-const Home = () => (
+const Boka = () => (
   <Layout>
-    <h1>Aktuellt</h1>
+    <h1>Boka visning</h1>
   </Layout>
 );
 
-export default Home;
+export default Boka;
