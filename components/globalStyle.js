@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 import Typography from 'typography';
-import { black, white, gold } from '../colors';
+import { black, white, gold, copper } from '../colors';
 
 const typography = new Typography({
   baseFontSize: '18px',
@@ -45,6 +45,10 @@ const GlobalStyle = createGlobalStyle`
 
   p {
     max-width: 80ch;
+  }
+
+  h1 {
+    color: ${copper};
   }
 `;
 
