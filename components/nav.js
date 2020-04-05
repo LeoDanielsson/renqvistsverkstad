@@ -11,10 +11,13 @@ const links = [
 ];
 
 const StyledNav = styled.nav`
+  white-space: nowrap;
   ul {
     margin: 0;
     display: flex;
     list-style: none;
+    overflow-x: scroll;
+    max-width: 100vw;
   }
 
   li {
