@@ -49,7 +49,7 @@ export const events = [
 ];
 
 const Program = () => (
-  <Layout>
+  <Layout title='Program'>
     <Container>
       <h1>Program</h1>
       <Section image='/images/workshop3.jpg'>

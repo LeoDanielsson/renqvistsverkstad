@@ -5,7 +5,7 @@ const StyledSection = styled.section`
   display: grid;
   grid-column-gap: 32px;
   @media (min-width: ${medium}) {
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 3fr 2fr;
   }
 `;
 

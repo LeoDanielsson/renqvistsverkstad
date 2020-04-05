@@ -3,7 +3,7 @@ import Container from '../components/container';
 import Section from '../components/section';
 
 const About = () => (
-  <Layout>
+  <Layout title='Om oss'>
     <Container>
       <h1>Om Renqvists verkstad</h1>
       <Section image='/images/verkstad.jpg'>

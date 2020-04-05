@@ -7,6 +7,7 @@ const links = [
   { href: '/', label: 'Hem' },
   { href: '/program', label: 'Program' },
   { href: '/om-oss', label: 'Om oss' },
+  { href: '/kontakt', label: 'Kontakt' },
 ];
 
 const StyledNav = styled.nav`
