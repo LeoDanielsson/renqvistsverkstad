@@ -16,6 +16,7 @@ const StyledHeader = styled.header`
 const Logo = styled.a`
   font-size: 32px;
   text-align: center;
+  cursor: pointer;
   color: ${white};
   font-family: 'Merriweather';
   line-height: 1;

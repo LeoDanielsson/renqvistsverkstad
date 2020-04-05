@@ -1,10 +1,9 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import styled from 'styled-components';
-import { white, black } from '../colors';
+import { white, black, copper } from '../colors';
 
 const links = [
-  { href: '/', label: 'Hem' },
   { href: '/program', label: 'Program' },
   { href: '/om-oss', label: 'Om oss' },
   { href: '/kontakt', label: 'Kontakt' },
@@ -26,7 +25,8 @@ const StyledNav = styled.nav`
 `;
 
 const NavLink = styled.a`
-  color: white;
+  color: ${({ active }) => (active ? copper : white)};
+  background: ${({ active }) => (active ? white : 'none')};
   border-bottom: ${({ active }) => (active ? `2px solid ${white}` : 'none')};
   padding: 8px 16px;
   text-decoration: none;
