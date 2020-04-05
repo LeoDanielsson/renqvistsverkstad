@@ -22,12 +22,12 @@ const Hero = styled.div`
     background-image: linear-gradient(
         to left,
         rgba(0, 0, 0, 1) 0%,
-        rgba(0, 0, 0, 0) 30%,
-        rgba(0, 0, 0, 0) 70%,
+        rgba(0, 0, 0, 0.1) 30%,
+        rgba(0, 0, 0, 0.1) 70%,
         rgba(0, 0, 0, 1) 100%
       ),
       url('/images/gryta.jpg');
-    background-size: 70%;
+    background-size: 60%;
   }
 `;
 
@@ -43,10 +43,10 @@ const HeroContent = styled.div`
   align-items: center;
   color: ${white};
   font-size: 20px;
-  background-color: rgba(0, 0, 0, 0.4);
   h1 {
     margin-top: 1.666rem;
     font-size: 2.5em;
+    color: ${white};
   }
   justify-content: center;
 `;
