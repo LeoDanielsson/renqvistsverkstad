@@ -3,11 +3,11 @@ import Header from './header';
 import GlobalStyle from './globalStyle';
 import Container from './container';
 
-const Layout = ({ children }) => (
+const Layout = ({ title, children }) => (
   <div>
     <GlobalStyle />
     <Head>
-      <title>Renqvists verkstad</title>
+      <title>Renqvists verkstad - {title}</title>
       <link rel='icon' href='/favicon.ico' />
       <link
         href='https://fonts.googleapis.com/css?family=Merriweather'
@@ -15,9 +15,7 @@ const Layout = ({ children }) => (
       />
     </Head>
     <Header />
-    <main>
-      <Container>{children}</Container>
-    </main>
+    <main>{children}</main>
   </div>
 );
 

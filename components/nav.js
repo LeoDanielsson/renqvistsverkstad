@@ -2,30 +2,14 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import styled from 'styled-components';
 import { white, black } from '../colors';
-import { medium } from '../breakpoints';
 
 const links = [
-  { href: '/', label: 'Aktuellt' },
-  { href: '/boka', label: 'Boka visning' },
-  { href: '/sociala-projekt', label: 'Sociala projekt' },
-  { href: '/historik', label: 'Historik' },
-  { href: '/om-museet', label: 'Om museet' }
+  { href: '/', label: 'Hem' },
+  { href: '/program', label: 'Program' },
+  { href: '/om-oss', label: 'Om oss' },
 ];
 
 const StyledNav = styled.nav`
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 80px;
-  transform: translateX(-100%);
-  transition: transform 0.25s;
-
-  @media (min-width: ${medium}) {
-    position: relative;
-    transform: none;
-  }
-
   ul {
     margin: 0;
     display: flex;
@@ -38,8 +22,8 @@ const StyledNav = styled.nav`
 `;
 
 const NavLink = styled.a`
-  color: ${({ active }) => (active ? black : white)};
-  background-color: ${({ active }) => (active ? white : black)};
+  color: white;
+  border-bottom: ${({ active }) => (active ? `2px solid ${white}` : 'none')};
   padding: 8px 16px;
   text-decoration: none;
   display: block;

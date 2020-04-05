@@ -7,7 +7,7 @@ const typography = new Typography({
   baseLineHeight: 1.666,
   bodyColor: black,
   headerFontFamily: ['Merriweather', 'sans-serif'],
-  bodyFontFamily: ['Helvetica Neue', 'sans-serif']
+  bodyFontFamily: ['Helvetica Neue', 'sans-serif'],
 });
 
 const GlobalStyle = createGlobalStyle`
@@ -41,6 +41,10 @@ const GlobalStyle = createGlobalStyle`
 
   a {
     color: ${gold};
+  }
+
+  p {
+    max-width: 80ch;
   }
 `;
 

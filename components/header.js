@@ -10,18 +10,20 @@ const StyledHeader = styled.header`
   align-items: center;
   padding: 24px 16px;
   background-color: ${black};
-
-  @media (min-width: ${medium}) {
-    padding-bottom: 0;
-  }
+  padding-bottom: 0;
 `;
 
 const Logo = styled.a`
-  font-size: 48px;
+  font-size: 32px;
+  text-align: center;
   color: ${white};
   font-family: 'Merriweather';
   line-height: 1;
-  margin-bottom: 32px;
+  margin-bottom: 16px;
+  @media (min-width: ${medium}) {
+    font-size: 48px;
+    margin-bottom: 32px;
+  }
 `;
 
 const Header = () => (
