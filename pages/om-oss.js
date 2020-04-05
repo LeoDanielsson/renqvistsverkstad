@@ -8,12 +8,16 @@ const About = () => (
       <h1>Om Renqvists verkstad</h1>
       <Section image='/images/verkstad.jpg'>
         <p>
-          I vackra Kummelnäs i Nacka i skulptören Torsten Renqvists verkstad, är
-          ett litet museum över de skulptörens alla hantverk under uppbyggnad.
+          I vackra Kummelnäs i Nacka i skulptören Torsten Renqvists verkstad,
+          finns ett litet museum över skulptörens alla hantverk.
         </p>
         <p>
           I verkstaden demonstreras olika material och de olika arbetssätt,
           verktyg och processer som är knutna till en skulptörs arbete.
+        </p>
+        <p>
+          Här visas också aktuella utställningar med samtida konstnärer och
+          konstnärer från tidigare generationer.
         </p>
         <p>
           På den här platsen i Kummelnäs har många konstnärer mötts och arbetat
@@ -26,15 +30,15 @@ const About = () => (
           möjlig att boka för en visning.
         </p>
         <p>
-          Här kommer även filmer om olika skulptörers arbete att visas och ett
-          bildspel presenteras av interiörer i skulptörers ateljéer och
+          I verkstaden visas även filmer om skulptörers arbete och ett bildspel
+          presenteras med interiörer från olika skulptörers ateljéer och
           verkstäder.
         </p>
         <p>
-          Här finns ett referensbibliotek under uppbyggnad och information om
-          alla de skickliga yrkesmän och företag som förvaltar och utövar den
-          hantverksskicklighet som behövs för att en skulptur ska kunna bli
-          till.
+          Här finns ett referensbibliotek och en spännande boklåda och
+          information om alla de kunniga yrkesmän och företag som förvaltar och
+          utövar den hantverksskicklighet som behövs för att en skulptur ska
+          kunna bli till.
         </p>
         <p>
           I verkstaden visas också en skulpturutställning som är ett resultat av
@@ -44,16 +48,19 @@ const About = () => (
       <Section title='Föreningen' image='/images/lotta.jpg'>
         <p>
           Det är föreningen Renqvists Verkstad som ligger bakom idé och
-          uppförande samt deltar i skulpturutställningen.
+          uppförande, föreningens medlemmar visar även sin konst i
+          skulpturutställningarna.
         </p>
         <p>
           Föreningsmedlemmar är Bo Andersson, Lotta Enocsson, Mats Eriksson,
-          Annika Heed, Ingegerd Lohland, Bitte Jonasson Åkerlund, Kajsa Mattas,
-          Mats Åberg och Erik Åkerlund samt Anna-Lena Renqvist.
+          Annika Heed, Dina Hviid, Anders Jansson, Ingegerd Lohland, Bitte
+          Jonasson Åkerlund, Mats Åberg och Erik Åkerlund samt Anna-Lena
+          Renqvist.
         </p>
+        <h3>Torsten Renqvist-sällskapet</h3>
         <p>
-          Torsten Renqvistsällskapet förvaltar och informerar om Torsten
-          Renqvists konstnärskap.
+          Torsten Renqvist-sällskapet förvaltar och informerar om Torsten
+          Renqvists konstnärskap. http://www.torstenrenqvist.se/
         </p>
         <p>
           De bägge föreningarna samarbetar och deras verksamheter går ibland

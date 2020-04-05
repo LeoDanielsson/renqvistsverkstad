@@ -52,23 +52,27 @@ const Program = () => (
   <Layout title='Program'>
     <Container>
       <h1>Program</h1>
-      <Section image='/images/workshop3.jpg'>
+      <Section image='/images/workshop1.jpg'>
         <p>
           Nu satsar vi på vår skulpturgård så ni kan besöka oss i friska luften
         </p>
         <p>
-          Program för de söndagar vi håller Öppet Hus i Skulptörens verkstad
-          mellan kl 12.00 -16.00: Vi visar museet, aktuell utställning och
-          Torsten Renqvists ateljé. Se även vårt spännande ateljébildspel där ni
-          kan få titta in i olika skulptörers ateljéer, se filmer om Torsten
-          Renqvist, Evert Lindfors mm. Utforska vår boklåda med utvalda
-          konstböcker eller delta i våra workshops där alla kan delta oavsett
-          ålder. Ta en kopp kaffe i vår skulpturgård utanför verkstaden.
+          Program de söndagar vi håller Öppet Hus i Skulptörens verkstad 12 -16
+          presenteras nedan.
         </p>
         <p>
+          Vi visar museet, aktuell utställning och Torsten Renqvists ateljé. Se
+          även vårt spännande ateljébildspel där ni kan få titta in i olika
+          skulptörers ateljéer, se filmer om Torsten Renqvist, Evert Lindfors
+          mm. Utforska vår boklåda med utvalda konstböcker eller delta i våra
+          workshops där alla kan delta oavsett ålder. Ta en kopp kaffe i vår
+          skulpturgård utanför verkstaden.
+        </p>
+        <h3>Med anledning av coronakrisen:</h3>
+        <p>
           Vi reserverar oss för vissa ändringar eller anpassningar i programmet
-          pga coronakrisen och håller er uppdaterade för vad som gäller för
-          varje Öppet Hus. Håll ögonen öppna!
+          och håller er uppdaterade för vad som gäller för varje Öppet Hus. Håll
+          ögonen öppna!
         </p>
       </Section>
       <Section
