@@ -30,8 +30,13 @@ const NavLink = styled.a`
   border-bottom: ${({ active }) => (active ? `2px solid ${white}` : 'none')};
   padding: 8px 16px;
   text-decoration: none;
+  border-radius: 2px 2px 0 0;
   display: block;
   cursor: pointer;
+  &:hover {
+    background: $white;
+    color: $black;
+  }
 `;
 
 const Nav = () => {

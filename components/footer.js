@@ -1,9 +1,10 @@
 import Container from './container';
 import styled from 'styled-components';
-import { white } from '../colors';
+import { white, black } from '../colors';
 
 const Wrapper = styled.footer`
   color: ${white};
+  background-color: ${black};
   address {
     font-style: normal;
   }
@@ -11,7 +12,7 @@ const Wrapper = styled.footer`
 
 const Footer = () => (
   <Wrapper>
-    <Container>
+    <Container dark>
       <address>
         <p>
           Renqvists Verkstad
