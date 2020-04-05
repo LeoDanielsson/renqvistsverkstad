@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Header from './header';
 import GlobalStyle from './globalStyle';
 import Container from './container';
+import Footer from './footer';
 
 const Layout = ({ title, children }) => (
   <div>
@@ -16,6 +17,7 @@ const Layout = ({ title, children }) => (
     </Head>
     <Header />
     <main>{children}</main>
+    <Footer />
   </div>
 );
 
