@@ -43,7 +43,6 @@ const HeroContent = styled.div`
   align-items: center;
   color: ${white};
   font-size: 20px;
-  padding: 0 8px;
   h1 {
     margin-top: 1.666rem;
     font-size: 2.5em;
@@ -61,7 +60,6 @@ const CtaLink = styled.a`
   padding: 8px 16px;
   line-height: 1;
   border: 1px solid ${white};
-  border-radius: 2px;
   &:hover {
     background: ${white};
     color: ${black};
@@ -72,24 +70,26 @@ const Home = () => (
   <Layout title='Hem'>
     <Hero>
       <HeroContent>
-        <p>Föreningen Renqvists verkstad presenterar</p>
-        <h1>Skulptörens verkstad</h1>
-        <p>Ett museum för skulptörens alla hantverk</p>
-        <Link href='/program'>
-          <CtaLink>
-            Till årets kursprogram{' '}
-            <svg
-              xmlns='http://www.w3.org/2000/svg'
-              viewBox='0 0 24 24'
-              fill='currentcolor'
-              width='1em'
-              height='1em'
-            >
-              <path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z' />
-              <path d='M0 0h24v24H0z' fill='none' />
-            </svg>
-          </CtaLink>
-        </Link>
+        <Container>
+          <p>Föreningen Renqvists verkstad presenterar</p>
+          <h1>Skulptörens verkstad</h1>
+          <p>Ett museum för skulptörens alla hantverk</p>
+          <Link href='/program'>
+            <CtaLink>
+              Till årets kursprogram{' '}
+              <svg
+                xmlns='http://www.w3.org/2000/svg'
+                viewBox='0 0 24 24'
+                fill='currentcolor'
+                width='1em'
+                height='1em'
+              >
+                <path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z' />
+                <path d='M0 0h24v24H0z' fill='none' />
+              </svg>
+            </CtaLink>
+          </Link>
+        </Container>
       </HeroContent>
     </Hero>
   </Layout>

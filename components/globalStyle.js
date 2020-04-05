@@ -24,7 +24,7 @@ const GlobalStyle = createGlobalStyle`
 
   main {
     color: ${black};
-    background-color: ${black};
+    background-color: ${white};
     min-height: 80vh;
   }
 
