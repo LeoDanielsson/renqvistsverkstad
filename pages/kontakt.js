@@ -17,7 +17,7 @@ const Contact = () => (
       <h1>Kontakt</h1>
       <Grid>
         <div>
-          Adress:
+          <h2>Adress</h2>
           <address>
             Renqvists Verkstad
             <br />
@@ -25,7 +25,13 @@ const Contact = () => (
             <br />
             13237 Saltsjöbo
           </address>
-          <h2>Kollektivtrafik</h2>
+          <p>
+            {' '}
+            <a href='https://goo.gl/maps/bhrdi47AWjZyohoYA' target='_blank'>
+              Öppna i Google Maps
+            </a>
+          </p>
+          <h2>Ta sig hit kollektivt</h2>
           <p>
             Buss 444 från Slussen till Orminge centrum, sedan buss 421 till
             Badhusvägen. Följ sedan skyltning mot Renqvists verkstad.
@@ -40,7 +46,10 @@ const Contact = () => (
             <a href='tel:+46736249285'>073 624 92 85</a>.
           </p>
         </div>
-        <a href='https://goo.gl/maps/bhrdi47AWjZyohoYA' target='_blank'>
+        <a
+          href='https://www.google.com/maps/place/Renqvists+verkstad/@59.3354556,18.2432392,12.08z/data=!4m5!3m4!1s0x465f83d5bb10d64f:0xddc8c3fb4df625aa!8m2!3d59.348078!4d18.2756484'
+          target='_blank'
+        >
           <img src='/images/karta.png' />
         </a>
       </Grid>
