@@ -1,11 +1,11 @@
 import Layout from '../components/layout';
 import styled from 'styled-components';
-import { white, gold, black, copper } from '../colors';
+import { white, gold, black, copper, linen } from '../colors';
 import { events } from './program';
 import Container from '../components/container';
 import Event from '../components/event';
 import Link from 'next/link';
-import { large } from '../breakpoints';
+import { large, medium } from '../breakpoints';
 
 const Hero = styled.div`
   height: 80vh;
@@ -43,12 +43,18 @@ const HeroContent = styled.div`
   align-items: center;
   color: ${white};
   font-size: 20px;
+
   h1 {
     margin-top: 1.666rem;
     font-size: 2.5em;
     color: ${white};
   }
-  justify-content: center;
+  @media (min-width: ${medium}) {
+    padding-top: 2rem;
+  }
+  @media (min-width: ${large}) {
+    padding-top: 4rem;
+  }
 `;
 
 const CtaLink = styled.a`
@@ -57,12 +63,12 @@ const CtaLink = styled.a`
   color: ${white};
   cursor: pointer;
   text-align: right;
-  padding: 8px 16px;
+  padding: 8px 0;
   line-height: 1;
-  border: 1px solid ${white};
+  border-bottom: 1px solid ${white};
   &:hover {
-    background: ${white};
-    color: ${black};
+    color: ${gold};
+    border-color: ${gold};
   }
 `;
 
@@ -76,7 +82,7 @@ const Home = () => (
           <p>Ett museum för skulptörens alla hantverk</p>
           <Link href='/program'>
             <CtaLink>
-              Till årets kursprogram{' '}
+              Se vårt program{' '}
               <svg
                 xmlns='http://www.w3.org/2000/svg'
                 viewBox='0 0 24 24'

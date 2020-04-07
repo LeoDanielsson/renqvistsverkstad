@@ -60,11 +60,14 @@ const About = () => (
         <h3>Torsten Renqvist-sällskapet</h3>
         <p>
           Torsten Renqvist-sällskapet förvaltar och informerar om Torsten
-          Renqvists konstnärskap. http://www.torstenrenqvist.se/
+          Renqvists konstnärskap.
         </p>
         <p>
           De bägge föreningarna samarbetar och deras verksamheter går ibland
           samman.
+        </p>
+        <p>
+          <a href='http://www.torstenrenqvist.se'>www.torstenrenqvist.se</a>
         </p>
       </Section>
       <Section title='Besök oss' image='/images/hastar.jpg'>

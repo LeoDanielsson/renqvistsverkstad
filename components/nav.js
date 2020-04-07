@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { white, black, copper } from '../colors';
 
 const links = [
+  { href: '/', label: 'Hem' },
   { href: '/program', label: 'Program' },
   { href: '/om-oss', label: 'Om oss' },
   { href: '/kontakt', label: 'Kontakt' },
@@ -14,8 +15,9 @@ const StyledNav = styled.nav`
   ul {
     margin: 0;
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     list-style: none;
-    overflow-x: scroll;
     max-width: 100vw;
   }
 

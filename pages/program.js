@@ -7,43 +7,54 @@ export const events = [
   {
     date: 'Söndag 10 maj',
     texts: [
-      'Vernissage ”Skissen och skulpturen” och workshop gips-scrafitti, kl 12-16',
+      'Vernissage för utställningen ”Skissen och skulpturen”, muséet och workshop gips-scrafitti, kl 12-16',
     ],
   },
   {
     date: 'Söndag 17 maj',
-    texts: ['Öppet Hus med utställning och mosaik-workshop, 12-16'],
+    texts: [
+      'Öppet Hus, utställningen ”Skissen och skulpturen”, muséet och mosaik-workshop, 12-16',
+    ],
   },
-  { date: 'Söndag 31 maj', texts: ['Öppet Hus Utställning och ler- workshop'] },
+  {
+    date: 'Söndag 31 maj',
+    texts: [
+      'Öppet Hus, utställningen ”Skissen och skulpturen”, muséet och ler-workshop',
+    ],
+  },
   {
     date: 'Söndagen 7 juni',
     texts: [
-      'Öppet Hus med utställning och workshop i gips. Musikfest under planering.',
+      'Öppet Hus, utställningen ”Skissen och skulpturen”, muséet och workshop i gips. Musikfest under planering.',
       'I dagsläget osäkert om festen kan hållas. Mer information kommer.',
     ],
   },
   {
     date: 'Söndagen 23 augusti',
-    texts: ['Vernissage för ”Ombord” och workshop i lera, 12-16'],
+    texts: ['Vernissage för utställningen ”Ombord” och workshop i lera, 12-16'],
   },
   {
     date: 'Söndag 30 augusti',
     texts: [
-      'Öppet Hus med utställning och musikfest, 12-19, program kommer senare.',
+      'Öppet Hus, utställningen ”Ombord”, muséet och musikfest, 12-19, program kommer senare.',
     ],
   },
   {
     date: 'Söndag 6 september',
-    texts: ['Öppet Hus och workshop i lera, 12-19'],
+    texts: [
+      'Öppet Hus, utställningen ”Ombord”, muséet och workshop i lera, 12-16',
+    ],
   },
   {
     date: 'Söndag 13 september',
-    texts: ['Öppet Hus och mosaik – workshop, 12 - 16'],
+    texts: [
+      'Öppet Hus, uställningen ”Ombord”, muséet och mosaik-workshop, 12-16',
+    ],
   },
   {
     date: 'Söndag 20 september',
     texts: [
-      'Öppet Hus samt Finissage med grillning i höstluften ler-workshop, 12-16',
+      'Öppet Hus samt Finissage för utställningen ”Ombord” med grillning i höstluften och ler-workshop, 12-16',
     ],
   },
 ];
@@ -54,7 +65,9 @@ const Program = () => (
       <h1>Program</h1>
       <Section image='/images/workshop1.jpg'>
         <p>
-          Nu satsar vi på vår skulpturgård så ni kan besöka oss i friska luften
+          Nu satsar vi på vår skulpturgård så ni kan besöka oss i friska luften.
+          Under våren kommer vi ge plats för skulptur och bilder på gården. Det
+          kommer alltså gå bra att göra ett utomhus besök hos oss!
         </p>
         <p>
           Program de söndagar vi håller Öppet Hus i Skulptörens verkstad 12 -16
@@ -70,9 +83,11 @@ const Program = () => (
         </p>
         <h3>Med anledning av coronakrisen:</h3>
         <p>
-          Vi reserverar oss för vissa ändringar eller anpassningar i programmet
-          och håller er uppdaterade för vad som gäller för varje Öppet Hus. Håll
-          ögonen öppna!
+          <strong>
+            Vi reserverar oss för vissa ändringar eller anpassningar i
+            programmet och håller er uppdaterade för vad som gäller för varje
+            Öppet Hus. Håll ögonen öppna!
+          </strong>
         </p>
       </Section>
       <Section
@@ -87,9 +102,10 @@ const Program = () => (
       <p>
         Välkommen att boka visningar av Skulptörens verkstad och Torsten
         Renqvists ateljé för mindre eller större grupper. 100 kr/person
-        Skulptörens verkstad, 100 kr/person Torsten Renqvists verkstad. För mer
-        information se nedan. Vi kommer med aktuell information i början av maj
-        som tar hänsyn till hur vi handskas med coronakrisen.
+        Skulptörens verkstad. 100 kr/person Torsten Renqvists verkstad. Dock
+        minimiavgift på 1000 kr för en visning. För mer information se nedan. Vi
+        kommer med aktuell information i början av maj som tar hänsyn till hur
+        vi handskas med coronakrisen.
       </p>
       <Section title='Kurser' image='/images/workshop2.jpg'>
         <p>
