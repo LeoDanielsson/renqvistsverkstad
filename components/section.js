@@ -15,21 +15,11 @@ const Header = styled.h2`
   }
 `;
 
-const Content = styled.div``;
-
-const Body = styled.body``;
-
-const ImageContainer = styled.div``;
-
 const Section = ({ title, image, children }) => (
   <StyledSection>
     {title && <Header>{title}</Header>}
-    <Body>{children}</Body>
-    {image && (
-      <ImageContainer>
-        <img src={image} alt='' />
-      </ImageContainer>
-    )}
+    <div>{children}</div>
+    {image && <img src={image} alt='' />}
   </StyledSection>
 );
 
