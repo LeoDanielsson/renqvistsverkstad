@@ -9,7 +9,7 @@ const StyledHeader = styled.header`
   flex-direction: column;
   align-items: center;
   padding: 24px 0;
-  background-color: ${black};
+  background-color: ${darkGreen};
   padding-bottom: 0;
 `;
 
