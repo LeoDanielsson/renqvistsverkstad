@@ -7,26 +7,25 @@ export const events = [
   {
     date: 'Söndag 10 maj',
     texts: [
-      'Vernissage för utställningen ”Skissen och skulpturen”, muséet och workshop gips-scrafitti, kl 12-16',
+      'Öppen gård, möjligt att besöka vår nybyggda utomhusutställning. Workshopen ni tar med er hem! ”Vår mosaik 2020”. Bilder och tankar från våren 2020. Alla får vara med, vi bygger en gemensam gipsmosaik, var och en gör sin del hemma. Vi håller med färgade gipser som ni kan rista in era bilder i. Ni får med er en färgad gips-bit samt instruktioner om hur ni gör. Vi samlar in och bygger en gipsmosaik till hösten! Öppet 12-16.',
     ],
   },
   {
     date: 'Söndag 17 maj',
     texts: [
-      'Öppet Hus, utställningen ”Skissen och skulpturen”, muséet och mosaik-workshop, 12-16',
+      'Öppen gård och ”Mäktig mosaik 2020” Om möjligt; utställningen  ”Skissen och skulpturen”. 12-16',
     ],
   },
   {
     date: 'Söndag 31 maj',
     texts: [
-      'Öppet Hus, utställningen ”Skissen och skulpturen”, muséet och ler-workshop',
+      'Öppen gård och ”Mäktig mosaik 2020” Om möjligt; utställningen ”Skissen och skulpturen".',
     ],
   },
   {
     date: 'Söndagen 7 juni',
     texts: [
-      'Öppet Hus, utställningen ”Skissen och skulpturen”, muséet och workshop i gips. Musikfest under planering.',
-      'I dagsläget osäkert om festen kan hållas. Mer information kommer.',
+      'Öppen gård och ”Mäktig mosaik 2020” Om möjligt; utställningen ”Skissen och skulpturen”.',
     ],
   },
   {
@@ -66,20 +65,23 @@ const Program = () => (
       <Section image='/images/workshop1.jpg'>
         <p>
           Nu satsar vi på vår skulpturgård så ni kan besöka oss i friska luften.
-          Under våren kommer vi ge plats för skulptur och bilder på gården. Det
-          kommer alltså gå bra att göra ett utomhus besök hos oss!
+          Vi bygger en utställning på gården utanför verkstaden och förlägger
+          workshops och andra aktiviteter utomhus.
         </p>
         <p>
-          Program de söndagar vi håller Öppet Hus i Skulptörens verkstad 12 -16
-          presenteras nedan.
+          Till våren öppnar vi vår gårdsutställning och sjösätter workshopen
+          ”Mäktig mosaik 2020” en workshop där var och en kan ge sitt bidrag
+          till en gemensam mosaik om våren och året 2020. Till höstens finissage
+          kommer vi ställa samman alla bidrag till en gemensam mosaik.
         </p>
         <p>
-          Vi visar museet, aktuell utställning och Torsten Renqvists ateljé. Se
-          även vårt spännande ateljébildspel där ni kan få titta in i olika
-          skulptörers ateljéer, se filmer om Torsten Renqvist, Evert Lindfors
-          mm. Utforska vår boklåda med utvalda konstböcker eller delta i våra
-          workshops där alla kan delta oavsett ålder. Ta en kopp kaffe i vår
-          skulpturgård utanför verkstaden.
+          Vi håller verkstan tillfälligt stängd pga coronakrisen men är redo att
+          öppna så snart restriktionerna lättar. Se vår hemsida där vi håller er
+          uppdaterade.
+        </p>
+        <p>
+          När vi åter kan öppna visar vi utställningen ”Skissen och skulpturen”
+          som handlar om den process som leder fram till ett offentligt verk.
         </p>
         <h3>Med anledning av coronakrisen:</h3>
         <p>
