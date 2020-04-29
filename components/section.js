@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { medium } from '../breakpoints';
+import { gold } from '../colors';
 
 const StyledSection = styled.section`
   display: grid;

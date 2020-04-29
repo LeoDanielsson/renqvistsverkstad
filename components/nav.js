@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import styled from 'styled-components';
-import { white, black, copper } from '../colors';
+import { white, darkGreen, copper } from '../colors';
 
 const links = [
   { href: '/', label: 'Hem' },
