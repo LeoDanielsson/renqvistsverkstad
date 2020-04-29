@@ -7,53 +7,56 @@ export const events = [
   {
     date: 'Söndag 10 maj',
     texts: [
-      'Öppen gård, möjligt att besöka vår nybyggda utomhusutställning. Workshopen ni tar med er hem! ”Vår mosaik 2020”. Bilder och tankar från våren 2020. Alla får vara med, vi bygger en gemensam gipsmosaik, var och en gör sin del hemma. Vi håller med färgade gipser som ni kan rista in era bilder i. Ni får med er en färgad gips-bit samt instruktioner om hur ni gör. Vi samlar in och bygger en gipsmosaik till hösten! Öppet 12-16.',
+      'Skulpturgården öppen, möjligt att besöka vår nybyggda utomhusutställning. Workshopen ni tar med er hem! ”Mäktig mosaik 2020”. Bilder och tankar från våren 2020. Alla får vara med, vi bygger en gemensam gipsmosaik, var och en gör sin del hemma. Vi håller med färgade gipser som ni kan rista in era bilder i. Ni får med er en färgad gipsbit samt instruktioner om hur ni gör. Vi samlar in och bygger en gipsmosaik till hösten! Öppet 12-16.',
     ],
   },
   {
     date: 'Söndag 17 maj',
     texts: [
-      'Öppen gård och ”Mäktig mosaik 2020” Om möjligt; utställningen  ”Skissen och skulpturen”. 12-16',
+      'Skulpturgården öppen och ”Mäktig mosaik 2020” Om möjligt; utställningen  ”Skissen och skulpturen”. 12-16',
     ],
   },
   {
     date: 'Söndag 31 maj',
     texts: [
-      'Öppen gård och ”Mäktig mosaik 2020” Om möjligt; utställningen ”Skissen och skulpturen".',
+      'Skulpturgården öppen och ”Mäktig mosaik 2020” Om möjligt; utställningen ”Skissen och skulpturen".',
     ],
   },
   {
     date: 'Söndagen 7 juni',
     texts: [
-      'Öppen gård och ”Mäktig mosaik 2020” Om möjligt; utställningen ”Skissen och skulpturen”.',
+      'Skulpturgården öppen och ”Mäktig mosaik 2020” Om möjligt; utställningen ”Skissen och skulpturen”.',
     ],
   },
   {
     date: 'Söndagen 23 augusti',
-    texts: ['Vernissage för utställningen ”Ombord” och workshop i lera, 12-16'],
+    texts: [
+      'Vernissage för utställningen ”Ombord”, museet, ”Skissen och skulpturen” och ”Mäktig mosaik”. Skulpturgården öppen. Öppet 12-16.',
+    ],
   },
   {
     date: 'Söndag 30 augusti',
     texts: [
-      'Öppet Hus, utställningen ”Ombord”, muséet och musikfest, 12-19, program kommer senare.',
+      'Öppet Hus med utställningen ”Ombord”, museet, ”Skissen och skulpturen” och musikfest, ”Mäktig mosaik”. Skulpturgården öppen.',
+      'Program kommer senare, med reservation för ändringar.',
     ],
   },
   {
     date: 'Söndag 6 september',
     texts: [
-      'Öppet Hus, utställningen ”Ombord”, muséet och workshop i lera, 12-16',
+      'Öppet Hus med utställningen ”Ombord”, museet, ”Skissen och skulpturen” och ”Mäktig mosaik”. Skulpturgården öppen. Öppet 12-16.',
     ],
   },
   {
     date: 'Söndag 13 september',
     texts: [
-      'Öppet Hus, uställningen ”Ombord”, muséet och mosaik-workshop, 12-16',
+      'Öppet Hus med utställningen ”Ombord”, museet, ”Skissen och skulpturen” och ”Mäktig Mosaik”. Skulpturgården öppen. Öppet 12-16.',
     ],
   },
   {
     date: 'Söndag 20 september',
     texts: [
-      'Öppet Hus samt Finissage för utställningen ”Ombord” med grillning i höstluften och ler-workshop, 12-16',
+      'Öppet Hus samt Finissage med grillning i höstluften. Vi inviger ”Mäktig mosaik 2020” och sjösätter skeppen från utställningen ”Ombord”. Skulpturgården öppen. Öppet 12-16.',
     ],
   },
 ];
@@ -76,20 +79,12 @@ const Program = () => (
         </p>
         <p>
           Vi håller verkstan tillfälligt stängd pga coronakrisen men är redo att
-          öppna så snart restriktionerna lättar. Se vår hemsida där vi håller er
-          uppdaterade.
+          öppna så snart restriktionerna lättar. Vi kommer hålla er uppdaterade
+          på denna sida.
         </p>
         <p>
           När vi åter kan öppna visar vi utställningen ”Skissen och skulpturen”
           som handlar om den process som leder fram till ett offentligt verk.
-        </p>
-        <h3>Med anledning av coronakrisen:</h3>
-        <p>
-          <strong>
-            Vi reserverar oss för vissa ändringar eller anpassningar i
-            programmet och håller er uppdaterade för vad som gäller för varje
-            Öppet Hus. Håll ögonen öppna!
-          </strong>
         </p>
       </Section>
       <Section
