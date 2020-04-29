@@ -27,8 +27,7 @@ const StyledNav = styled.nav`
 `;
 
 const NavLink = styled.a`
-  color: ${({ active }) => (active ? copper : white)};
-  background: ${({ active }) => (active ? white : 'none')};
+  color: ${white};
   border-bottom: ${({ active }) => (active ? `2px solid ${white}` : 'none')};
   padding: 8px 16px;
   text-decoration: none;
