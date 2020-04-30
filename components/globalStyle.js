@@ -1,12 +1,12 @@
 import { createGlobalStyle } from 'styled-components';
 import Typography from 'typography';
-import { black, white, gold, copper } from '../colors';
+import { darkGreen, white, gold, copper } from '../colors';
 
 const typography = new Typography({
   baseFontSize: '18px',
   baseLineHeight: 1.666,
-  bodyColor: black,
-  headerFontFamily: ['Merriweather', 'sans-serif'],
+  bodyColor: darkGreen,
+  headerFontFamily: ['Montserrat', 'sans-serif'],
   bodyFontFamily: ['Helvetica Neue', 'sans-serif'],
 });
 
@@ -14,7 +14,7 @@ const GlobalStyle = createGlobalStyle`
   ${typography.toString()}
 
   html {
-    background-color: ${black};
+    background-color: ${darkGreen};
   }
 
   body {
@@ -23,8 +23,8 @@ const GlobalStyle = createGlobalStyle`
   }
 
   main {
-    color: ${black};
-    background-color: ${white};
+    color: ${white};
+    background-color: ${darkGreen};
     min-height: 80vh;
   }
 
@@ -46,9 +46,10 @@ const GlobalStyle = createGlobalStyle`
   p {
     max-width: 80ch;
   }
+  
 
-  h1 {
-    color: ${copper};
+  h1,h2,h3 {
+    color: ${gold};
   }
 `;
 

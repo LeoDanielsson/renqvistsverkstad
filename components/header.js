@@ -1,6 +1,6 @@
 import Nav from './nav';
 import styled from 'styled-components';
-import { white, black } from '../colors';
+import { white, darkGreen, black } from '../colors';
 import { medium } from '../breakpoints';
 import Link from 'next/link';
 
@@ -9,7 +9,7 @@ const StyledHeader = styled.header`
   flex-direction: column;
   align-items: center;
   padding: 24px 0;
-  background-color: ${black};
+  background-color: ${darkGreen};
   padding-bottom: 0;
 `;
 
@@ -18,7 +18,7 @@ const Logo = styled.a`
   text-align: center;
   cursor: pointer;
   color: ${white};
-  font-family: 'Merriweather';
+  font-family: 'Montserrat';
   line-height: 1;
   margin-bottom: 16px;
   @media (min-width: ${medium}) {

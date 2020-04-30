@@ -1,6 +1,6 @@
 import Layout from '../components/layout';
 import styled from 'styled-components';
-import { white, gold, black, copper, linen } from '../colors';
+import { white, gold, darkGreen, copper, linen } from '../colors';
 import { events } from './program';
 import Container from '../components/container';
 import Event from '../components/event';

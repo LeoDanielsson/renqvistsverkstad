@@ -11,7 +11,7 @@ const Layout = ({ title, children }) => (
       <title>Renqvists verkstad - {title}</title>
       <link rel='icon' href='/favicon.ico' />
       <link
-        href='https://fonts.googleapis.com/css?family=Merriweather'
+        href='https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Titillium+Web'
         rel='stylesheet'
       />
     </Head>

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import styled from 'styled-components';
-import { white, black, copper } from '../colors';
+import { white, darkGreen, copper } from '../colors';
 
 const links = [
   { href: '/', label: 'Hem' },
@@ -27,8 +27,7 @@ const StyledNav = styled.nav`
 `;
 
 const NavLink = styled.a`
-  color: ${({ active }) => (active ? copper : white)};
-  background: ${({ active }) => (active ? white : 'none')};
+  color: ${white};
   border-bottom: ${({ active }) => (active ? `2px solid ${white}` : 'none')};
   padding: 8px 16px;
   text-decoration: none;
