@@ -1,11 +1,10 @@
 import Layout from '../components/layout';
 import styled from 'styled-components';
 import { white, gold, darkGreen, copper, linen } from '../colors';
-import { events } from './program';
 import Container from '../components/container';
-import Event from '../components/event';
 import Link from 'next/link';
 import { large, medium } from '../breakpoints';
+import CtaLink from '../components/ctaLink';
 
 const Hero = styled.div`
   height: 80vh;
@@ -57,21 +56,6 @@ const HeroContent = styled.div`
   }
 `;
 
-const CtaLink = styled.a`
-  display: inline-flex;
-  align-items: center;
-  color: ${white};
-  cursor: pointer;
-  text-align: right;
-  padding: 8px 0;
-  line-height: 1;
-  border-bottom: 1px solid ${white};
-  &:hover {
-    color: ${gold};
-    border-color: ${gold};
-  }
-`;
-
 const Home = () => (
   <Layout title='Hem'>
     <Hero>
@@ -80,21 +64,9 @@ const Home = () => (
           <p>Föreningen Renqvists verkstad presenterar</p>
           <h1>Skulptörens verkstad</h1>
           <p>Ett museum för skulptörens alla hantverk</p>
-          <Link href='/program'>
-            <CtaLink>
-              Se vårt program{' '}
-              <svg
-                xmlns='http://www.w3.org/2000/svg'
-                viewBox='0 0 24 24'
-                fill='currentcolor'
-                width='1em'
-                height='1em'
-              >
-                <path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z' />
-                <path d='M0 0h24v24H0z' fill='none' />
-              </svg>
-            </CtaLink>
-          </Link>
+          <CtaLink href='/program' inverted>
+            Se vårt program
+          </CtaLink>
         </Container>
       </HeroContent>
     </Hero>

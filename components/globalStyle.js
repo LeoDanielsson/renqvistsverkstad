@@ -43,6 +43,10 @@ const GlobalStyle = createGlobalStyle`
     color: ${gold};
   }
 
+  a:hover {
+    color: ${white}
+  }
+
   p {
     max-width: 80ch;
   }

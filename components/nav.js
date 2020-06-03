@@ -6,6 +6,7 @@ import { white, darkGreen, copper } from '../colors';
 const links = [
   { href: '/', label: 'Hem' },
   { href: '/program', label: 'Program' },
+  { href: '/utstallningar', label: 'Utställningar' },
   { href: '/om-oss', label: 'Om oss' },
   { href: '/kontakt', label: 'Kontakt' },
 ];
