@@ -5,7 +5,7 @@ import CtaLink from './ctaLink';
 
 const StyledSection = styled.section`
   display: grid;
-  grid-column-gap: 32px;
+  grid-gap: 32px;
   margin-bottom: 32px;
   @media (min-width: ${medium}) {
     grid-template-columns: 3fr 2fr;
