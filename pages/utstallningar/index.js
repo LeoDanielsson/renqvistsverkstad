@@ -6,6 +6,7 @@ import Link from 'next/link';
 const Exhibitions = () => (
   <Layout>
     <Container>
+      <h1>Utställningar</h1>
       <Section
         title='Välkommen till Skulptörens verkstads nya gårdsutställning!'
         image='/images/gardsutstallning1.jpg'

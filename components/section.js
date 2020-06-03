@@ -5,10 +5,10 @@ import CtaLink from './ctaLink';
 
 const StyledSection = styled.section`
   display: grid;
-  grid-gap: 32px;
+  grid-column-gap: 32px;
   margin-bottom: 32px;
   @media (min-width: ${medium}) {
-    grid-template-columns: 3fr 2fr;
+    grid-template-columns: 1fr 1fr;
   }
 `;
 
@@ -21,19 +21,23 @@ const Header = styled.h2`
   }
 `;
 
+const Text = styled.div`
+  margin-bottom: 16px;
+`;
+
 const Section = ({ title, image, children, link }) => (
   <StyledSection>
     {title && (
       <Header>{link ? <Link href={link}>{title}</Link> : title}</Header>
     )}
-    <div>
+    <Text>
       {children}{' '}
       {link && (
         <CtaLink href={link}>
           <a>Klicka för att läsa mer</a>
         </CtaLink>
       )}
-    </div>
+    </Text>
     {image &&
       (link ? (
         <Link href={link}>
