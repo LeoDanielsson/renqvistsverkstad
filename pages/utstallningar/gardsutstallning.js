@@ -1,11 +1,20 @@
 import Layout from '../../components/layout';
 import Container from '../../components/container';
 import Section from '../../components/section';
+import YoutubeVideo from '../../components/youtubeVideo';
+import styled from 'styled-components';
+
+const Video = styled.div`
+  margin-bottom: 2rem;
+`;
 
 const Gardsutstallning = () => (
   <Layout>
     <Container>
       <h1>Välkommen till Skulptörens verkstads nya gårdsutställning!</h1>
+      <Video>
+        <YoutubeVideo youtubeId='6DcVjanD6Jk' />
+      </Video>
       <Section image='/images/gardsutstallning1.jpg'>
         <p>
           När Torsten Renqvist arbetade i verkstaden var gården en samlingsplats
