@@ -8,15 +8,15 @@ import CtaLink from '../components/ctaLink';
 
 const Hero = styled.div`
   height: 80vh;
-  overflow: hidden;
+  overflow: visible;
   position: relative;
-  display: flex;
-  justify-content: center;
+
   background-color: black;
   background-image: url('/images/gryta.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin-bottom: 20vw;
   @media (min-width: ${large}) {
     background-image: linear-gradient(
         to left,
@@ -30,46 +30,85 @@ const Hero = styled.div`
   }
 `;
 
-const HeroContent = styled.div`
+const HeroContent = styled(Container)`
   text-align: center;
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
+  color: ${white};
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: ${white};
-  font-size: 20px;
 
   h1 {
-    margin-top: 1.666rem;
-    font-size: 2.5em;
+    font-size: 1.5em;
     color: ${white};
   }
-  @media (min-width: ${medium}) {
-    padding-top: 2rem;
+
+  p {
+    text-align: center;
   }
+  padding-top: 1rem;
   @media (min-width: ${large}) {
-    padding-top: 4rem;
+    padding-top: 2rem;
+    margin: 0 8rem;
   }
+`;
+
+const PageContent = styled(Container)`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
+
+const YoutubeWrapper = styled.div`
+  position: relative;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+  width: 100%;
+`;
+
+const YouTube = styled.iframe`
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
 `;
 
 const Home = () => (
   <Layout title='Hem'>
     <Hero>
       <HeroContent>
-        <Container>
-          <p>Föreningen Renqvists verkstad presenterar</p>
-          <h1>Skulptörens verkstad</h1>
-          <p>Ett museum för skulptörens alla hantverk</p>
-          <CtaLink href='/program' inverted>
-            Se vårt program
+        <h1>Skulptörens verkstad</h1>
+        <p>Ett museum för skulptörens alla hantverk</p>
+        <p>
+          <strong>Aktuell gårdsuställning</strong> med Bo Andersson, Lotta
+          Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Torsten Renqvist,
+          Yemesi Wilson och Bitte Jonason Åkerlund.
+        </p>
+        <p>
+          <CtaLink inverted href='/utstallningar/gardsutstallning'>
+            Läs mer om utställningen
           </CtaLink>
-        </Container>
+        </p>
+        <YoutubeWrapper>
+          <YouTube
+            src='https://www.youtube.com/embed/6DcVjanD6Jk'
+            frameborder='0'
+            allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'
+            allowfullscreen
+            modestbranding
+            rel='0'
+            autoplay='1'
+          />
+        </YoutubeWrapper>
       </HeroContent>
     </Hero>
+    <PageContent></PageContent>
   </Layout>
 );
 
