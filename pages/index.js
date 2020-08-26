@@ -64,23 +64,21 @@ const PageContent = styled(Container)`
   align-items: center;
 `;
 
+const Poster = styled.div`
+  max-width: 600px;
+`;
+
 const Home = () => (
-  <Layout title='Hem'>
+  <Layout title="Hem">
     <Hero>
       <HeroContent>
         <h1>Skulptörens verkstad</h1>
         <p>Ett museum för skulptörens alla hantverk</p>
-        <p>
-          <strong>Aktuell gårdsuställning</strong> med Bo Andersson, Lotta
-          Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Torsten Renqvist,
-          Yemesi Wilson och Bitte Jonason Åkerlund.
-        </p>
-        <p>
-          <CtaLink inverted href='/utstallningar/gardsutstallning'>
-            Läs mer om utställningen
-          </CtaLink>
-        </p>
-        <YoutubeVideo youtubeId='6DcVjanD6Jk' />
+        <Poster>
+          <a href="/images/Ombord-2020.jpg" target="_blank">
+            <img src="/images/Ombord-2020.jpg" />
+          </a>
+        </Poster>
       </HeroContent>
     </Hero>
     <PageContent></PageContent>
