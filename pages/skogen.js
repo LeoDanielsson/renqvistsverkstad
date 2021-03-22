@@ -11,15 +11,12 @@ const Background = styled.div`
   bottom: 0;
   left: 0;
   min-height: 100vh;
-  background-image: url('/images/mossigskog_mob.jpg');
+  background-image: url('/images/mossigskog_desk.jpg');
   background-position: center;
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
-  @media (min-width: ${medium}) {
-    background-image: url('/images/mossigskog_desk.jpg');
-  }
   @media (min-width: ${large}) {
     background-image: url('/images/mossigskog_xl.jpg');
   }
