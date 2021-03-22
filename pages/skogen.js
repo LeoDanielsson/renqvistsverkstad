@@ -13,6 +13,7 @@ const Background = styled.div`
   min-height: 100vh;
   background-image: url('/images/mossigskog.jpg');
   background-position: center;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
