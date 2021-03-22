@@ -8,7 +8,8 @@ const StyledSection = styled.section`
   grid-column-gap: 32px;
   margin-bottom: 32px;
   @media (min-width: ${medium}) {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: ${({ fullWidth }) =>
+      fullWidth ? '1fr' : '3fr 2fr'};
   }
 `;
 
@@ -26,7 +27,7 @@ const Text = styled.div`
 `;
 
 const Section = ({ title, image, children, link }) => (
-  <StyledSection>
+  <StyledSection fullWidth={!image}>
     {title && (
       <Header>{link ? <Link href={link}>{title}</Link> : title}</Header>
     )}
@@ -42,11 +43,11 @@ const Section = ({ title, image, children, link }) => (
       (link ? (
         <Link href={link}>
           <a>
-            <img src={image} alt='' />
+            <img src={image} alt="" />
           </a>
         </Link>
       ) : (
-        <img src={image} alt='' />
+        <img src={image} alt="" />
       ))}
   </StyledSection>
 );

@@ -14,12 +14,16 @@ export const EventDate = styled.time`
   color: ${gold};
 `;
 
-const Event = ({ date, texts }) => (
+const Title = styled.h3``;
+
+const Event = ({ title, date, texts, children }) => (
   <Wrapper>
-    <EventDate>{date}</EventDate>
-    {texts.map((text, i) => (
+    {title && <h3>{title}</h3>}
+    {date && <EventDate>{date}</EventDate>}
+    {texts?.map((text, i) => (
       <p key={i}>{text}</p>
     ))}
+    {children}
   </Wrapper>
 );
 

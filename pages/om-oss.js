@@ -3,10 +3,10 @@ import Container from '../components/container';
 import Section from '../components/section';
 
 const About = () => (
-  <Layout title='Om oss'>
+  <Layout title="Om oss">
     <Container>
       <h1>Om Renqvists verkstad</h1>
-      <Section image='/images/verkstad.jpg'>
+      <Section image="/images/verkstad.jpg">
         <p>
           I vackra Kummelnäs i Nacka i skulptören Torsten Renqvists verkstad,
           finns ett litet museum över skulptörens alla hantverk.
@@ -44,18 +44,17 @@ const About = () => (
           I verkstaden visas också en skulpturutställning som är ett resultat av
           de olika material och tekniker som presenteras.
         </p>
+        <p>
+          Gruppens medlemmar är Bo Andersson, Lotta Enocsson, Mats Eriksson,
+          Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund,
+          Ingegerd Lohland, Anna-Lena Renqvist, Mats Åberg, Erik Åkerlund
+        </p>
       </Section>
-      <Section title='Föreningen' image='/images/lotta.jpg'>
+      <Section title="Föreningen" image="/images/lotta.jpg">
         <p>
           Det är föreningen Renqvists Verkstad som ligger bakom idé och
           uppförande, föreningens medlemmar visar även sin konst i
           skulpturutställningarna.
-        </p>
-        <p>
-          Föreningsmedlemmar är Bo Andersson, Lotta Enocsson, Mats Eriksson,
-          Annika Heed, Dina Hviid, Anders Jansson, Ingegerd Lohland, Bitte
-          Jonasson Åkerlund, Mats Åberg och Erik Åkerlund samt Anna-Lena
-          Renqvist.
         </p>
         <h3>Torsten Renqvist-sällskapet</h3>
         <p>
@@ -67,10 +66,61 @@ const About = () => (
           samman.
         </p>
         <p>
-          <a href='http://www.torstenrenqvist.se'>www.torstenrenqvist.se</a>
+          <a href="http://www.torstenrenqvist.se">www.torstenrenqvist.se</a>
         </p>
       </Section>
-      <Section title='Besök oss' image='/images/hastar.jpg'>
+      <Section title="Historik">
+        <p>
+          Föreningen Renqvists verkstad bildades 2011. Gruppen består av 11
+          konstnärer som på ett eller annat vis har en anknytning till Torsten
+          Renqvists konstnärskap och där alla är skulptörer utom Anna-Lena
+          Renqvist, dotter till Torsten, som är filosof.
+        </p>
+        <p>
+          Torsten Renqvist hade uttryckt en önskan att verkstaden skulle
+          fortsätta vara en plats för konstnärligt skapande och på det byggde vi
+          vidare. Gruppen startade med att gjuta egna skulpturer i brons i det
+          bronsgjuteri som fanns på gården.
+        </p>
+        <p>
+          Verkstaden som går under namnet ”Skulptörens verkstad” öppnade för
+          allmänheten 2012. Vid verkstaden visades utställningar, genomfördes
+          workshops för blandade åldrar och brons gjöts inför publik på
+          ”Bronsgjutarfestivalen”.
+        </p>
+        <p>
+          Sedan ett antal år drivs verkstaden med verksamhetsbidrag från Nacka
+          kommun.
+        </p>
+        <p>
+          Många utställningar och projekts har genomförts i verkstaden som nu
+          även är ett museum för skulptörens alla hantverk. Här visas olika
+          material och skulpturala tekniker och visas filmer om skulptörer och
+          skulpturalt arbete.
+        </p>
+        <p>
+          Medlemmarna i gruppen genomför även utställningar och projekt som har
+          anknytning till Skulptörens verkstad ute i landet.
+        </p>
+        <p>
+          Den röda tråden är att ge kunskap om skulpturkonsten och att öppna
+          verksamheten för både barn och vuxna. Verksamheten månar om att hålla
+          gamla kunskaper levande som kan länkas till vår samtid och skapa
+          tillgång till den glädje konsten ger.
+        </p>
+        <h3>Utställare i Skulptörens verkstad</h3>
+        <p>
+          Evert Lindfors, Torsten Renqvist, Asmund Arle, Tomas Qvarsebo, Lena
+          Lervik, Kajsa Mattas, Rune Rudelius, Siri Derkert, Lars Erik Falk,
+          Mats Åberg, Marilyn Gierow, Eva Fornåå, Bitte Jonasson Åkerlund,
+          Jörgen Hammar, Jörgen Martinsson, Ulf Lorenzon, Linnea Jörpeland,
+          Kicki Bergkvist, Selder Bo Andersson, Barbro Hedström, Filippa von
+          Krusenstierna, Mats Eriksson, Annika Heed, Lotta Enocsson, Erik
+          Åkerlund, Ingegerd Lohland, Anders Jansson, Dina Hviid, Harry Modin,
+          Katinka Andersson, Sophie Andersson, Lars Brunström
+        </p>
+      </Section>
+      <Section title="Besök oss" image="/images/hastar.jpg">
         <p>
           I anslutning till en visning i verkstan går det även bra att boka en
           visning i Torsten Renqvists ateljé.
