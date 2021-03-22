@@ -11,12 +11,18 @@ const Background = styled.div`
   bottom: 0;
   left: 0;
   min-height: 100vh;
-  background-image: url('/images/mossigskog.jpg');
+  background-image: url('/images/mossigskog_mob.jpg');
   background-position: center;
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
+  @media (min-width: ${medium}) {
+    background-image: url('/images/mossigskog_desk.jpg');
+  }
+  @media (min-width: ${large}) {
+    background-image: url('/images/mossigskog_xl.jpg');
+  }
 `;
 
 const Container = styled.div`
@@ -32,7 +38,7 @@ const Title = styled.h1`
   color: #eee;
   font-family: 'Segoe UI', sans-serif;
   font-weight: 400;
-  font-size: 40px;
+  font-size: 9vw;
   text-transform: uppercase;
   margin: 30vh 8px;
   text-shadow: 4px 4px rgba(0, 0, 0, 0.5);
