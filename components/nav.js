@@ -9,6 +9,7 @@ const links = [
   { href: '/utstallningar', label: 'Utställningar' },
   { href: '/om-oss', label: 'Om oss' },
   { href: '/kontakt', label: 'Kontakt' },
+  { href: '/skogen', label: 'Skulpturskogen Ed' },
 ];
 
 const StyledNav = styled.nav`
