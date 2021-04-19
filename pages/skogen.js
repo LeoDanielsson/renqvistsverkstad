@@ -99,9 +99,10 @@ export default function Skogen() {
             </p>
             <ul>
               <li>
-                Kl 13.00 Inviger Kulturnämndens ordförande Andrea Möllerberg
-                Skulpturskogen Ed och Susanne Schmidt, grundare till Villa Ed
-                hälsar er välkommen in!
+                Skulpturskogen Ed är en skulpturpark i en skog som ligger mitt i
+                ett vackert kulturlandskap i Upplands Väsby, intill Villa Ed.
+                Konsten hänger samman med skogen men också med landskapet
+                runtomkring. Arrangör Kulturföreningen Källaren.
               </li>
               <li>
                 Medverkande konstnärer är: Bo Andersson, Katinka Andersson, Åsa
