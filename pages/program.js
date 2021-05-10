@@ -5,7 +5,7 @@ import Section from '../components/section';
 
 export const springEvents = [
   {
-    date: 'Lördag 22 maj (OBS! Lördag istället för söndag)',
+    date: 'Lördag 23 maj',
     texts: [
       'Öppet Hus',
       'Öppning av utbyggda Skulpturgården! Skulptur-frågelek, muséet och workshop med ler-djur till båten ”Ombord” Visning av muséet kl 13 och Torsten Renqvists ateljé kl 14.',
