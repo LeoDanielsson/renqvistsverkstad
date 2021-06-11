@@ -1,14 +1,15 @@
 import Layout from '../components/layout';
 import styled from 'styled-components';
-import { white, gold, darkGreen, copper, linen } from '../colors';
+import { white } from '../colors';
 import Container from '../components/container';
-import Link from 'next/link';
 import { large, medium } from '../breakpoints';
 import CtaLink from '../components/ctaLink';
 
+const poster = '/images/workshop-sommar-2021.jpg';
+
 const Hero = styled.div`
   height: 80vh;
-  overflow: hidden;
+  overflow: ${poster ? 'visible' : 'hidden'};
   position: relative;
   display: flex;
   justify-content: center;
@@ -17,6 +18,7 @@ const Hero = styled.div`
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin-bottom: ${poster ? '20vw' : '0'};
   @media (min-width: ${large}) {
     background-image: linear-gradient(
         to left,
@@ -28,6 +30,10 @@ const Hero = styled.div`
       url('/images/gryta.jpg');
     background-size: 60%;
   }
+`;
+
+const Poster = styled.div`
+  max-width: 700px;
 `;
 
 const HeroContent = styled.div`
@@ -64,6 +70,13 @@ const Home = () => (
           <p>Föreningen Renqvists verkstad presenterar</p>
           <h1>Skulptörens verkstad</h1>
           <p>Ett museum för skulptörens alla hantverk</p>
+          {poster && (
+            <Poster>
+              <a href={poster} target="_blank">
+                <img src={poster} />
+              </a>  
+            </Poster>
+          )}
           <CtaLink href='/program' inverted>
             Se vårt program
           </CtaLink>
