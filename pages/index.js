@@ -4,6 +4,7 @@ import { white } from '../colors';
 import Container from '../components/container';
 import { large, medium } from '../breakpoints';
 import CtaLink from '../components/ctaLink';
+import Poster from '../components/poster';
 
 const poster = '/images/workshop-sommar-2021.jpg';
 
@@ -32,9 +33,7 @@ const Hero = styled.div`
   }
 `;
 
-const Poster = styled.div`
-  max-width: 700px;
-`;
+
 
 const HeroContent = styled.div`
   text-align: center;
@@ -71,11 +70,7 @@ const Home = () => (
           <h1>Skulptörens verkstad</h1>
           <p>Ett museum för skulptörens alla hantverk</p>
           {poster && (
-            <Poster>
-              <a href={poster} target="_blank">
-                <img src={poster} />
-              </a>  
-            </Poster>
+            <Poster url={poster} />
           )}
           <CtaLink href='/program' inverted>
             Se vårt program

@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { large, medium } from '../breakpoints';
 import { gold } from '../colors';
 import GlobalStyle from '../components/globalStyle';
+import Poster from '../components/poster';
 
 const Background = styled.div`
   position: fixed;
@@ -89,65 +90,7 @@ export default function Skogen() {
         <Background />
         <Container>
           <Title>Skulpturskogen Ed</Title>
-          <Card>
-            <h2>Öppning av Skulpturskogen Ed - lördagen 24 april kl 12-16!</h2>
-            <Ingress>En ny konstupplevelse i Upplands Väsby!</Ingress>
-            <p>
-              Kl 13.00 Inviger Kulturnämndens ordförande Andrea Möllerberg
-              Skulpturskogen Ed och Susanne Schmidt, grundare till Villa Ed
-              hälsar er välkommen in!
-            </p>
-            <ul>
-              <li>
-                Skulpturskogen Ed är en skulpturpark i en skog som ligger mitt i
-                ett vackert kulturlandskap i Upplands Väsby, intill Villa Ed.
-                Konsten hänger samman med skogen men också med landskapet
-                runtomkring. Arrangör Kulturföreningen Källaren.
-              </li>
-              <li>
-                Medverkande konstnärer är: Bo Andersson, Katinka Andersson, Åsa
-                Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von
-                Krusenstjerna, Sophi Vejrich och Hélène Vejrich.
-              </li>
-              <li>
-                Musik från Stockholm Sangeet Festival vars premiär-program för i
-                år kan höras vid Skulpturskogen Eds invigning. Öppningen av
-                Skulpturskogen binds på så sätt samman med den två dagar långa
-                festivalen 24-25 april. Medverkande är Dr Arun Venkitaraman
-                (fiol), Suranjana Ghosh (tabla), Stian Grimstad (sitar), Pauline
-                Rebell och Ulrika Larsen (röst) samt gruppen Palace On Wheels.
-              </li>
-              <li>
-                Villa Ed är en gammal vacker villa som idag omformats till en
-                unik handels och mötesplats. Utforska Villa Ed och besök gärna
-                Café & Bistro Villa ed!
-              </li>
-              <li>
-                Invigningserbjudande från Café & Bistro Villa Ed: Hummersoppa
-                med handskalade räkor och ett glas cava 159:-!
-              </li>
-              <li>
-                Vandringsleden ”Upplevelsestråket” ligger alldeles i närheten
-                för en promenad.
-              </li>
-              <p>
-                Varmt Välkomna!
-                <br />
-                Kulturföreningen Källaren
-              </p>
-              <p>
-                För att följa rekommendationerna kan vi gå in i skogen i mindre
-                grupper om 8 personer med en stunds mellanrum. Skogen är lagom
-                stor för en promenad men vi ska ändå se till att hålla lite
-                avstånd.
-              </p>
-              <p>
-                Med stöd av Upplands Väsby kommun. <br />
-                Tack till Johan Curman, markägare, Bisslinge förvaltning AB och
-                Stockholm Sangeet Festival
-              </p>
-            </ul>
-          </Card>
+          <Poster url="/images/skulpturskogen-sommarworkshop.jpg" />
           <Card>
             <h2>SKULPTURSKOGEN ED</h2>
             <Ingress>
