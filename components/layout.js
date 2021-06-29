@@ -14,6 +14,7 @@ const Layout = ({ title, children }) => (
         href='https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Titillium+Web'
         rel='stylesheet'
       />
+      <script src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
     </Head>
     <Header />
     <main>{children}</main>
