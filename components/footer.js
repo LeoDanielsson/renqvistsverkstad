@@ -1,6 +1,7 @@
 import Container from './container';
 import styled from 'styled-components';
 import { white } from '../colors';
+import { medium } from '../breakpoints';
 
 const Wrapper = styled.footer`
   color: ${white};
@@ -9,9 +10,21 @@ const Wrapper = styled.footer`
   }
 `;
 
+const FooterContent = styled(Container)`
+  @media (min-width: ${medium}) {
+  display: flex;
+  justify-content: space-between;
+  }
+`
+
+const NackaLogo = styled.img`
+  display: block;
+  max-width: 300px;
+`
+
 const Footer = () => (
   <Wrapper>
-    <Container>
+    <FooterContent>
       <address>
         <p>
           Renqvists Verkstad
@@ -29,7 +42,11 @@ const Footer = () => (
           Telefon: <a href='tel:+46738262254'>073 826 22 54</a>
         </p>
       </address>
-    </Container>
+      <div>
+        Med stöd av Nacka kommun
+        <a href="https://www.nacka.se/" target="_blank"><NackaLogo src='/images/nacka_logo1.webp' /></a>
+      </div>
+    </FooterContent>
   </Wrapper>
 );
 
