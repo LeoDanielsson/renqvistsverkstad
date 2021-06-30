@@ -9,7 +9,7 @@ import Poster from '../components/poster';
 const poster = '/images/workshop-sommar-2021.jpg';
 
 const Hero = styled.div`
-  height: 80vh;
+  height: ${ poster ? 'auto' : '80vh' } ;
   overflow: ${poster ? 'visible' : 'hidden'};
   position: relative;
   display: flex;
@@ -19,7 +19,6 @@ const Hero = styled.div`
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  margin-bottom: ${poster ? '20vw' : '0'};
   @media (min-width: ${large}) {
     background-image: linear-gradient(
         to left,
@@ -37,7 +36,7 @@ const Hero = styled.div`
 
 const HeroContent = styled.div`
   text-align: center;
-  position: absolute;
+  position: ${poster ? 'relative' : 'absolute' };
   top: 0;
   right: 0;
   bottom: 0;
@@ -54,13 +53,17 @@ const HeroContent = styled.div`
     color: ${white};
   }
   @media (min-width: ${medium}) {
-    padding-top: 2rem;
+    padding: 2rem 0;
   }
   @media (min-width: ${large}) {
-    padding-top: 4rem;
+    padding: 4rem 0;
   }
 `;
 
+const PosterContainer = styled(Container)`
+  display: flex;
+  justify-content: center;
+`
 const Home = () => (
   <Layout title='Hem'>
     <Hero>
@@ -69,15 +72,18 @@ const Home = () => (
           <p>Föreningen Renqvists verkstad presenterar</p>
           <h1>Skulptörens verkstad</h1>
           <p>Ett museum för skulptörens alla hantverk</p>
-          {poster && (
-            <Poster url={poster} />
-          )}
+         
           <CtaLink href='/program' inverted>
             Se vårt program
           </CtaLink>
         </Container>
       </HeroContent>
     </Hero>
+    <PosterContainer>
+    {poster && (
+            <Poster url={poster} />
+          )}
+    </PosterContainer>
   </Layout>
 );
 
