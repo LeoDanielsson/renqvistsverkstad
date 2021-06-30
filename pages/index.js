@@ -81,8 +81,8 @@ const Home = () => (
     </Hero>
     <PosterContainer>
     {poster && (
-            <Poster url={poster} />
-          )}
+      <Poster url={poster} />
+    )}
     </PosterContainer>
   </Layout>
 );
