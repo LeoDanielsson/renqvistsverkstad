@@ -17,7 +17,7 @@ collections:
           - { label: Efter rubrik, name: postTitle, widget: string }
           - { label: Affisch, name: poster, widget: image }
       - label: Program
-        name: Program
+        name: program
         file: content/pages/program.md
         fields:
           - { label: Rubrik, name: title, widget: string }
@@ -25,6 +25,33 @@ collections:
             name: sections
             widget: list
             fields:
-              - { label: Rubrik, name: title, widget: string }
+              - { label: Rubrik, name: title, widget: string, required: false }
               - { label: Text, name: body, widget: markdown }
               - { label: Bild, name: image, widget: image }
+      - label: Om oss
+        name: about
+        file: content/pages/about.md
+        fields:
+          - { label: Rubrik, name: title, widget: string }
+          - label: Sektioner
+            name: sections
+            widget: list
+            fields:
+              - { label: Rubrik, name: title, widget: string, required: false }
+              - { label: Text, name: body, widget: markdown }
+              - { label: Bild, name: image, widget: image }
+      - label: Kontakt
+        name: contact
+        file: content/pages/contact.md
+        fields:
+          - { label: Rubrik, name: title, widget: string }
+          - { label: Text, name: text, widget: markdown }
+          - { label: Karta, name: map, widget: image }
+  - name: events
+    label: Evenemang
+    folder: content/events
+    create: true
+    fields:
+      - { label: Titel, name: title, widget: string }
+      - { label: Datum, name: date, widget: date }
+      - { label: Text, name: text, widget: markdown }
