@@ -21,3 +21,10 @@ collections:
         file: content/pages/program.md
         fields:
           - { label: Rubrik, name: title, widget: string }
+          - label: Sektioner
+            name: sections
+            widget: list
+            fields:
+              - { label: Rubrik, name: title, widget: string }
+              - { label: Text, name: body, widget: markdown }
+              - { label: Bild, name: image, widget: image }
