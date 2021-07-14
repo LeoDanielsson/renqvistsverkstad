@@ -1,0 +1,48 @@
+html {
+  background-color: #03191e;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  color: #d9ddde;
+  background-color: #03191e;
+  min-height: 80vh;
+}
+
+button {
+  border: none;
+  background: none;
+  outline: none;
+  font-size: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #a8763e;
+}
+
+a:hover {
+  color: #d9ddde;
+}
+
+p {
+  max-width: 80ch;
+}
+
+h1,
+h2,
+h3 {
+  color: #a8763e;
+}
+
+img {
+  max-width: 500px;
+  display: inline;
+}
