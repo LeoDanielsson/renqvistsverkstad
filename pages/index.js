@@ -5,11 +5,12 @@ import Container from '../components/container';
 import { large, medium } from '../breakpoints';
 import CtaLink from '../components/ctaLink';
 import Poster from '../components/poster';
+import content from '../content/pages/startpage.md';
 
-const poster = '/images/workshop-sommar-2021.jpg';
+const poster = content.attributes.poster;
 
 const Hero = styled.div`
-  height: ${ poster ? 'auto' : '80vh' } ;
+  height: ${poster ? 'auto' : '80vh'};
   overflow: ${poster ? 'visible' : 'hidden'};
   position: relative;
   display: flex;
@@ -32,11 +33,9 @@ const Hero = styled.div`
   }
 `;
 
-
-
 const HeroContent = styled.div`
   text-align: center;
-  position: ${poster ? 'relative' : 'absolute' };
+  position: ${poster ? 'relative' : 'absolute'};
   top: 0;
   right: 0;
   bottom: 0;
@@ -63,27 +62,24 @@ const HeroContent = styled.div`
 const PosterContainer = styled(Container)`
   display: flex;
   justify-content: center;
-`
+`;
+
 const Home = () => (
-  <Layout title='Hem'>
+  <Layout title="Hem">
     <Hero>
       <HeroContent>
         <Container>
-          <p>Föreningen Renqvists verkstad presenterar</p>
-          <h1>Skulptörens verkstad</h1>
-          <p>Ett museum för skulptörens alla hantverk</p>
-         
-          <CtaLink href='/program' inverted>
+          <p>{content.attributes.preTitle}</p>
+          <h1>{content.attributes.title}</h1>
+          <p>{content.attributes.postTitle}</p>
+
+          <CtaLink href="/program" inverted>
             Se vårt program
           </CtaLink>
         </Container>
       </HeroContent>
     </Hero>
-    <PosterContainer>
-    {poster && (
-      <Poster url={poster} />
-    )}
-    </PosterContainer>
+    <PosterContainer>{poster && <Poster url={poster} />}</PosterContainer>
   </Layout>
 );
 

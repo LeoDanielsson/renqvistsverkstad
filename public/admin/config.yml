@@ -6,7 +6,7 @@ media_folder: public/images/uploads
 public_folder: /images/uploads
 collections:
   - name: pages
-    label: Page
+    label: Sidor
     files:
       - label: Startsida
         name: startpage
@@ -16,3 +16,8 @@ collections:
           - { label: Rubrik, name: title, widget: string }
           - { label: Efter rubrik, name: postTitle, widget: string }
           - { label: Affisch, name: poster, widget: image }
+      - label: Program
+        name: Program
+        file: content/pages/program.md
+        fields:
+          - { label: Rubrik, name: title, widget: string }
