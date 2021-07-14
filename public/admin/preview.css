@@ -5,12 +5,10 @@ html {
 body {
   margin: 0;
   padding: 0;
-}
-
-main {
+  font-size: 18px;
+  font-family: 'Helvetica Neue';
   color: #d9ddde;
   background-color: #03191e;
-  min-height: 80vh;
 }
 
 button {
@@ -36,10 +34,37 @@ p {
   max-width: 80ch;
 }
 
-h1,
-h2,
+h1 {
+  color: #a8763e;
+  margin: 0px 0px 1.666rem;
+  padding: 0px;
+  color: inherit;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-rendering: optimizelegibility;
+  font-size: 2rem;
+  line-height: 1.1;
+}
+
+h2 {
+  color: #a8763e;
+  margin: 0px 0px 1.666rem;
+  padding: 0px;
+  color: inherit;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-rendering: optimizelegibility;
+  font-size: 1.51572rem;
+  line-height: 1.1;
+}
+
 h3 {
   color: #a8763e;
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+  margin-bottom: 8px;
+  margin-top: 8px;
+  font-weight: bolder;
 }
 
 img {
