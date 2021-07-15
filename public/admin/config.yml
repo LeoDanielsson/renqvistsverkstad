@@ -1,4 +1,4 @@
-site_url: https://quirky-brahmagupta-52c82c.netlify.com
+site_url: https://www.renqvistsverkstad.se
 backend:
   name: git-gateway
   branch: master
@@ -54,7 +54,6 @@ collections:
     create: true
     fields:
       - { label: Titel, name: title, widget: string }
-      - { label: Bild, name: image, widget: image }
       - { label: Youtubefilm, name: youtubeUrl, widget: string }
       - label: Sektioner
         name: sections
