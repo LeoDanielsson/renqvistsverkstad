@@ -55,6 +55,11 @@ const GlobalStyle = createGlobalStyle`
   h1,h2,h3 {
     color: ${gold};
   }
+
+  h3 {
+    font-size: 1rem;
+    text-transform: uppercase;
+  }
 `;
 
 export default GlobalStyle;

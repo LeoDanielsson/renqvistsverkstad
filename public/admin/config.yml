@@ -48,15 +48,6 @@ collections:
           - { label: Rubrik, name: title, widget: string }
           - { label: Text, name: text, widget: markdown }
           - { label: Karta, name: map, widget: image }
-  - name: events
-    label: Program
-    folder: content/events
-    create: true
-    slug: '{{slug}}-{{date}}'
-    fields:
-      - { label: Titel, name: title, widget: string }
-      - { label: Datum, name: date, widget: date }
-      - { label: Text, name: text, widget: markdown }
   - name: exhibitions
     label: Utställningar
     folder: content/exhibitions
