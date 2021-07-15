@@ -248,5 +248,5 @@ sections:
 
 
       Lärare Annika Heed + Mats Eriksson
-    image: http://localhost:3000/images/workshop1.jpg
+    image: ""
 ---
