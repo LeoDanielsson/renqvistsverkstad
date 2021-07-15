@@ -54,7 +54,12 @@ collections:
     create: true
     fields:
       - { label: Titel, name: title, widget: string }
-      - { label: Youtubefilm, name: youtubeUrl, widget: string }
+      - {
+          label: Youtubefilm,
+          name: youtubeUrl,
+          widget: string,
+          required: false,
+        }
       - label: Sektioner
         name: sections
         widget: list

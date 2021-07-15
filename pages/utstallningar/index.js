@@ -8,9 +8,9 @@ const Exhibitions = () => (
     <Container>
       <h1>Utställningar</h1>
       <Section
-        title='Välkommen till Skulptörens verkstads nya gårdsutställning!'
-        image='/images/gardsutstallning1.jpg'
-        link='/utstallningar/gardsutstallning'
+        title="Välkommen till Skulptörens verkstads nya gårdsutställning!"
+        image="/images/gardsutstallning1.jpg"
+        link="/utstallningar/gardsutstallning"
       >
         <p>
           När Torsten Renqvist arbetade i verkstaden var gården en samlingsplats
@@ -28,9 +28,9 @@ const Exhibitions = () => (
         </p>
       </Section>
       <Section
-        title='Skissen och skulpturen'
-        image='/images/skissen1.jpg'
-        link='/utstallningar/skissen-och-skulpturen'
+        title="Skissen och skulpturen"
+        image="/images/skissen1.jpg"
+        link="/utstallningar/skissen-och-skulpturen"
       >
         <p>
           Skulptörens verkstad presenterar vårens utställning ”Skissen och
