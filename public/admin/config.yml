@@ -28,7 +28,7 @@ collections:
             fields:
               - { label: Rubrik, name: title, widget: string, required: false }
               - { label: Text, name: body, widget: markdown }
-              - { label: Bild, name: image, widget: image }
+              - { label: Bild, name: image, widget: image, required: false }
       - label: Om oss
         name: about
         file: content/pages/about.md
@@ -40,7 +40,7 @@ collections:
             fields:
               - { label: Rubrik, name: title, widget: string, required: false }
               - { label: Text, name: body, widget: markdown }
-              - { label: Bild, name: image, widget: image }
+              - { label: Bild, name: image, widget: image, required: false }
       - label: Kontakt
         name: contact
         file: content/pages/contact.md
@@ -71,4 +71,4 @@ collections:
         fields:
           - { label: Rubrik, name: title, widget: string, required: false }
           - { label: Text, name: body, widget: markdown }
-          - { label: Bild, name: image, widget: image }
+          - { label: Bild, name: image, widget: image, required: false }
