@@ -4,7 +4,7 @@ backend:
   branch: master
 media_folder: public/images
 public_folder: /images
-locale: se
+locale: sv
 collections:
   - name: pages
     label: Sidor
