@@ -1,6 +1,6 @@
 ---
 title: Skissen och skulpturen
-youtubeUrl: a
+youtubeUrl: ""
 sections:
   - body: >-
       Skulptörens verkstad presenterar vårens utställning ”Skissen och
