@@ -9,12 +9,12 @@ const Layout = ({ title, children }) => (
     <GlobalStyle />
     <Head>
       <title>Renqvists verkstad - {title}</title>
-      <link rel='icon' href='/favicon.ico' />
+      <link rel="icon" href="/favicon.ico" />
       <link
-        href='https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Titillium+Web'
-        rel='stylesheet'
+        href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Titillium+Web"
+        rel="stylesheet"
       />
-      <script src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
+      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </Head>
     <Header />
     <main>{children}</main>
