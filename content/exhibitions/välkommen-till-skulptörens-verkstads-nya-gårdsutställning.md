@@ -1,6 +1,6 @@
 ---
 title: Välkommen till Skulptörens verkstads nya gårdsutställning!
-youtubeUrl: https://youtu.be/6DcVjanD6Jk
+youtubeUrl: 6DcVjanD6Jk
 sections:
   - body: >-
       När Torsten Renqvist arbetade i verkstaden var gården en samlingsplats för
