@@ -54,6 +54,7 @@ collections:
     create: true
     fields:
       - { label: Titel, name: title, widget: string }
+      - { label: Ordning, name: order, widget: number }
       - {
           label: Youtubefilm,
           name: youtubeUrl,
