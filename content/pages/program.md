@@ -1,93 +1,49 @@
 ---
 title: Program
 sections:
-  - body: >-
-      Nu satsar vi på vår nya skulpturgård, ni kan vandra runt och se vår
-      utställning i friska luften.
+  - title: Demokratisamtal med Stina Oscarson
+    body: >-
+      Demokrati och konstnärskap
 
 
-      I verkstaden går vi in rekommenderat antal personer i taget, beroende på hur läget ser ut i samhället.
+      Med anledning av Demokratiåret har Skulptörens verkstad bjudit Stina Oscarsson för att tala om konstnärsskap och demokrati. Moderator Anders Bäckström.
 
 
-      På söndagar håller vi Öppet Hus i Skulptörens verkstad mellan kl 12.00 -16.00! Vi visar då verkstaden med sin fasta skulpturutställning och hantverksstationer och håller workshop på gården utanför. Vi fortsätter i vår med att förse arken med djur i lera och till hösten bygger vi vår gemensamma stuckaturvägg ”Alhambra”!
+      Hur fungerar demokratin inom kulturen för konstnärliga utövare .
 
 
-      Vi reserverar oss för vissa ändringar eller anpassningar i programmet pga coronakrisen och håller er uppdaterade på hemsidan för vad som gäller för varje Öppet Hus. Håll ögonen öppna!
-    image: https://www.renqvistsverkstad.se/images/workshop1.jpg
-    title: ""
-  - body: >-
-      ### Söndag 23 maj
+      Hur fri står konsten i Sverige idag?
 
 
-      Öppet Hus
+      Måste konst vara lönsam, och vem ska annars finansiera den?
 
 
-      Öppning av utbyggda Skulpturgården! Skulptur-frågelek, muséet och workshop med ler-djur till båten ”Ombord” Visning av muséet kl 13 och Torsten Renqvists ateljé kl 14.
+      Har politikerna rätt att styra det konstnärliga innehållet?
 
 
-      Öppet 12-16
+      Vad händer om den politiska agendan förändras?
 
 
-      ### Lördag 29 maj
+      Behöver vi konst, vem behöver konst och gör det oss till bättre människor?
 
 
-      Öppet Hus
+      Många är frågorna och vi ser fram emot en spännande kväll. Stina Oscarson är regissör, dramatiker/författare och känd samhällsdebattör. Hon har vunnit ett flertal priser bl.a Eldh Ekblads fredspris, Stockholms stads folkbildningsstipendium 2015 och Bokmässans bildningsstipendium 2018. Stina har varit krönikör på Dagens Nyheter, ETC och SvD och är en uppmärksammad och engagerad röst i samhällsdebatten.
 
 
-      Skulptera en skalbagge i samarbete med Boo Miljö- och Naturvänner 10.30-15.30.
+      Moderator: Anders Bäckström, teaterregissör, dramatiker, teaterpedagog och forskare inom teaterfältet.
 
 
-      Vi bygger direkt i gips och skulpterar efter modell. Patinering (ytbehandling) av skalbaggen ingår i kursen.
+      Konstnärskap och demokrati, Samtal med Stina Oscarsson 5/9 18.30,  kostnad 100kr.
 
 
-      Anmäl er senast 27/5 till annikaheed@hotmail.com Ta med matsäck, kaffe och bullar bjuds det på!
+      Möjlighet till enkel förtäring finns
 
 
-      ### Söndag 30 maj
+      Välkomna!
 
 
-      Öppet Hus
-
-
-      Visning av Skulpturgården och muséet, workshop med lerdjur till båten ”Ombord”
-
-
-      Visning av muséet kl 13 och Torsten Renqvists ateljé kl 14.
-
-
-      Öppet 12-16
-
-
-      ### Söndag 6 juni
-
-
-      Öppet Hus
-
-
-      Visning av Skulpturgården och muséet, workshop med lerdjur till båten ”Ombord”
-
-
-      Visning av muséet kl 13 och Torsten Renqvists ateljé kl 14.
-
-
-      Öppet 12-16
-
-
-      ### Söndag 13 juni
-
-
-      Öppet Hus
-
-
-      Visning av Skulpturgården och muséet, workshop med lerdjur till båten ”Ombord”
-
-
-      Visning av muséet kl 13 och Torsten Renqvists ateljé kl 14.
-
-
-      Öppet 12-16
-    title: Program våren 2021
-    image: https://www.renqvistsverkstad.se/images/evenemang.jpg
+      Begränsat antal platser. Föranmälan till lottaenocsson@hotmail.com och förskottsbetalning via Swish krävs till 0736-249285
+    image: /images/gardsutstallning1.jpg
   - title: Program hösten 2021
     body: >-
       ### Söndag 29 augusti
