@@ -1,6 +1,6 @@
 import ReactMarkdown from 'react-markdown';
-import Container from '../components/container';
-import Layout from '../components/layout';
+import Container from '../components/Container';
+import Layout from '../components/Layout';
 import styled from 'styled-components';
 import { large } from '../breakpoints';
 import content from '../content/pages/contact.md';

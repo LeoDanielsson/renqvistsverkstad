@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { medium } from '../breakpoints';
 import Link from 'next/link';
-import CtaLink from './ctaLink';
+import CtaLink from './CtaLink';
 
 const StyledSection = styled.section`
   display: grid;

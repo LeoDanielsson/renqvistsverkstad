@@ -1,8 +1,8 @@
 import ReactMarkdown from 'react-markdown';
 
-import Layout from '../components/layout';
-import Container from '../components/container';
-import Section from '../components/section';
+import Layout from '../components/Layout';
+import Container from '../components/Container';
+import Section from '../components/Section';
 
 import content from '../content/pages/program.md';
 

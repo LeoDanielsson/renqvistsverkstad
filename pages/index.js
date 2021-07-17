@@ -1,10 +1,10 @@
-import Layout from '../components/layout';
+import Layout from '../components/Layout';
 import styled from 'styled-components';
 import { white } from '../colors';
-import Container from '../components/container';
+import Container from '../components/Container';
 import { large, medium } from '../breakpoints';
-import CtaLink from '../components/ctaLink';
-import Poster from '../components/poster';
+import CtaLink from '../components/CtaLink';
+import Poster from '../components/Poster';
 import content from '../content/pages/startpage.md';
 
 const poster = content.attributes.poster;

@@ -1,7 +1,7 @@
-import Layout from '../../components/layout';
-import Container from '../../components/container';
-import Section from '../../components/section';
-import YoutubeVideo from '../../components/youtubeVideo';
+import Layout from '../../components/Layout';
+import Container from '../../components/Container';
+import Section from '../../components/Section';
+import YoutubeVideo from '../../components/YoutubeVideo';
 import styled from 'styled-components';
 import fs from 'fs';
 import ReactMarkdown from 'react-markdown';
@@ -29,7 +29,7 @@ export async function getStaticPaths() {
   };
 }
 
-const Gardsutstallning = ({
+const ExhibitionPage = ({
   content: {
     attributes: { title, youtubeUrl, sections },
   },
@@ -56,4 +56,4 @@ const Gardsutstallning = ({
     </Layout>
   );
 };
-export default Gardsutstallning;
+export default ExhibitionPage;

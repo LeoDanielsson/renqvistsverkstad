@@ -1,4 +1,4 @@
-import Container from './container';
+import Container from './Container';
 import styled from 'styled-components';
 import { white } from '../colors';
 import { medium } from '../breakpoints';
@@ -12,15 +12,15 @@ const Wrapper = styled.footer`
 
 const FooterContent = styled(Container)`
   @media (min-width: ${medium}) {
-  display: flex;
-  justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
   }
-`
+`;
 
 const NackaLogo = styled.img`
   display: block;
   max-width: 300px;
-`
+`;
 
 const Footer = () => (
   <Wrapper>
@@ -35,16 +35,18 @@ const Footer = () => (
         </p>
         <p>
           E-post:{' '}
-          <a href='mailto:kontakt@renqvistsverkstad.se'>
+          <a href="mailto:kontakt@renqvistsverkstad.se">
             kontakt@renqvistsverkstad.se
           </a>
           <br />
-          Telefon: <a href='tel:+46738262254'>073 826 22 54</a>
+          Telefon: <a href="tel:+46738262254">073 826 22 54</a>
         </p>
       </address>
       <div>
         Med stöd av Nacka kommun
-        <a href="https://www.nacka.se/" target="_blank"><NackaLogo src='/images/nacka_logo1.webp' /></a>
+        <a href="https://www.nacka.se/" target="_blank">
+          <NackaLogo src="/images/nacka_logo1.webp" />
+        </a>
       </div>
     </FooterContent>
   </Wrapper>

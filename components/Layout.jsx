@@ -1,8 +1,8 @@
 import Head from 'next/head';
-import Header from './header';
-import GlobalStyle from './globalStyle';
-import Container from './container';
-import Footer from './footer';
+import Header from './Header';
+import GlobalStyle from './GlobalStyle';
+import Container from './Container';
+import Footer from './Footer';
 
 const Layout = ({ title, children }) => (
   <div>

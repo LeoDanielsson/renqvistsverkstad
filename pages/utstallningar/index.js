@@ -1,6 +1,6 @@
-import Layout from '../../components/layout';
-import Container from '../../components/container';
-import Section from '../../components/section';
+import Layout from '../../components/Layout';
+import Container from '../../components/Container';
+import Section from '../../components/Section';
 import fs from 'fs';
 import ReactMarkdown from 'react-markdown';
 
@@ -30,6 +30,7 @@ const Exhibitions = ({ exhibitions }) => (
       <h1>Utställningar</h1>
       {exhibitions.map(({ slug, attributes: { title, sections } }) => (
         <Section
+          key={slug}
           title={title}
           image={sections[0].image}
           link={`/utstallningar/${slug}`}

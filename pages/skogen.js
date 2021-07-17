@@ -1,9 +1,8 @@
 import Head from 'next/head';
 import styled from 'styled-components';
 import { large, medium } from '../breakpoints';
-import { gold } from '../colors';
-import GlobalStyle from '../components/globalStyle';
-import Poster from '../components/poster';
+import GlobalStyle from '../components/GlobalStyle';
+import Poster from '../components/Poster';
 
 const Background = styled.div`
   position: fixed;
@@ -74,7 +73,7 @@ const Image = styled.img`
   margin: 2rem !important;
 `;
 
-export default function Skogen() {
+const Skogen = () => {
   return (
     <div>
       <GlobalStyle />
@@ -186,4 +185,6 @@ export default function Skogen() {
       </main>
     </div>
   );
-}
+};
+
+export default Skogen;
