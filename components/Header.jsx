@@ -1,4 +1,4 @@
-import Nav from './nav';
+import Nav from './Nav';
 import styled from 'styled-components';
 import { white, darkGreen, black } from '../colors';
 import { medium } from '../breakpoints';
@@ -29,7 +29,7 @@ const Logo = styled.a`
 
 const Header = () => (
   <StyledHeader>
-    <Link href='/'>
+    <Link href="/">
       <Logo>Renqvists verkstad</Logo>
     </Link>
     <Nav />
