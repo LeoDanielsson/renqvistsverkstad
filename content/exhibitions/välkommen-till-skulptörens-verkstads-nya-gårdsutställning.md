@@ -1,5 +1,6 @@
 ---
 title: Välkommen till Skulptörens verkstads nya gårdsutställning!
+order: 2
 youtubeUrl: 6DcVjanD6Jk
 sections:
   - body: >-
