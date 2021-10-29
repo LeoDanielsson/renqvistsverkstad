@@ -89,7 +89,42 @@ const Skogen = () => {
         <Background />
         <Container>
           <Title>Skulpturskogen Ed</Title>
-          <Poster url="/images/skulpturskogen-sommarworkshop.jpg" />
+          <Card>
+            <h2>Höstlovsaktiviteter med Skulpturorientering</h2>
+            <Ingress>
+              En bana med roliga uppdrag att lösa för barn i alla åldrar i
+              Skulpturskogen Ed
+            </Ingress>
+            <p>Onsdag-söndag 3-7 november kl 11-15 </p>
+            <p>Välkommen till knep och knåp i skogen!</p>{' '}
+            <p>Kontakt 0738262254</p>
+            <p>Kulturföreningen Källare-Skulpturskogen Ed</p>
+          </Card>
+          <Card>
+            <h2>Välkommen till en höstdag i Skulpturskogen Ed!</h2>
+            <Ingress>Söndagen 7 november kl 12-16</Ingress>
+            <p>
+              Skulpturskogen invigdes i april i år, istället för som i en
+              skulpturpark finner ni här konsten i en liten vacker skog med
+              promenadstigar.
+            </p>
+            <p>
+              Vi har nu utökat utställningen i skogen och tänder eldar och
+              bjuder på glüvine!
+            </p>
+            <p>Ta en promenad i skogen och passa på att besöka Villa Ed.</p>
+            <p>
+              Utställande konstnärer: Bo Andersson, Katinka Anders- son, Lotta
+              Enocsson, Mats Eriksson, Annika Heed, Leif Kindgren, Filippa von
+              Krusenstjerna, Sophi Vejrich, Hélène Vejrich.
+            </p>
+            <p>Restaurangen grillar i skogen för att fira in hösten.</p>
+            <p>
+              Varmt välkomna önskar Kulturföreningen Källaren som arrangerar
+              Skulpturskogen Ed
+            </p>
+            <p>Tack till Bisslinge förvaltning AB</p>
+          </Card>
           <Card>
             <h2>SKULPTURSKOGEN ED</h2>
             <Ingress>
