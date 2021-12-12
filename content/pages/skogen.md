@@ -1,40 +1,6 @@
 ---
 title: Skulpturskogen Ed
 cards:
-  - title: Höstlovsaktiviteter med Skulpturorientering
-    ingress: En bana med roliga uppdrag att lösa för barn i alla åldrar i
-      Skulpturskogen Ed
-    body: |-
-      Onsdag-söndag 3-7 november kl 11-15
-
-      Välkommen till knep och knåp i skogen!
-
-      Kontakt 0738262254
-
-      Kulturföreningen Källare-Skulpturskogen Ed
-  - title: Välkommen till en höstdag i Skulpturskogen Ed!
-    ingress: Söndagen 7 november kl 12-16
-    body: >-
-      Skulpturskogen invigdes i april i år, istället för som i en skulpturpark
-      finner ni här konsten i en liten vacker skog med promenadstigar.
-
-
-      Vi har nu utökat utställningen i skogen och tänder eldar och bjuder på glüvine!
-
-
-      Ta en promenad i skogen och passa på att besöka Villa Ed.
-
-
-      Utställande konstnärer: Bo Andersson, Katinka Anders- son, Lotta Enocsson, Mats Eriksson, Annika Heed, Leif Kindgren, Filippa von Krusenstjerna, Sophi Vejrich, Hélène Vejrich.
-
-
-      Restaurangen grillar i skogen för att fira in hösten.
-
-
-      Varmt välkomna önskar Kulturföreningen Källaren som arrangerar Skulpturskogen Ed
-
-
-      Tack till Bisslinge förvaltning AB
   - title: SKULPTURSKOGEN ED
     ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
       egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
@@ -99,4 +65,38 @@ cards:
 
 
       Varmt Välkomna till Skulpturskogen Ed!
+  - title: Höstlovsaktiviteter med Skulpturorientering
+    ingress: En bana med roliga uppdrag att lösa för barn i alla åldrar i
+      Skulpturskogen Ed
+    body: |-
+      Onsdag-söndag 3-7 november kl 11-15
+
+      Välkommen till knep och knåp i skogen!
+
+      Kontakt 0738262254
+
+      Kulturföreningen Källare-Skulpturskogen Ed
+  - title: Välkommen till en höstdag i Skulpturskogen Ed!
+    ingress: Söndagen 7 november kl 12-16
+    body: >-
+      Skulpturskogen invigdes i april i år, istället för som i en skulpturpark
+      finner ni här konsten i en liten vacker skog med promenadstigar.
+
+
+      Vi har nu utökat utställningen i skogen och tänder eldar och bjuder på glüvine!
+
+
+      Ta en promenad i skogen och passa på att besöka Villa Ed.
+
+
+      Utställande konstnärer: Bo Andersson, Katinka Anders- son, Lotta Enocsson, Mats Eriksson, Annika Heed, Leif Kindgren, Filippa von Krusenstjerna, Sophi Vejrich, Hélène Vejrich.
+
+
+      Restaurangen grillar i skogen för att fira in hösten.
+
+
+      Varmt välkomna önskar Kulturföreningen Källaren som arrangerar Skulpturskogen Ed
+
+
+      Tack till Bisslinge förvaltning AB
 ---
