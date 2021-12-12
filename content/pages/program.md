@@ -146,7 +146,7 @@ sections:
 
 
       Vi kommer att planera så att kurserna kan hållas med iakttagande av Folkhälsomyndighetens rekommendationer. Varje kurs kommer att ha en detaljerad beskrivning för formerna som kommer att iakttagas med hänsyn till allas säkerhet i och med omständigheterna som råder.
-    image: https://www.renqvistsverkstad.se/images/workshop2.jpg
+    image: /images/workshop4.JPG
   - title: Kursprogram
     body: >
       ### Kurs i porträttmodellering
