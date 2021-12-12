@@ -49,7 +49,7 @@ collections:
           - { label: Text, name: text, widget: markdown }
           - { label: Karta, name: map, widget: image }
       - label: Skulpturskogen Ed
-        name: about
+        name: skogen
         file: content/pages/skogen.md
         fields:
           - { label: Rubrik, name: title, widget: string }
