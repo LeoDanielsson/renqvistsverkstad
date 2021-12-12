@@ -132,7 +132,7 @@ sections:
 
       Begränsat antal platser. Föranmälan till lottaenocsson@hotmail.com och förskottsbetalning via Swish krävs till 0736-249285
     image: /images/gardsutstallning1.jpg
-  - title: Kurser
+  - title: Konstkurser
     body: >
       Bokningsbara fördjupnings-kurser för små eller större grupper. I år
       startar vi upp kurser som erbjuder fördjupning inom ett ämne. Kurserna
