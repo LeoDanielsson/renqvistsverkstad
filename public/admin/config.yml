@@ -48,6 +48,18 @@ collections:
           - { label: Rubrik, name: title, widget: string }
           - { label: Text, name: text, widget: markdown }
           - { label: Karta, name: map, widget: image }
+      - label: Skulpturskogen Ed
+        name: about
+        file: content/pages/skogen.md
+        fields:
+          - { label: Rubrik, name: title, widget: string }
+          - label: Kort
+            name: cards
+            widget: list
+            fields:
+              - { label: Rubrik, name: title, widget: string, required: false }
+              - { label: Ingress, name: ingress, widget: string, required: false }
+              - { label: Text, name: body, widget: markdown }
   - name: exhibitions
     label: Utställningar
     folder: content/exhibitions
@@ -68,3 +80,4 @@ collections:
           - { label: Rubrik, name: title, widget: string, required: false }
           - { label: Text, name: body, widget: markdown }
           - { label: Bild, name: image, widget: image, required: false }
+  
