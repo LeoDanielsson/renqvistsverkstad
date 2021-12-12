@@ -2,6 +2,7 @@ site_url: https://www.renqvistsverkstad.se
 backend:
   name: git-gateway
   branch: master
+publish_mode: editorial_workflow
 media_folder: public/images
 public_folder: /images
 locale: sv
