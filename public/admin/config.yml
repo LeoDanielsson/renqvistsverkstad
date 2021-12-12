@@ -66,6 +66,7 @@ collections:
     create: true
     fields:
       - { label: Titel, name: title, widget: string }
+      - { label: Startdatum, name: date, widget: datetime }
       - {
           label: Youtubefilm,
           name: youtubeUrl,
