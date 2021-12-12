@@ -205,4 +205,12 @@ sections:
 
       Lärare Annika Heed + Mats Eriksson
     image: ""
+  - title: Vinter i Skulptörens Verkstad
+    body: Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
+      utställning och för vårens kursprogram och Öppna Hus. I år är vi nyblivna
+      medlemmar i Arbetets museum - Arbetsam, vilket innebär att vi är klassade
+      som arbetslivsmuseum och därmed har vi tillgång till stor kunskap om hur
+      ett litet museum kan drivas. Efter nyår återkommer med mer information när
+      vårt program är klart.
+    image: /images/img_0805.jpg
 ---
