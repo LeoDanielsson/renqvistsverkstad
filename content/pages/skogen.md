@@ -101,7 +101,7 @@ cards:
 
       ![](/images/img_2253.jpg)
 
-      ![](/images/img_2253.jpg)
+      ![](/images/img_2255.jpg)
 
       Kontakt 0738262254
 
