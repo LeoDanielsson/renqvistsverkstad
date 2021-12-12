@@ -103,4 +103,25 @@ cards:
 
 
       Tack till Bisslinge förvaltning AB
+  - title: Vinter i Skulpturskogen Ed
+    ingress: Nya skulpturer har tillkommit i skogen
+    body: >-
+      Den 7 november invigdes ett antal nya skulpturer i Skulpturskogen. 
+
+
+      ![](/images/img_2278.jpg)
+
+
+      I den stora gläntan reser sig nu en tre meter hög Åkerblomma i järn. Den går att elda i så att den glöder.
+
+
+      En hjort lösgör sig ur träden
+
+
+      ![](/images/img_2695.jpg)
+
+
+      ![]()
+
+       och en elefant ruvar vid den stora stenen.
 ---
