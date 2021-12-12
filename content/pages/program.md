@@ -1,49 +1,6 @@
 ---
 title: Program
 sections:
-  - title: Demokratisamtal med Stina Oscarson
-    body: >-
-      Demokrati och konstnärskap
-
-
-      Med anledning av Demokratiåret har Skulptörens verkstad bjudit Stina Oscarsson för att tala om konstnärsskap och demokrati. Moderator Anders Bäckström.
-
-
-      Hur fungerar demokratin inom kulturen för konstnärliga utövare .
-
-
-      Hur fri står konsten i Sverige idag?
-
-
-      Måste konst vara lönsam, och vem ska annars finansiera den?
-
-
-      Har politikerna rätt att styra det konstnärliga innehållet?
-
-
-      Vad händer om den politiska agendan förändras?
-
-
-      Behöver vi konst, vem behöver konst och gör det oss till bättre människor?
-
-
-      Många är frågorna och vi ser fram emot en spännande kväll. Stina Oscarson är regissör, dramatiker/författare och känd samhällsdebattör. Hon har vunnit ett flertal priser bl.a Eldh Ekblads fredspris, Stockholms stads folkbildningsstipendium 2015 och Bokmässans bildningsstipendium 2018. Stina har varit krönikör på Dagens Nyheter, ETC och SvD och är en uppmärksammad och engagerad röst i samhällsdebatten.
-
-
-      Moderator: Anders Bäckström, teaterregissör, dramatiker, teaterpedagog och forskare inom teaterfältet.
-
-
-      Konstnärskap och demokrati, Samtal med Stina Oscarsson 5/9 18.30,  kostnad 100kr.
-
-
-      Möjlighet till enkel förtäring finns
-
-
-      Välkomna!
-
-
-      Begränsat antal platser. Föranmälan till lottaenocsson@hotmail.com och förskottsbetalning via Swish krävs till 0736-249285
-    image: /images/gardsutstallning1.jpg
   - title: Program hösten 2021
     body: >-
       ### Söndag 29 augusti
@@ -132,6 +89,49 @@ sections:
 
       Välkommen att boka visningar av Skulptörens verkstad och Torsten Renqvists ateljé för mindre eller större grupper. 100 kr/person Skulptörens verkstad. 100 kr/person Torsten Renqvists verkstad. Dock minimiavgift på 1000 kr för en visning. För mer information se nedan. Vi kommer med aktuell information i början av maj som tar hänsyn till hur vi handskas med coronakrisen.
     image: https://www.renqvistsverkstad.se/images/evenemang.jpg
+  - title: Demokratisamtal med Stina Oscarson
+    body: >-
+      Demokrati och konstnärskap
+
+
+      Med anledning av Demokratiåret har Skulptörens verkstad bjudit Stina Oscarsson för att tala om konstnärsskap och demokrati. Moderator Anders Bäckström.
+
+
+      Hur fungerar demokratin inom kulturen för konstnärliga utövare .
+
+
+      Hur fri står konsten i Sverige idag?
+
+
+      Måste konst vara lönsam, och vem ska annars finansiera den?
+
+
+      Har politikerna rätt att styra det konstnärliga innehållet?
+
+
+      Vad händer om den politiska agendan förändras?
+
+
+      Behöver vi konst, vem behöver konst och gör det oss till bättre människor?
+
+
+      Många är frågorna och vi ser fram emot en spännande kväll. Stina Oscarson är regissör, dramatiker/författare och känd samhällsdebattör. Hon har vunnit ett flertal priser bl.a Eldh Ekblads fredspris, Stockholms stads folkbildningsstipendium 2015 och Bokmässans bildningsstipendium 2018. Stina har varit krönikör på Dagens Nyheter, ETC och SvD och är en uppmärksammad och engagerad röst i samhällsdebatten.
+
+
+      Moderator: Anders Bäckström, teaterregissör, dramatiker, teaterpedagog och forskare inom teaterfältet.
+
+
+      Konstnärskap och demokrati, Samtal med Stina Oscarsson 5/9 18.30,  kostnad 100kr.
+
+
+      Möjlighet till enkel förtäring finns
+
+
+      Välkomna!
+
+
+      Begränsat antal platser. Föranmälan till lottaenocsson@hotmail.com och förskottsbetalning via Swish krävs till 0736-249285
+    image: /images/gardsutstallning1.jpg
   - title: Kurser
     body: >
       Bokningsbara fördjupnings-kurser för små eller större grupper. I år
