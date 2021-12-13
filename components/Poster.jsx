@@ -4,10 +4,12 @@ const Wrapper = styled.div`
   max-width: 700px;
 `;
 
-export default ({url}) => (
+const Poster = ({url}) => (
   <Wrapper>
     <a href={url} target="_blank">
       <img src={url} />
     </a>  
   </Wrapper>
-)
+);
+
+export default Poster;
