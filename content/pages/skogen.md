@@ -29,15 +29,34 @@ cards:
       Skulpturskogen Ed invigdes lördag 24 april kl 13.00 2021. För speciella händelser se Separat program på denna hemsida och på Villa Eds hemsida, [www.villaed.com](https://www.villaed.com) där även en karta finns på vägbeskrivning. Upplevelsestråket kan ni läsa om på Upplands Väsbys hemsida [www.upplandsvasby.se](https://www.upplandsvasby.se)
 
 
-      ![GÅTFULLA TRÄD](/images/img_3250.jpg "Vårens nya utställning öppnas 30 april kl 12-16 Skulptur, måleri, fotografi, installation")
+      ![GÅTFULLA TRÄD](/images/img_3250.jpg)
 
 
-      Temat för vårens utställning är träden. Här låter vi dem komma till tals
+      Vårens nya utställning!
+
+
+      GÅTFULLA TRÄD
+
+
+      Skulptur, måleri, fotografi, installation
+
+
+      Vernissage 30 april 2022 kl 12-16
+
+
+      Klockan 13.99 ljuder skogens egen sång under en sällsam stund.
+
+
+      Restaurang Villa Ed erbjuder en eldig grönsakssoppa valborgsdagen till ära.
+
+
+      Temat för vårens utställning är träden. Här låter vi dem komma till tals på oväntade vis. Välkommen att vandra i skogen och upptäck både stora och små överraskande  verk .
 
 
       Utställande konstnärer våren 2022: Bo Andersson, Katinka Andersson, Åsa Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von Krusenstjerna, Sophi Vejrich, Hélène Vejrich
 
 
+      Skulpturskogen är alltid öppen för en upptäcktsfärd!
 
 
       Ni kan boka visningar för grupper, även förskole och skolvisningar. Ni får en visning av skogen och kan uppleva den närmare genom våra upptäcktsvandringar med intressanta frågor och kartor av olika slag beroende på åldersgrupp.
