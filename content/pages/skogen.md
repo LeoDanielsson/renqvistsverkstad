@@ -44,7 +44,7 @@ cards:
       Vernissage 30 april 2022 kl 12-16
 
 
-      Klockan 13.99 ljuder skogens egen sång under en sällsam stund.
+      Klockan 13.00 ljuder skogens egen sång under en sällsam stund.
 
 
       Restaurang Villa Ed erbjuder en eldig grönsakssoppa valborgsdagen till ära.
