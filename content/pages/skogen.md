@@ -29,13 +29,15 @@ cards:
       Skulpturskogen Ed invigdes lördag 24 april kl 13.00 2021. För speciella händelser se Separat program på denna hemsida och på Villa Eds hemsida, [www.villaed.com](https://www.villaed.com) där även en karta finns på vägbeskrivning. Upplevelsestråket kan ni läsa om på Upplands Väsbys hemsida [www.upplandsvasby.se](https://www.upplandsvasby.se)
 
 
-      ![](https://www.renqvistsverkstad.se/images/katinkaskylt.jpg)
+      ![GÅTFULLA TRÄD](/images/img_3250.jpg "Vårens nya utställning öppnas 30 april kl 12-16 Skulptur, måleri, fotografi, installation")
 
 
-      Utställande konstnärer våren 2021: Bo Andersson, Katinka Andersson, Mark Andersson, Åsa Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von Krusenstjerna, Sophi Vejrich, Hélène Vejrich
+      Temat för vårens utställning är träden. Här låter vi dem komma till tals
 
 
-      Utställningen i skogen kommer att skifta och delvis förändras under året och nya Upptäcktsvandringar och gåtor kommer att läggas i vårt informations-skåp.
+      Utställande konstnärer våren 2022: Bo Andersson, Katinka Andersson, Åsa Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von Krusenstjerna, Sophi Vejrich, Hélène Vejrich
+
+
 
 
       Ni kan boka visningar för grupper, även förskole och skolvisningar. Ni får en visning av skogen och kan uppleva den närmare genom våra upptäcktsvandringar med intressanta frågor och kartor av olika slag beroende på åldersgrupp.
