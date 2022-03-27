@@ -2,12 +2,25 @@
 title: Program
 sections:
   - title: Vinter i Skulptörens Verkstad
-    body: Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
+    body: >-
+      Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
       utställning och för vårens kursprogram och Öppna Hus. I år är vi nyblivna
-      medlemmar i Arbetets museum - Arbetsam, vilket innebär att vi är klassade
-      som arbetslivsmuseum och därmed har vi tillgång till stor kunskap om hur
-      ett litet museum kan drivas. Efter nyår återkommer med mer information när
-      vårt program är klart.
+      medlemmar i Riksförbundet Sveriges Konstföreningar, vilket innebär att vi
+      kan driva vår verksamhet än mer professionellt. Med vårt medlemskap i
+      Arbetslivsmuseer ArbetSam har vi tillgång till stor kunskap om hur ett
+      litet museum kan drivas. 
+
+
+      I år kan vi stolta fira 10-årsjubileum och det firar vi med tre spännande utställningar!
+
+
+      Gårdsutställningen vid Skulptörens verkstad öppnar med nya skulpturer tillsammans med de fasta som finns på gården. Gården är alltid öppen för besök.
+
+
+      Inne i verkstaden visas en unik utställning med Torsten Renqvists teckningar och grafik! Där kan även ett antal skulpturer ses,  visning av Torstens ateljé sker varje söndag, ateljén ligger en liten bit från verkstaden.
+
+
+      Till hösten har vi den stora äran att presentera en alldeles speciell utställning. Skulptur av Siri Derkert och Ninnan Santesson. Två stora konstnärer som även var goda vänner. Mer information om utställningen kommer längre fram!
     image: /images/img_0805.jpg
   - title: Program hösten 2021
     body: >-
