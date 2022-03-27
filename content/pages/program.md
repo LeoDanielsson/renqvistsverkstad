@@ -230,13 +230,17 @@ sections:
       varje kurs.
     image: /images/workshop4.JPG
   - title: Kursprogram
-    body: >
+    body: >-
       ### Kurs i porträttmodellering
 
-      Lördag 21/8 10.30-16.00 | Söndag 22/8 10.30-16.00 | Lördag 28/8 10.30-16.00
+
+      Lördag 27/8 10.30-16.00 | Söndag 4/9 10.30-16.00 | Lördag 10/8 10.30-16.00
 
 
       Lär dig modellera på klassiskt vis i lera. Ni modellerar varandra i kursen så det kan vara bra att ta med sig en vän eller släkting till kursen för att skapa deras porträtt. Både modell och modellör lär sig lika mycket eftersom ni byts av hela tiden på ett rättvist sätt. Ni får ett porträtt i lera som senare kan brännas.
+
+
+      Pris 2500:-/person
 
 
       Lärare Annika Heed och Lotta Enocsson.
@@ -250,7 +254,8 @@ sections:
 
       ### Kurs i betonggjutningsteknik
 
-      Lördag 11/9 10:30-16:00 | Lördag 18/9 10:30-16:00 | Lördag 26/9 10:00-12:00
+
+      Lördag 10/9 10:30-16:00 | Lördag 17/9 10:30-16:00 | Lördag 24/9 10:00-12:00
 
 
       Lär er gjuta en skulptur i lera till betong. I kursen ingår kunskaper kring vad som är enkelt att gjuta när ni arbetar i lera. Formtagning med gips på lera. Gjutning av betong i gipsform. Uthuggning. Efter genomgången kurs har ni de basala kunskaper som behövs för att arbeta vidare på egen hand.
@@ -270,7 +275,8 @@ sections:
 
       ### Kurs i latexmasker
 
-      Lördag 25/9 10.30-16.00 | Söndag 26/9 10.30-16.00 | Lördag 2/10 10.30-12.00 | Söndag 3/10 10.30-12.00
+
+      Lördag 24/9 10.30-16.00 | Söndag 25/9 10.30-16.00 | Lördag 1/10 10.30-12.00 | Söndag 2/10 10.30-12.00
 
 
       Ni gör en mask i lera som kan vara skräckinjagande, rolig. Monster, människa eller djur.
