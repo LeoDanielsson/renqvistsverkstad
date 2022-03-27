@@ -24,91 +24,205 @@ sections:
     image: /images/img_0805.jpg
   - title: Program hösten 2021
     body: >-
-      ### Söndag 29 augusti
+      ### I år firar Skulptörens verkstad 10-årsjubileum!
 
 
-      Öppet Hus
+      ### Söndag 8 maj kl 12-16
 
 
-      Vernissage för utställningen ”Skulptörens hemligheter”
+      **Vårens öppning med vernissager!**
 
 
-      Visning av utställningen kl 13
+      Vernissage för utställningen ”Grafik och Teckningar” av Torsten Renqvist
+
+
+      Öppning av Gårdsutställningen med nya skulpturer för säsongen!
+
+
+      Utställande konstnärer: Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Torsten Renqvist, Mats Åberg, Erik Åkerlund
+
+
+      Visning av utställningen kl 13.00
+
+
+      Musik kl 14.00 med Paul Stauthammer och Jaques Gersztenkom -Jess
 
 
       Skulpturgården och muséet, workshop gips-arbeten till Stuckväggen ”Alhambra”
 
 
-      Visning av muséet kl 13.30 och Torsten Renqvists ateljé kl 14
+      Varmt Välkomna!
 
 
-      Öppet 12-16
-
-
-      ### Söndag 5 september
+      ### Söndag 15 maj kl 12-16
 
 
       Öppet Hus
 
 
-      Utställningen ”Skulptörens hemligheter”
+      "Grafik och Teckningar" av Torsten Renqvist inne i verkstaden
 
 
-      Visning av utställningen kl 13
+      Gårdsutställning på gården
 
 
-      Skulpturgården och muséet, workshop drop-in under hela dagen, Gips-arbeten till Stuckväggen ”Alhambra”.
+      Workshop: Rista ett ansikte i gips!
 
 
-      Visning av muséet kl 13.30 och Torsten Renqvists ateljé kl 14.
+      Visning kl 14.00
 
 
-      Öppet 12-16
 
 
-      ### Söndag 12 september
-
-
-      Öppet Hus
-
-
-      Utställningen ”Skulptörens hemligheter”
-
-
-      Visning av utställningen kl 13
-
-
-      Skulpturgården och muséet, workshop drop-in under hela dagen, Gips-arbeten till Stuckväggen ”Alhambra”.
-
-
-      Visning av muséet kl 13.30 och Torsten Renqvists ateljé kl 14.
-
-
-      Öppet 12-16
-
-
-      ### Söndag 19 september
+      ### Söndag 22 maj 
 
 
       Öppet Hus
 
 
-      Utställningen ”Skulptörens hemligheter”
+      "Grafik och Teckningar" av Torsten Renqvist inne i verkstaden
 
 
-      Visning av utställningen kl 13
+      Gårdsutställning på gården
 
 
-      Skulpturgården och muséet, workshop drop-in under hela dagen, Gips-arbeten till Stuckväggen ”Alhambra”.
+      Workshop: Skapa en blomster-relief i gips!
 
 
-      Visning av muséet kl 13.30 och Torsten Renqvists ateljé kl 14.
+      Visning kl 14.00
 
 
-      Öppet 12-16
 
 
-      Välkommen att boka visningar av Skulptörens verkstad och Torsten Renqvists ateljé för mindre eller större grupper. 100 kr/person Skulptörens verkstad. 100 kr/person Torsten Renqvists verkstad. Dock minimiavgift på 1000 kr för en visning. För mer information se nedan. Vi kommer med aktuell information i början av maj som tar hänsyn till hur vi handskas med coronakrisen.
+      ### Söndag 29 maj kl 12-16
+
+
+      Öppet Hus
+
+
+      "Grafik och Teckningar" av Torsten Renqvist inne i verkstaden
+
+
+      Gårdsutställning på gården
+
+
+      Workshop: Gör ett djur!
+
+
+      Visning kl 14.00
+
+
+
+
+      ### Höstens program
+
+
+      ### Söndag 28 augusti kl 12-16 med vernissage!
+
+
+      Vernissage för "Siri och Ninnan"
+
+
+      Invigning av en alldeles speciell utställning. Skulptur av Siri Derkert och Ninnan Santesson. Mer information kommer!
+
+
+      Invigning och visning kl 13.00
+
+
+      Kl 14.00 Musik
+
+
+      Varmt välkomna!
+
+
+
+
+      ### Lördag 3 och Söndag 4 september kl 12-16
+
+
+      Öppet Hus
+
+
+      "Siri och Ninnan"
+
+
+      Gårdsutställning på gården
+
+
+      Visning kl 14.00
+
+
+      Workshop: Gör ett djur!
+
+
+
+
+      ### Lördag 10 och Söndag 11 september kl 12-16
+
+
+      Öppet Hus
+
+
+      "Siri och Ninnan"
+
+
+      Gårdsutställning på gården
+
+
+      Visning kl 14.00
+
+
+      Workshop: Skapa blommor och blad-reliefer i gips!
+
+
+
+
+      ### Lördag 17 och Söndag 18 september kl 12-16
+
+
+      Öppet Hus
+
+
+      "Siri och Ninnan"
+
+
+      Gårdsutställning på gården
+
+
+      Visning kl 14.00
+
+
+      Workshop: Rista ett porträtt i gips!
+
+
+
+
+      ### Lördag 24 och Söndag 25 september kl 12-16
+
+
+      På söndag 25.9 har vi finissage och grillar tillsammans 16-17
+
+
+      Öppet Hus
+
+
+      "Siri och Ninnan"
+
+
+      Gårdsutställning på gården
+
+
+      Visning kl 14.00
+
+
+      Workshop: Modellera i lera!
+
+
+
+
+
+
+      Välkommen att boka visningar av Skulptörens verkstad och Torsten Renqvists ateljé för mindre eller större grupper. 100 kr/person Skulptörens verkstad. 100 kr/person Torsten Renqvists verkstad. Dock minimiavgift på 1000 kr för en visning.
     image: https://www.renqvistsverkstad.se/images/evenemang.jpg
   - title: Konstkurser
     body: >
