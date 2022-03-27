@@ -220,7 +220,7 @@ sections:
 
 
       Välkommen att boka visningar av Skulptörens verkstad och Torsten Renqvists ateljé för mindre eller större grupper. 100 kr/person Skulptörens verkstad. 100 kr/person Torsten Renqvists verkstad. Dock minimiavgift på 1000 kr för en visning.
-    image: https://www.renqvistsverkstad.se/images/evenemang.jpg
+    image: /images/img_1804-1-.jpg
   - title: Konstkurser
     body: Bokningsbara fördjupnings-kurser för små eller större grupper. I år
       startar vi upp kurser som erbjuder fördjupning inom ett ämne. Kurserna
