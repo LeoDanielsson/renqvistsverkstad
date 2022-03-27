@@ -22,7 +22,7 @@ sections:
 
       Till hösten har vi den stora äran att presentera en alldeles speciell utställning. Skulptur av Siri Derkert och Ninnan Santesson. Två stora konstnärer som även var goda vänner. Mer information om utställningen kommer längre fram!
     image: /images/img_0805.jpg
-  - title: Program hösten 2021
+  - title: Program våren 2022
     body: >-
       ### I år firar Skulptörens verkstad 10-årsjubileum!
 
@@ -46,9 +46,6 @@ sections:
 
 
       Musik kl 14.00 med Paul Stauthammer och Jaques Gersztenkom -Jess
-
-
-      Skulpturgården och muséet, workshop gips-arbeten till Stuckväggen ”Alhambra”
 
 
       Varmt Välkomna!
@@ -86,7 +83,7 @@ sections:
       Gårdsutställning på gården
 
 
-      Workshop: Skapa en blomster-relief i gips!
+      Workshop: Gör ett djur!
 
 
       Visning kl 14.00
@@ -106,7 +103,7 @@ sections:
       Gårdsutställning på gården
 
 
-      Workshop: Gör ett djur!
+      Workshop: Skapa en blomster-relief i gips!
 
 
       Visning kl 14.00
