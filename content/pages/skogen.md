@@ -92,12 +92,10 @@ cards:
 
       ![]()
   - title: Höstlovsaktiviteter med Skulpturorientering
-    ingress: En bana med roliga uppdrag att lösa för barn i alla åldrar i
-      Skulpturskogen Ed
+    ingress: Vi byggde en bana med roliga uppdrag att lösa för barn i alla åldrar i
+      Skulpturskogen hösten 2021 Ed
     body: |-
-      Onsdag-söndag 3-7 november kl 11-15
-
-      Välkommen till knep och knåp i skogen!
+      Skogen besöktes av barn och vuxna under höstlovet.
 
       ![](/images/img_2253.jpg)
 
