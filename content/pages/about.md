@@ -29,7 +29,7 @@ sections:
 
       Gruppens medlemmar är Bo Andersson, Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Ingegerd Lohland, Ulf Lorensson, Anna-Lena Renqvist, Mats Åberg, Erik Åkerlund
     image: /images/img_1598.jpg
-    title: Besöka oss
+    title: Besök oss
   - title: Föreningen
     body: >-
       Det är föreningen Renqvists Verkstad som ligger bakom idé och uppförande,
