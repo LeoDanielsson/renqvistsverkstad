@@ -32,7 +32,8 @@ sections:
   - title: Föreningen
     body: >-
       Det är föreningen Renqvists Verkstad som ligger bakom idé och uppförande,
-      föreningens medlemmar visar även sin konst i skulpturutställningarna.
+      föreningens medlemmar som är skulpstörer visar även sin konst i
+      skulpturutställningarna.
 
 
       ### Torsten Renqvist-sällskapet
@@ -45,7 +46,7 @@ sections:
 
 
       [www.torstenrenqvist.se](www.torstenrenqvist.se)
-    image: /images/lotta.jpg
+    image: /images/evenemang.jpg
   - title: Historik
     body: >-
       Föreningen Renqvists verkstad bildades 2011. Gruppen består av 11
