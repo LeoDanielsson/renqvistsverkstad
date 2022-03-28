@@ -73,10 +73,10 @@ sections:
       Den röda tråden är att ge kunskap om skulpturkonsten och att öppna verksamheten för både barn och vuxna. Verksamheten månar om att hålla gamla kunskaper levande som kan länkas till vår samtid och skapa tillgång till den glädje konsten ger.
 
 
-      ### Utställare i Skulptörens verkstad
+      ### Utställare i Skulptörens verkstad under våra första 10 år.
 
 
-      Evert Lindfors, Torsten Renqvist, Asmund Arle, Tomas Qvarsebo, Lena Lervik, Kajsa Mattas, Rune Rudelius, Siri Derkert, Lars Erik Falk, Mats Åberg, Marilyn Gierow, Eva Fornåå, Bitte Jonasson Åkerlund, Jörgen Hammar, Jörgen Martinsson, Ulf Lorenzon, Linnea Jörpeland, Kicki Bergkvist, Selder Bo Andersson, Barbro Hedström, Filippa von Krusenstierna, Mats Eriksson, Annika Heed, Lotta Enocsson, Erik Åkerlund, Ingegerd Lohland, Anders Jansson, Dina Hviid, Harry Modin, Katinka Andersson, Sophie Andersson, Lars Brunström
+      Evert Lindfors, Torsten Renqvist, Asmund Arle, Tomas Qvarsebo, Lena Lervik, Kajsa Mattas, Rune Rudelius, Siri Derkert, Lars Erik Falk, Mats Åberg, Marilyn Gierow, Eva Fornåå, Bitte Jonasson Åkerlund, Jörgen Hammar, Jörgen Martinsson, Ulf Lorenzon, Linnea Jörpeland, Kicki Bergkvist, Selder Bo Andersson, Barbro Hedström, Filippa von Krusenstierna, Mats Eriksson, Annika Heed, Lotta Enocsson, Erik Åkerlund, Ingegerd Lohland, Anders Jansson, Dina Hviid, Harry Modin, Katinka Andersson, Sophi Vejrich, Lars Brunström
   - title: Besök oss
     body: >-
       I anslutning till en visning i verkstan går det även bra att boka en
