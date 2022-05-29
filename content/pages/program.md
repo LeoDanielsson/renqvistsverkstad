@@ -69,9 +69,7 @@ sections:
       Visning kl 14.00
 
 
-
-
-      ### Söndag 22 maj 
+      ### Söndag 22 maj
 
 
       Öppet Hus
@@ -87,8 +85,6 @@ sections:
 
 
       Visning kl 14.00
-
-
 
 
       ### Söndag 29 maj kl 12-16
@@ -109,6 +105,22 @@ sections:
       Visning kl 14.00
 
 
+      ### Söndag 5 juni kl 12-16
+
+
+      Öppet Hus
+
+
+      "Grafik och Teckningar" av Torsten Renqvist inne i verkstaden
+
+
+      Gårdsutställning på gården
+
+
+      Workshop: Skapa en blomster-relief i gips!
+
+
+      Visning kl 14.00
 
 
       ### Höstens program
@@ -132,8 +144,6 @@ sections:
       Varmt välkomna!
 
 
-
-
       ### Lördag 3 och Söndag 4 september kl 12-16
 
 
@@ -150,8 +160,6 @@ sections:
 
 
       Workshop: Gör ett djur!
-
-
 
 
       ### Lördag 10 och Söndag 11 september kl 12-16
@@ -172,8 +180,6 @@ sections:
       Workshop: Skapa blommor och blad-reliefer i gips!
 
 
-
-
       ### Lördag 17 och Söndag 18 september kl 12-16
 
 
@@ -190,8 +196,6 @@ sections:
 
 
       Workshop: Rista ett porträtt i gips!
-
-
 
 
       ### Lördag 24 och Söndag 25 september kl 12-16
@@ -213,10 +217,6 @@ sections:
 
 
       Workshop: Modellera i lera!
-
-
-
-
 
 
       Välkommen att boka visningar av Skulptörens verkstad och Torsten Renqvists ateljé för mindre eller större grupper. 100 kr/person Skulptörens verkstad. 100 kr/person Torsten Renqvists verkstad. Dock minimiavgift på 1000 kr för en visning.
