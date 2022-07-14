@@ -13,6 +13,103 @@ sections:
 
       Fyra helger framöver visar vi utställningen samt har visningar i Torsten Renqvists ateljé och håller öppna workshops i olika skupturala tekniker. Besök också vår Gårdsutställning där skulptur visas av nio svenska skulptörer.
     image: /images/img_5228.jpg
+  - title: Program hösten 2022
+    body: >-
+      ### Söndag 28 augusti kl 12-16 med vernissage!
+
+
+      Vernissage för "Siri och Ninnan"
+
+
+      Invigning av en alldeles speciell utställning. Skulptur av Siri Derkert och Ninnan Santesson. Mer information kommer!
+
+
+      Invigning och visning kl 13.00
+
+
+      Kl 14.00 Musik
+
+
+      Varmt välkomna!
+
+
+      ### Lördag 3 och Söndag 4 september kl 12-16
+
+
+      Öppet Hus
+
+
+      "Siri och Ninnan"
+
+
+      Gårdsutställning på gården
+
+
+      Visning kl 14.00
+
+
+      Workshop: Gör ett djur!
+
+
+      ### Lördag 10 och Söndag 11 september kl 12-16
+
+
+      Öppet Hus
+
+
+      "Siri och Ninnan"
+
+
+      Gårdsutställning på gården
+
+
+      Visning kl 14.00
+
+
+      Workshop: Skapa blommor och blad-reliefer i gips!
+
+
+      ### Lördag 17 och Söndag 18 september kl 12-16
+
+
+      Öppet Hus
+
+
+      "Siri och Ninnan"
+
+
+      Gårdsutställning på gården
+
+
+      Visning kl 14.00
+
+
+      Workshop: Rista ett porträtt i gips!
+
+
+      ### Lördag 24 och Söndag 25 september kl 12-16
+
+
+      På söndag 25.9 har vi finissage och grillar tillsammans 16-17
+
+
+      Öppet Hus
+
+
+      "Siri och Ninnan"
+
+
+      Gårdsutställning på gården
+
+
+      Visning kl 14.00
+
+
+      Workshop: Modellera i lera!
+
+
+      Välkommen att boka visningar av Skulptörens verkstad och Torsten Renqvists ateljé för mindre eller större grupper. 100 kr/person Skulptörens verkstad. 100 kr/person Torsten Renqvists verkstad. Dock minimiavgift på 1000 kr för en visning.
+    image: /images/img_1804-1-.jpg
   - title: Kursprogram
     body: >-
       ### Kurs i porträttmodellering
