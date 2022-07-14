@@ -35,7 +35,7 @@ const Section = ({ title, image, children, link }) => (
       {children}{' '}
       {link && (
         <CtaLink href={link}>
-          <a>Klicka för att läsa mer</a>
+          Klicka för att läsa mer
         </CtaLink>
       )}
     </Text>

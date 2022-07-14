@@ -81,18 +81,13 @@ const Skogen = () => {
       <GlobalStyle />
       <Head>
         <title>{content.attributes.title}</title>
-        <link rel="icon" href="/favicon.ico" />
-        <link
-          href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Titillium+Web"
-          rel="stylesheet"
-        />
       </Head>
       <main>
         <Background />
         <Container>
           <Title>{content.attributes.title}</Title>
           {content.attributes.cards.map(card => (
-            <Card>
+            <Card key={card.title}>
               {card.title && <h2>{card.title}</h2>}
               {card.ingress && <Ingress>{card.ingress}</Ingress>}
               <ReactMarkdown>{card.body}</ReactMarkdown>

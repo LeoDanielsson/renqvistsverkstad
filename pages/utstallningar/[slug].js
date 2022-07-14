@@ -43,9 +43,9 @@ const ExhibitionPage = ({
             <YoutubeVideo youtubeId={youtubeUrl} />
           </Video>
         )}
-        {sections.map((section) => (
+        {sections.map((section, index) => (
           <Section
-            key={section.title}
+            key={index}
             title={section.title}
             image={section.image}
           >

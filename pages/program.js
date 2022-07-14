@@ -11,9 +11,9 @@ const Program = () => {
     <Layout title="Program">
       <Container>
         <h1>{content.attributes.title}</h1>
-        {content.attributes.sections.map((section) => (
+        {content.attributes.sections.map((section, index) => (
           <Section
-            key={section.title}
+            key={index}
             title={section.title}
             image={section.image}
           >
