@@ -1,17 +1,8 @@
 ---
 title: Verkstadens hemligheter
 order: 1
+date: 2022-07-14T18:04:20.298Z
 sections:
-  - body: >-
-      Skulptörens verkstad i Nacka inviger utställningen **"Verkstadens
-      hemligheter"** den 29 augusti. En skulptur-, mural- och mosaikutställning
-      med Domenico Inganni, Luigi Inganni, Evert Lindfors, Torsten Renqvist och
-      Mats Åberg. De fann varandra i arbete och vänskap. Utställningen tar
-      avstamp i den italienska skulptören Domenico Ingannis liv.
-
-
-      **Öppet varje lördag och söndag 12-16 fram till 19 september.**
-    image: /images/mats-evert-ingani-torsten.jpg
   - body: >-
       **Domenico** kom med sin morbror till Sverige som 14 åring från Dizzasco,
       Val dÍntelvi i Lombardiet för att arbeta. Året var 1918 och det fanns gott
