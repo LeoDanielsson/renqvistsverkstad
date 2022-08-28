@@ -27,7 +27,7 @@ sections:
       Invigning och visning kl 13.00
 
 
-      Kl 14.00 Musik
+      K
 
 
       Varmt välkomna!
