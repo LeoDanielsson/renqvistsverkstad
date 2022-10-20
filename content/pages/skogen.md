@@ -29,13 +29,27 @@ cards:
       Skulpturskogen Ed invigdes lördag 24 april kl 13.00 2021. För speciella händelser se Separat program på denna hemsida och på Villa Eds hemsida, [www.villaed.com](https://www.villaed.com) där även en karta finns på vägbeskrivning. Upplevelsestråket kan ni läsa om på Upplands Väsbys hemsida [www.upplandsvasby.se](https://www.upplandsvasby.se)
 
 
-      ![GÅTFULLA TRÄD](/images/img_3250.jpg)
+      ![](https://www.renqvistsverkstad.se/images/stuga.jpg)
 
 
+      Tack till Johan Curman, markägare
+
+
+      Tack till Bisslinge och Svartinge gårdar
+
+
+      Med stöd av Kultur och fritid, Upplands Väsby kommun
+
+
+      Varmt Välkomna till Skulpturskogen Ed!
+  - body: >-
       Vårens nya utställning!
 
 
       GÅTFULLA TRÄD
+
+
+      ![Gåtfulla träd](/images/img_3250.jpg)
 
 
       Skulptur, måleri, fotografi, installation
@@ -71,21 +85,7 @@ cards:
 
 
       Vägbeskrivning: Från E4an avtag Upplands Väsby, kör till vänster in på Mälarvägen (om ni kommer från Stockholm) fortsätt på Mälarvägen, (850) i ca 4 km, tag höger in på Edsbyvägen vid skylten Villa Ed. Eds kyrka ligger lite längre fram till vänster.
-
-
-      ![](https://www.renqvistsverkstad.se/images/stuga.jpg)
-
-
-      Tack till Johan Curman, markägare
-
-
-      Tack till Bisslinge och Svartinge gårdar
-
-
-      Med stöd av Kultur och fritid, Upplands Väsby kommun
-
-
-      Varmt Välkomna till Skulpturskogen Ed!
+    title: Gåtfulla träd
   - title: Vinter i Skulpturskogen Ed
     ingress: Nya skulpturer har tillkommit i skogen
     body: >-
