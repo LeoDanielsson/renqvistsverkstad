@@ -43,15 +43,6 @@ cards:
 
       Varmt Välkomna till Skulpturskogen Ed!
   - body: >-
-      Vårens nya utställning!
-
-
-      GÅTFULLA TRÄD
-
-
-      ![Gåtfulla träd](/images/img_3250.jpg)
-
-
       Skulptur, måleri, fotografi, installation
 
 
@@ -86,6 +77,7 @@ cards:
 
       Vägbeskrivning: Från E4an avtag Upplands Väsby, kör till vänster in på Mälarvägen (om ni kommer från Stockholm) fortsätt på Mälarvägen, (850) i ca 4 km, tag höger in på Edsbyvägen vid skylten Villa Ed. Eds kyrka ligger lite längre fram till vänster.
     title: Gåtfulla träd
+    ingress: Vårens nya utställning!
   - title: Vinter i Skulpturskogen Ed
     ingress: Nya skulpturer har tillkommit i skogen
     body: >-
