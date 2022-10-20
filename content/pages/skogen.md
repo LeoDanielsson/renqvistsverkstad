@@ -42,6 +42,46 @@ cards:
 
 
       Varmt Välkomna till Skulpturskogen Ed!
+  - title: Utrop
+    ingress: Höstutställning i Skulpturskogen Ed söndag 23 oktober 14-16 med
+      Kulturföreningen Källaren Kl 16.00 presenteras Art Sangeet- nordindisk
+      klassisk musik med Palace on Wheels på Restaurang Villa Ed. Fri entré.
+      Restaurangen serverar Indiskinspirerande rätter. Ett samarbete med
+      Kulturföreningen Källaren och Stockholm Sangeet Festival.
+    body: >-
+      Skulpturskogen Ed presenterar utställningen UTROP vid Villa Ed söndag 23
+      oktober Kulturföreningen Källaren visar sina utrop på tio små, men höga
+      socklar som famnar in hela Skulpturskogen Ed.
+
+
+      I skogen finns även utställningen ”Gåtfulla träd” Kl 16.00 presenteras Art Sangeet- nordindisk klassisk musik på sitar, santoor och tabla med musikerkollektivet Palace on Wheels på Restaurang Villa Ed. Fri entré.
+
+
+      Restaurangen serverar Indiskinspirerande rätter. Ett samarbete med Kulturföreningen Källaren och Stockholm Sangeet Festival.
+
+
+      Utställande konstnärer: Bo Andersson, Mark Andersson, Åsa Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich Musicerande musiker: Stian Grimstad, Moa Danielsson, Suvrat Apte.
+
+
+      Skulpturskogen Ed drivs av Kulturföreningen Källaren 
+
+
+      Villa Ed [www.villaed.com](www.villaed.com)
+
+
+      Hitta hit: Från E4 avtag Upplands Väsby, ta vänster på Mälarvägen om ni kommer från Stockholm, fortsätt Mälarvägen ca 4 km, tag höger Edsbyvägen, Villa Ed mittemot Eds kyrka.
+
+
+      Skulpturskogen stöds av Upplands Väsby kommun
+
+
+      Bisslinge förvaltning AB
+
+
+      Johan Curman, markägare
+
+
+      Varmt Välkomna till Skulpturskogen Ed!
   - body: >-
       Skulptur, måleri, fotografi, installation
 
@@ -140,44 +180,4 @@ cards:
 
 
       Tack till Bisslinge förvaltning AB
-  - title: Utrop
-    ingress: Höstutställning i Skulpturskogen Ed söndag 23 oktober 14-16 med
-      Kulturföreningen Källaren Kl 16.00 presenteras Art Sangeet- nordindisk
-      klassisk musik med Palace on Wheels på Restaurang Villa Ed. Fri entré.
-      Restaurangen serverar Indiskinspirerande rätter. Ett samarbete med
-      Kulturföreningen Källaren och Stockholm Sangeet Festival.
-    body: >-
-      Skulpturskogen Ed presenterar utställningen UTROP vid Villa Ed söndag 23
-      oktober Kulturföreningen Källaren visar sina utrop på tio små, men höga
-      socklar som famnar in hela Skulpturskogen Ed.
-
-
-      I skogen finns även utställningen ”Gåtfulla träd” Kl 16.00 presenteras Art Sangeet- nordindisk klassisk musik på sitar, santoor och tabla med musikerkollektivet Palace on Wheels på Restaurang Villa Ed. Fri entré.
-
-
-      Restaurangen serverar Indiskinspirerande rätter. Ett samarbete med Kulturföreningen Källaren och Stockholm Sangeet Festival.
-
-
-      Utställande konstnärer: Bo Andersson, Mark Andersson, Åsa Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich Musicerande musiker: Stian Grimstad, Moa Danielsson, Suvrat Apte.
-
-
-      Skulpturskogen Ed drivs av Kulturföreningen Källaren 
-
-
-      Villa Ed [www.villaed.com](www.villaed.com)
-
-
-      Hitta hit: Från E4 avtag Upplands Väsby, ta vänster på Mälarvägen om ni kommer från Stockholm, fortsätt Mälarvägen ca 4 km, tag höger Edsbyvägen, Villa Ed mittemot Eds kyrka.
-
-
-      Skulpturskogen stöds av Upplands Väsby kommun
-
-
-      Bisslinge förvaltning AB
-
-
-      Johan Curman, markägare
-
-
-      Varmt Välkomna till Skulpturskogen Ed!
 ---
