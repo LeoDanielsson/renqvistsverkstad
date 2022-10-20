@@ -54,6 +54,9 @@ cards:
       socklar som famnar in hela Skulpturskogen Ed.
 
 
+      ![](/images/img_4354.jpg)
+
+
       I skogen finns även utställningen ”Gåtfulla träd” Kl 16.00 presenteras Art Sangeet- nordindisk klassisk musik på sitar, santoor och tabla med musikerkollektivet Palace on Wheels på Restaurang Villa Ed. Fri entré.
 
 
