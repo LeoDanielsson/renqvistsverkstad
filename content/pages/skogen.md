@@ -86,6 +86,9 @@ cards:
       Skulptur, måleri, fotografi, installation
 
 
+      ![](/images/img_3250.jpg)
+
+
       Vernissage 30 april 2022 kl 12-16
 
 
