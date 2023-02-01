@@ -1,6 +1,6 @@
 ---
 preTitle: Föreningen Renqvists verkstad presenterar
-title: Skulptörens verkstad 10-årsjubileum!
+title: Skulptörens verkstad
 postTitle: Ett museum för skulptörens alla hantverk
 poster: ""
 ---
