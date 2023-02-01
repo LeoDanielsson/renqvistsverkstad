@@ -27,9 +27,6 @@ sections:
       Invigning och visning kl 13.00
 
 
-      K
-
-
       Varmt välkomna!
 
 
