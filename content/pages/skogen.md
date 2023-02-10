@@ -42,6 +42,22 @@ cards:
 
 
       Varmt Välkomna till Skulpturskogen Ed!
+  - body: >-
+      Lördagen 25 februari är alla sportlovslediga barn välkomna att med sina
+      vänner och föräldrar slå ett slag för alla utrotningshotade djur.\
+
+      I skogen finns ledtrådar att hitta och en workshop att vara med på! Måla det djur du vill hjälpa och skydda så hänger vi upp bilderna i skogens träd.\
+
+      Orienteringen är helt gratis och man kan komma när man vill mellan 11-15!\
+
+      I Café Villa Ed finns det uppbullat med Sportlovsfika!\
+
+      Värdar i skogen är konstnärer från Skulpturskogen Ed
+
+
+      ![](/images/a3_skulpturvandring_23.jpg)
+    title: AKTUELLT I FEBRUARI
+    ingress: Skulpturorientering i Skulpturskogen Ed!
   - title: Utrop
     ingress: Höstutställning i Skulpturskogen Ed söndag 23 oktober 14-16 med
       Kulturföreningen Källaren Kl 16.00 presenteras Art Sangeet- nordindisk
