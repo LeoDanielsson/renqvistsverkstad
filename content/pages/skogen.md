@@ -26,7 +26,7 @@ cards:
       När ni vandrat är ni varmt välkomna till Villa Ed för en stunds vila och avkoppling. I den vackra trädgården med uteservering kan ni njuta av varma drycker, hembakat och hemlagat. Villa Ed är en gammal och vacker villa som idag är en unik handels- och mötesplats för alla sinnen. Förutom cafe & bistro hyser villan verksamheter såsom inredningsbutik, underkläder, massage, frisör, olika skönhetsbehandlingar, konsthantverk samt samtal och terapi.
 
 
-      Skulpturskogen Ed invigdes lördag 24 april kl 13.00 2021. För speciella händelser se Separat program på denna hemsida och på Villa Eds hemsida, [www.villaed.com](https://www.villaed.com) där även en karta finns på vägbeskrivning. Upplevelsestråket kan ni läsa om på Upplands Väsbys hemsida [www.upplandsvasby.se](https://www.upplandsvasby.se)
+      Skulpturskogen Ed invigdes lördag 24 april kl 13.00 2021. För speciella händelser se separat program nedan på denna hemsida och på Villa Eds hemsida, [www.villaed.com](https://www.villaed.com) där även en karta finns på vägbeskrivning. Upplevelsestråket kan ni läsa om på Upplands Väsbys hemsida [www.upplandsvasby.se](https://www.upplandsvasby.se)
 
 
       ![](https://www.renqvistsverkstad.se/images/stuga.jpg)
