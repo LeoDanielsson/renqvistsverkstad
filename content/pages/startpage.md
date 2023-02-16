@@ -1,6 +1,6 @@
 ---
 preTitle: Föreningen Renqvists verkstad presenterar
-title: Skulptörens verkstad- Ett museum för skulptörens alla hantverk
+title: Skulptörens verkstad
 postTitle: ' Skulptörens verkstad startar upp verksamheten 7 maj med en
   invigning av vår nya satsning, "Lilla rundan" en spännande skulpturutställning
   för barn och deras vuxna! Vi öppnar också verkstaden med nya filmer och med
