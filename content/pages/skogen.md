@@ -29,6 +29,9 @@ cards:
       Skulpturskogen Ed invigdes lördag 24 april kl 13.00 2021. För speciella händelser se separat program nedan på denna hemsida och på Villa Eds hemsida, [www.villaed.com](https://www.villaed.com) där även en karta finns på vägbeskrivning. Upplevelsestråket kan ni läsa om på Upplands Väsbys hemsida [www.upplandsvasby.se](https://www.upplandsvasby.se)
 
 
+      **Tillgänglighet** vid Skulpturskogen Ed: Intill skogen finns en Parkeringsplats. Det löper promenadvägar runt skogen som fungerar för rullstol. Från vägen ser man många av skulpturerna i skogen samt den lilla utställningen som visas på de små socklarna utmed vägen. Med hjälp kan man rulla in i skogens centrumglänta där många av skogens skulpturer finns. Det är däremot svårt att nå de skulpturala installationer som finns i mer otillgänglig skog.l Till Villa Eds café finns rullstolsramp.
+
+
       ![](https://www.renqvistsverkstad.se/images/stuga.jpg)
 
 
