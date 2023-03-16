@@ -12,6 +12,15 @@ sections:
       Utställare: Asmund Arle,  Jörgen Hammar, Evert Lindfors, Torsten Rehnqvist, Lotta Enocsson, Mats Eriksson, Annika Heed, Anders Jansson, Mats Lodén, Dina Hviid
 
 
+      ### **Gårdsutställningen**
+
+
+      För våren hänger vi om och förnyar den permanenta gårdsutställningen
+
+
+      Utställare: Torsten Renqvist, Lotta Enocsson, Mats Eriksson, Annika Heed, Anders Jansson, Mats Lodén, Dina Hviid, Bitte Jonason Åkerlund, Erik Åkerlund, Mats Åberg  
+
+
       ### **Nyheten ”Lilla rundan”** 
 
 
