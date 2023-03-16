@@ -1,69 +1,36 @@
 ---
 title: Program
 sections:
-  - title: Kursprogram
+  - title: Kursprogram våren 2023
     body: >-
-      ### Kurs i porträttmodellering
+      **Betongkurs**
 
 
-      Lördag 27/8 10.30-16.00 | Söndag 4/9 10.30-16.00 | Lördag 10/8 10.30-16.00
+      Lär dig modellera, ta en gipsform och gjut i betong, ytbehandling eller färgbehandling av betong
 
 
-      Lär dig modellera på klassiskt vis i lera. Ni modellerar varandra i kursen så det kan vara bra att ta med sig en vän eller släkting till kursen för att skapa deras porträtt. Både modell och modellör lär sig lika mycket eftersom ni byts av hela tiden på ett rättvist sätt. Ni får ett porträtt i lera som senare kan brännas.
+      Efter genomgången kurs kan du så mycket att du kan fortsätta att arbeta i betong på egen hand.
 
 
-      Pris 2500:-/person
+      Lördag 20 maj,27  maj 3 juni kl 10.30-16.00
 
 
-      Lärare Annika Heed och Lotta Enocsson.
+      Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig.
 
 
-      Passar för alla åldrar från 10 år och uppåt
+      **Lattexmasker**
 
 
-      Kursen blir av om minst 4 personer anmäler sig.
+      Gör en djurmask, skräck eller rolig mask i lera, ta gipsform och gjut din egen latexmask, måla den
 
 
-      ### Kurs i betonggjutningsteknik
+      Den här kursen är perfekt att göra tillsammans med barn eller ungdomar. Du får din egen mask att bära på fest eller äventyr. Dessutom kan du gjuta fler masker i samma form, kanske till hela familjen!
 
 
-      Lördag 10/9 10:30-16:00 | Lördag 17/9 10:30-16:00 | Lördag 24/9 10:00-12:00
+      Lördag 20 maj, 27 maj, 3 juni kl 10.30-16 plus söndag 4 juni kl 10.00-12.00
 
 
-      Lär er gjuta en skulptur i lera till betong. I kursen ingår kunskaper kring vad som är enkelt att gjuta när ni arbetar i lera. Formtagning med gips på lera. Gjutning av betong i gipsform. Uthuggning. Efter genomgången kurs har ni de basala kunskaper som behövs för att arbeta vidare på egen hand.
-
-
-      Pris: 2700 kr/person
-
-
-      Passar för alla åldrar från 10 år och uppåt
-
-
-      Kursen blir av om det anmäls minst 5 personer.
-
-
-      Lärare Annika Heed + Mats Eriksson
-
-
-      ### Kurs i latexmasker
-
-
-      Lördag 24/9 10.30-16.00 | Söndag 25/9 10.30-16.00 | Lördag 1/10 10.30-12.00 | Söndag 2/10 10.30-12.00
-
-
-      Ni gör en mask i lera som kan vara skräckinjagande, rolig. Monster, människa eller djur.
-
-
-      Ni tar en gipsform på lermasken för att sedan gjuta latex i gipsformen. Ni får en latexmask som går att måla i de färger ni önskar och sedan sätta på er och glädja/skrämma er omgivning.
-
-
-      Pris: 2300 kr/person
-
-
-      Kursen blir av om det anmäls minst 5 personer.
-
-
-      Lärare Annika Heed + Mats Eriksson
+      Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig
     image: ""
   - title: Vinter i Skulptörens Verkstad
     body: >-
