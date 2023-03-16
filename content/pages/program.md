@@ -3,7 +3,7 @@ title: Program
 sections:
   - title: Våren 2023
     body: >-
-      **Utställningen ”Djur kan inte ljuga”**
+      ### **Utställningen ”Djur kan inte ljuga”**
 
 
       En skulptur utställning där djuren spelar huvudrollen. Vi slår också ett slag för Torsten Renqvists bok ”Djur kan inte ljuga” som kommer att finnas till salu.
@@ -12,13 +12,13 @@ sections:
       Utställare: Asmund Arle,  Jörgen Hammar, Evert Lindfors, Torsten Rehnqvist, Lotta Enocsson, Mats Eriksson, Annika Heed, Anders Jansson, Mats Lodén, Dina Hviid
 
 
-      **Nyheten ”Lilla rundan”** 
+      ### **Nyheten ”Lilla rundan”** 
 
 
       En stig i trädgården speciellt för barn.  Kom och upptäck spännande skulpturer i snåren!
 
 
-      **Öppet Hus**
+      ### **Öppet Hus**
 
 
       **Söndag  7 maj 12-16**
