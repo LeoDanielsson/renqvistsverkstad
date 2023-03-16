@@ -1,6 +1,87 @@
 ---
 title: Program
 sections:
+  - title: Våren 2023
+    body: >-
+      **Utställningen ”Djur kan inte ljuga”**
+
+
+      En skulptur utställning där djuren spelar huvudrollen. Vi slår också ett slag för Torsten Renqvists bok ”Djur kan inte ljuga” som kommer att finnas till salu.
+
+
+      Utställare: Asmund Arle,  Jörgen Hammar, Evert Lindfors, Torsten Rehnqvist, Lotta Enocsson, Mats Eriksson, Annika Heed, Anders Jansson, Mats Lodén, Dina Hviid
+
+
+      **Nyheten ”Lilla rundan”** 
+
+
+      En stig i trädgården speciellt för barn.  Kom och upptäck spännande skulpturer i snåren!
+
+
+      **Öppet Hus**
+
+
+      **Söndag  7 maj 12-16**
+
+
+      Utställningarna
+
+
+      Workshop för alla åldrar
+
+
+      Visning Torsten Renqvists ateljé
+
+
+      **Söndag 14 maj 12-16**
+
+
+      Utställningarna
+
+
+      Workshop för alla åldrar
+
+
+      Visning Torsten Renqvists ateljé
+
+
+      **Söndag 21 maj 12-16**
+
+
+      Utställningarna
+
+
+      Workshop för alla åldrar
+
+
+      Visning Torsten Renqvists ateljé
+
+
+      **Söndag 28 maj 12-16**
+
+
+      Utställningarna
+
+
+      Workshop för alla åldrar
+
+
+      Visning Torsten Renqvists ateljé
+
+
+      **Söndag 4 juni 12-16**
+
+
+      Utställningarna
+
+
+      Workshop för alla åldrar
+
+
+      Visning Torsten Renqvists ateljé
+
+
+      Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider
   - title: Kursprogram våren 2023
     body: >-
       **Betongkurs**
