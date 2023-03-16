@@ -1,18 +1,6 @@
 ---
 title: Program
 sections:
-  - title: Siri Derkert och Ninnan Santesson - Konsten, vänskapen, livet och kampen
-    body: >-
-      
-
-      Söndag 28 augusti invigs utställningen Siri Derkert och Ninnan Santesson - en skulpturutställning om arbete, vänskap och solidaritet.
-
-
-      Vi har äran att få visa en unik samling arbeten av Siri och Ninnan i Skulptörens verkstad denna höst. Utställningen tar avstamp i deras arbeten men också i den vardag där de stöttade och hjälpte varandra, både i det konstnärliga arbetet, det politiska engagemanget och i livet som ensamstående mödrar och familjeförsörjare. Vi har hjälp av den brevväxling Ninnans barnbarn, Linnea Carlsson satt samman och av berättelser från barn och barnbarn till Siri och Ninnan. Bägge konstnärerna var kontroversiella och samhällsengagerade och har brutit mark för kommande konstnärsgenerationer. Kraften i den skapande viljan övervinner allt.
-
-
-      Fyra helger framöver visar vi utställningen samt har visningar i Torsten Renqvists ateljé och håller öppna workshops i olika skupturala tekniker. Besök också vår Gårdsutställning där skulptur visas av nio svenska skulptörer.
-    image: /images/img_5228.jpg
   - title: Kursprogram
     body: >-
       ### Kurs i porträttmodellering
