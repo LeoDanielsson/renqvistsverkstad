@@ -33,9 +33,6 @@ sections:
       Till utställningarna finns också frågelekar som bidrar till ett aktivt betraktande i nyfikenhetens tecken!
 
 
-      **Söndag 7 maj 12-16**
-
-
       Förfriskningar och enklare kaffeservering
 
 
