@@ -33,13 +33,22 @@ sections:
       ### **Öppet Hus**
 
 
-      **Söndag  7 maj 12-16**
+      **Söndag 7 maj 12-16**
 
 
-      Utställningarna
+      Förfriskningar och enklare kaffeservering
 
 
-      Workshop för alla åldrar
+      Torsten Renqvists sällskapet bjuder på taklagsfest kl. 15- Torsten Renqvist ateljé har fått nytt tak. Böcker samt reproduktioner av valda träsnitt ur Renqvists Djurserie kommer att finnas till reducerat pris. Musikaliska improvisationer ramar in med trio Paul Stouthamer- cello, Matias Lindberg- piano, Jess Gerztenkorn- bas.
+
+
+      Dagen bjuder på:
+
+
+      Alla utställningarna öppna
+
+
+      Workshop av olika slag för alla åldrar.
 
 
       Visning Torsten Renqvists ateljé
@@ -48,43 +57,52 @@ sections:
       **Söndag 14 maj 12-16**
 
 
-      Utställningarna
+      Alla utställningar öppna
 
 
-      Workshop för alla åldrar
+      Workshop av olika slag för alla åldrar
 
 
       Visning Torsten Renqvists ateljé
+
+
+      Enklare kaffeservering
 
 
       **Söndag 21 maj 12-16**
 
 
-      Utställningarna
+      Alla utställningar öppna
 
 
-      Workshop för alla åldrar
+      Workshop av olika slag för alla åldrar
 
 
       Visning Torsten Renqvists ateljé
+
+
+      Enklare kaffeservering
 
 
       **Söndag 28 maj 12-16**
 
 
-      Utställningarna
+      Alla utställningar öppna
 
 
-      Workshop för alla åldrar
+      Workshop av olika slag för alla åldrar
 
 
       Visning Torsten Renqvists ateljé
+
+
+      Enklare kaffeservering
 
 
       **Söndag 4 juni 12-16**
 
 
-      Utställningarna
+      Alla utställningar öppna
 
 
       Workshop för alla åldrar
@@ -93,7 +111,12 @@ sections:
       Visning Torsten Renqvists ateljé
 
 
-      Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider
+      Enklare kaffeservering
+
+
+
+
+      *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider*
   - title: Kursprogram våren 2023
     body: >-
       **Betongkurs**
