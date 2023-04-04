@@ -30,9 +30,6 @@ sections:
       Till utställningarna finns också frågelekar som bidrar till ett aktivt betraktande i nyfikenhetens tecken!
 
 
-      ### **Öppet Hus**
-
-
       **Söndag 7 maj 12-16**
 
 
@@ -52,6 +49,9 @@ sections:
 
 
       Visning Torsten Renqvists ateljé
+
+
+      ### **Öppet Hus**
 
 
       **Söndag 14 maj 12-16**
