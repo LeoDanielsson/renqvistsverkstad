@@ -177,4 +177,11 @@ sections:
       olika yrkesgrupper eller andra verksamheter. Se vidare på beskrivning av
       varje kurs.
     image: /images/workshop4.JPG
+  - title: Höstens utställning
+    body: >-
+      I höst presenterar Skulptörens verkstad utställningen ”Kajsa Mattas och
+      Marylyn Hamilton Gierow, solitärer, kollegor och vänner"
+
+
+      Vernissage 5 september
 ---
