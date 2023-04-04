@@ -143,7 +143,7 @@ sections:
       Den här kursen är perfekt att göra tillsammans med barn eller ungdomar. Du får din egen mask att bära på fest eller äventyr. Dessutom kan du gjuta fler masker i samma form, kanske till hela familjen!
 
 
-      Lördag 20 maj, 27 maj, 3 juni kl 10.30-16 plus söndag 4 juni kl 10.00-12.00
+      Lördag 20 maj, 27 maj kl 10.30-16.00, 3 juni 10.00-12.00  plus söndag 4 juni kl 10.30-16.00.
 
 
       Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig
