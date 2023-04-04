@@ -6,10 +6,10 @@ sections:
       ### **Utställningen ”Djur kan inte ljuga”**
 
 
-      En skulptur utställning där djuren spelar huvudrollen. Vi slår också ett slag för Torsten Renqvists bok ”Djur kan inte ljuga” som kommer att finnas till salu.
+      Skulptörens verkstad presenterar en skulpturutställning där djuren spelar huvudrollen. Vi slår också ett slag för Torsten Renqvists bok ”Djur kan inte ljuga” som kommer att finnas till salu.
 
 
-      Utställare: Asmund Arle,  Jörgen Hammar, Evert Lindfors, Torsten Rehnqvist, Lotta Enocsson, Mats Eriksson, Annika Heed, Anders Jansson, Mats Lodén, Dina Hviid
+      Utställare: Asmund Arle,  Jörgen Hammar, Evert Lindfors, Torsten Rehnqvist, Lotta Enocsson, Mats Eriksson, Annika Heed, Anders Jansson, Mats Lodén, Dina Hviid, Mats Åberg, Bitte Jonason Åkerlund, Erik Åkerlund
 
 
       ### **Gårdsutställningen**
@@ -25,6 +25,9 @@ sections:
 
 
       En stig i trädgården speciellt för barn.  Kom och upptäck spännande skulpturer i snåren!
+
+
+      Till utställningarna finns också frågelekar som bidrar till ett aktivt betraktande i nyfikenhetens tecken!
 
 
       ### **Öppet Hus**
