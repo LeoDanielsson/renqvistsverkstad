@@ -33,13 +33,21 @@ sections:
       Till utställningarna finns också frågelekar som bidrar till ett aktivt betraktande i nyfikenhetens tecken!
 
 
-      Förfriskningar och enklare kaffeservering
 
 
-      Torsten Renqvists sällskapet bjuder på taklagsfest kl. 15- Torsten Renqvist ateljé har fått nytt tak. Böcker samt reproduktioner av valda träsnitt ur Renqvists Djurserie kommer att finnas till reducerat pris. Musikaliska improvisationer ramar in med trio Paul Stouthamer- cello, Matias Lindberg- piano, Jess Gerztenkorn- bas.
+      ### **Öppet Hus**
+
+
+      **V﻿ernissage Söndagen 7 maj kl 12-16** 
+
+
+      U﻿tställningen "Djur kan inte ljuga"  öppnar!
 
 
       Dagen bjuder på:
+
+
+      Förfriskningar och enklare kaffeservering
 
 
       Alla utställningarna öppna
@@ -51,7 +59,7 @@ sections:
       Visning Torsten Renqvists ateljé
 
 
-      ### **Öppet Hus**
+      Torsten Renqvists sällskapet bjuder även på taklagsfest kl. 15- Torsten Renqvist ateljé har fått nytt tak. Böcker samt reproduktioner av valda träsnitt ur Renqvists Djurserie kommer att finnas till reducerat pris. Musikaliska improvisationer ramar in med trio Paul Stouthamer- cello, Matias Lindberg- piano, Jess Gerztenkorn- bas. 
 
 
       **Söndag 14 maj 12-16**
@@ -117,6 +125,7 @@ sections:
 
 
       *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider*
+    image: /images/affisch-renqvist.jpg
   - title: Kursprogram våren 2023
     body: >-
       **Betongkurs**
