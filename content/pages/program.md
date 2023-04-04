@@ -148,6 +148,13 @@ sections:
 
       Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig
     image: ""
+  - title: Höstens utställning
+    body: >-
+      I höst presenterar Skulptörens verkstad utställningen ”Kajsa Mattas och
+      Marylyn Hamilton Gierow, solitärer, kollegor och vänner"
+
+
+      Vernissage 5 september
   - title: Vinter i Skulptörens Verkstad
     body: >-
       Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
@@ -177,11 +184,4 @@ sections:
       olika yrkesgrupper eller andra verksamheter. Se vidare på beskrivning av
       varje kurs.
     image: /images/workshop4.JPG
-  - title: Höstens utställning
-    body: >-
-      I höst presenterar Skulptörens verkstad utställningen ”Kajsa Mattas och
-      Marylyn Hamilton Gierow, solitärer, kollegor och vänner"
-
-
-      Vernissage 5 september
 ---
