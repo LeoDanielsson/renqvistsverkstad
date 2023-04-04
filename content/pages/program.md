@@ -6,6 +6,9 @@ sections:
       ### **Utställningen ”Djur kan inte ljuga”**
 
 
+      SÖNDAG 7 MAJ KL 12-16 VERNISSAGE
+
+
       Skulptörens verkstad presenterar en skulpturutställning där djuren spelar huvudrollen. Vi slår också ett slag för Torsten Renqvists bok ”Djur kan inte ljuga” som kommer att finnas till salu.
 
 
