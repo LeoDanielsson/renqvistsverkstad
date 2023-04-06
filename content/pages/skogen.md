@@ -83,11 +83,10 @@ cards:
       throughout Upplands Väsby and stretches out to Sollentuna and the other
       surrounding municipalities.
   - title: "Vernissage i Skulpturskogen Ed "
-    ingress: POETISKA EKON
+    ingress: POETISKA EKON - Lördag 13 maj kl 12-16 Utställningen invigs kl 13 med
+      en musikalisk improvisation
     body: >-
-      Lördag 13 maj kl 12-16 Utställningen invigs kl 13 med en musikalisk
-      improvisation
-
+      
 
       I skogsbrynet runt skogen presenteras nio dikter eller diktstrofer som var och en hör samman med ett konstnärligt verk i närheten inne i skogen. 
 
