@@ -82,6 +82,49 @@ cards:
       with the walking trail called “Upplevelsestråket” that continues
       throughout Upplands Väsby and stretches out to Sollentuna and the other
       surrounding municipalities.
+  - title: "Vernissage i Skulpturskogen Ed "
+    ingress: POETISKA EKON
+    body: >-
+      Lördag 13 maj kl 12-16 Utställningen invigs kl 13 med en musikalisk
+      improvisation
+
+
+      I skogsbrynet runt skogen presenteras nio dikter eller diktstrofer som var och en hör samman med ett konstnärligt verk i närheten inne i skogen. 
+
+
+      Poesins svar i form av bild och skulptur.
+
+
+      I skogen finns också verk från utställningen ”Gåtfulla träd”.
+
+
+      Utställande konstnärer:
+
+
+      Bo Andersson, Katinka Andersson, Åsa Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich,  Sophi Vejrich
+
+
+      Restaurangen är öppen kl 11-16??
+
+
+      Varmt välkomna önskar Kulturföreningen Källaren
+
+
+      www.renqvistsverkstad.se/skogen
+
+
+
+
+      Tack till Johan Curman markägare
+
+
+      Bisslinge Förvaltning AB
+
+
+      Med stöd av Upplands Väsby kommun
+
+
+      ![](/images/poetiska-ekon.jpg)
   - body: >-
       Lördagen 25 februari är alla sportlovslediga barn välkomna att med sina
       vänner och föräldrar slå ett slag för alla utrotningshotade djur.\
