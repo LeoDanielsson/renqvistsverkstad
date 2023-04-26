@@ -163,7 +163,7 @@ sections:
       Marylyn Hamilton Gierow, solitärer, kollegor och vänner"
 
 
-      Vernissage 5 september
+      Vernissage 3e september.
   - title: Vinter i Skulptörens Verkstad
     body: >-
       Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
