@@ -128,6 +128,11 @@ sections:
     image: /images/affisch-renqvist.jpg
   - title: Kursprogram våren 2023
     body: >-
+      Anmäl er till [annikaheed@hotmail.com](mailto:annikaheed@hotmail.com) vid
+      frågor ring 0738262254. Plats vid kursen ges i förhållande till när man
+      anmäler sig i betydelsen först till kvarn.
+
+
       **Betongkurs**
 
 
