@@ -54,9 +54,8 @@ cards:
     ingress: POETISKA EKON - Lördag 13 maj kl 12-16 Utställningen invigs kl 13 med
       en musikalisk improvisation
     body: >-
-      
-
-      I skogsbrynet runt skogen presenteras nio dikter eller diktstrofer som var och en hör samman med ett konstnärligt verk i närheten inne i skogen. 
+      I skogsbrynet runt skogen presenteras nio dikter eller diktstrofer som var
+      och en hör samman med ett konstnärligt verk i närheten inne i skogen. 
 
 
       Poesins svar i form av bild och skulptur.
@@ -71,15 +70,13 @@ cards:
       Bo Andersson, Katinka Andersson, Åsa Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich,  Sophi Vejrich
 
 
-      Restaurangen är öppen kl 11-16??
+      Restaurangen är öppen kl 11-16
 
 
       Varmt välkomna önskar Kulturföreningen Källaren
 
 
       www.renqvistsverkstad.se/skogen
-
-
 
 
       Tack till Johan Curman markägare
