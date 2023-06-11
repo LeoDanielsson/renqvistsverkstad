@@ -32,6 +32,11 @@ cards:
       **Tillgänglighet** vid Skulpturskogen Ed: Intill skogen finns en Parkeringsplats. Det löper promenadvägar runt skogen som fungerar för rullstol. Från vägen ser man många av skulpturerna i skogen samt den lilla utställningen som visas på de små socklarna utmed vägen. Med hjälp kan man rulla in i skogens centrumglänta där många av skogens skulpturer finns. Det är däremot svårt att nå de skulpturala installationer som finns i mer otillgänglig skog.l Till Villa Eds café finns rullstolsramp.
 
 
+
+
+      Kulturföreningen Källaren deltar i olika projekt förutom att driva Skulpturskogen Ed. Den 15 och 16 juni deltar fyra av föreningens medlemmar i äventyrsspelet "Skulptursnurran" Läs mer här nedan!
+
+
       ![](https://www.renqvistsverkstad.se/images/stuga.jpg)
 
 
