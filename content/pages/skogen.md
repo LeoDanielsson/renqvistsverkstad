@@ -50,43 +50,6 @@ cards:
 
 
       Varmt Välkomna till Skulpturskogen Ed!
-  - body: >-
-      In the Forest of Sculptures you can walk along the small paths while
-      discovering art in a completely new way. There are sculptures to be found
-      in the most unexpected places: in the groves, high up in the treetops or
-      why not hidden in the knothole of a tree. This is an art exhibition that
-      you can enjoy out in the fresh air and in the freedom of nature.
-
-
-      If you like, you can explore the Forest of Sculptures in a fun and enlightening way by following different “discovery adventures”. Each work of art has a story to tell about nature, history or maybe a secret of its own, and it’s up to you to solve its riddles! Pick up the questions and answers in the cabinet at the entrance of the forest. There are several different “discovery adventures” for children of all ages, even for the very youngest.
-
-
-      After the walk in the forest, Villa Ed welcomes you to a moment of rest and relaxation in the beautiful garden where you can enjoy a hot beverage, a homemade meal or a pastry. Villa Ed is a beautiful old house that has become a meeting point for all kinds of minds. Alongside the café and bistro the Villa’s businesses offers interior design shopping, lingerie, art handicrafts, massage therapists, hairdressers, beauty treatments as well as counseling and therapy. 
-
-
-      Ed, the Forest of Sculptures opened for the first time on the 24th of April 2021. Events and happenings will be posted in a separate program on this website and on the website of Villa Ed [www.villaed.com](http://www.villaed.com/) where you can also find instructions on how to get here. If you want to read more about the walking trail “Upplevelsestråket” you can find the information on the website of Upplands Väsby [www.upplandsvasby.se](http://www.upplandsvasby.se/)
-
-
-      Thank you to Johan Curman, landowner
-
-
-      Thank you to Bisslinge and Svartinge estates.
-
-
-      With funding from Kultur och fritid, Upplands Väsby kommun.
-
-
-      We wish you a warm welcome to Ed, the Forest of Sculptures!
-    title: ED- THE FOREST OF SCULPTURES
-    ingress: The Forest of Sculptures is something as remarkable as a sculpture park
-      doubling as a forest. In the middle of the beautiful cultural landscape of
-      Upplands Väsby, next to Villa Ed, lays the forest with its high beeches
-      and old oak trees. Here you can find an art exhibition of high quality.
-      The artwork harmonizes with not only the forest itself but also with the
-      landscape that surrounds it, with the lake and the medieval church and
-      with the walking trail called “Upplevelsestråket” that continues
-      throughout Upplands Väsby and stretches out to Sollentuna and the other
-      surrounding municipalities.
   - title: "Vernissage i Skulpturskogen Ed "
     ingress: POETISKA EKON - Lördag 13 maj kl 12-16 Utställningen invigs kl 13 med
       en musikalisk improvisation
@@ -129,6 +92,80 @@ cards:
 
 
       ![](/images/poetiska-ekon.jpg)
+  - body: >-
+      In the Forest of Sculptures you can walk along the small paths while
+      discovering art in a completely new way. There are sculptures to be found
+      in the most unexpected places: in the groves, high up in the treetops or
+      why not hidden in the knothole of a tree. This is an art exhibition that
+      you can enjoy out in the fresh air and in the freedom of nature.
+
+
+      If you like, you can explore the Forest of Sculptures in a fun and enlightening way by following different “discovery adventures”. Each work of art has a story to tell about nature, history or maybe a secret of its own, and it’s up to you to solve its riddles! Pick up the questions and answers in the cabinet at the entrance of the forest. There are several different “discovery adventures” for children of all ages, even for the very youngest.
+
+
+      After the walk in the forest, Villa Ed welcomes you to a moment of rest and relaxation in the beautiful garden where you can enjoy a hot beverage, a homemade meal or a pastry. Villa Ed is a beautiful old house that has become a meeting point for all kinds of minds. Alongside the café and bistro the Villa’s businesses offers interior design shopping, lingerie, art handicrafts, massage therapists, hairdressers, beauty treatments as well as counseling and therapy. 
+
+
+      Ed, the Forest of Sculptures opened for the first time on the 24th of April 2021. Events and happenings will be posted in a separate program on this website and on the website of Villa Ed [www.villaed.com](http://www.villaed.com/) where you can also find instructions on how to get here. If you want to read more about the walking trail “Upplevelsestråket” you can find the information on the website of Upplands Väsby [www.upplandsvasby.se](http://www.upplandsvasby.se/)
+
+
+      Thank you to Johan Curman, landowner
+
+
+      Thank you to Bisslinge and Svartinge estates.
+
+
+      With funding from Kultur och fritid, Upplands Väsby kommun.
+
+
+      We wish you a warm welcome to Ed, the Forest of Sculptures!
+    title: ED- THE FOREST OF SCULPTURES
+    ingress: The Forest of Sculptures is something as remarkable as a sculpture park
+      doubling as a forest. In the middle of the beautiful cultural landscape of
+      Upplands Väsby, next to Villa Ed, lays the forest with its high beeches
+      and old oak trees. Here you can find an art exhibition of high quality.
+      The artwork harmonizes with not only the forest itself but also with the
+      landscape that surrounds it, with the lake and the medieval church and
+      with the walking trail called “Upplevelsestråket” that continues
+      throughout Upplands Väsby and stretches out to Sollentuna and the other
+      surrounding municipalities.
+  - title: Skulptursnurran i Sigma - en äventyrsvandring!
+    ingress: "Möt mystiska clowner, klura ut hemligheter och bygg jätteskulpturer!
+      Kan du följa ledtrådarna, klara uppdragen och lösa mysteriet? "
+    body: >-
+      **Vad är Skulptursnurran?**\
+
+      Skulptursnurran är en upplevelsevandring, en händelse-skattjakt, ett äventyr där barnen själva blir hjältarna, för barn och familjer. Deltagarna blir skickade på ett mystiskt uppdrag där de möter clowner, skådespelare och konstnärer. På varje station får barnen ett uppdrag där de tillsammans med konstnärerna får hjälpas åt att skapa skulpturer och lösa gåtor för att hitta nästa ledtråd och slutligen kanske lösa mysteriet...
+
+
+      >
+
+      >
+
+      > **När?** Den 15 och 16 juni kl 11 - 15. (För förbokade grupper även kl 10-11). Äventyrsvandringen tar ca 45 minuter.
+
+      >
+
+      > **Hur?** Barnen går i grupper om ca 10 barn var tionde minut. Upplägget kan liknas vid en tipspromenad, fast varje station innehåller något helt annat än 1x2 - frågor...
+
+      >
+
+      > **Var?** Parken bakom Sigma centrum i Väsby.
+
+      >
+
+      > **För vem?** Uppdragen passar bäst för barn mellan 6 och 12 år, men vuxna och yngre syskon är så klart också välkomna att följa med!
+
+      >
+
+      > **Kostnad:** GRATIS
+
+      >
+
+      >
+
+
+      ![](/images/unknown.jpeg)
   - body: >-
       Lördagen 25 februari är alla sportlovslediga barn välkomna att med sina
       vänner och föräldrar slå ett slag för alla utrotningshotade djur.\
