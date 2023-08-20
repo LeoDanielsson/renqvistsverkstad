@@ -165,19 +165,11 @@ sections:
       medlemmar i Riksförbundet Sveriges Konstföreningar, vilket innebär att vi
       kan driva vår verksamhet än mer professionellt. Med vårt medlemskap i
       Arbetslivsmuseer ArbetSam har vi tillgång till stor kunskap om hur ett
-      litet museum kan drivas. 
+      litet museum kan Skriv istället: Vintern är planeringstid i Skulptörens
+      verkstad. Planering för vårens utställningar och för Öppet hus. 
 
 
-      I år kan vi stolta fira 10-årsjubileum och det firar vi med tre spännande utställningar!
-
-
-      Gårdsutställningen vid Skulptörens verkstad öppnar med nya skulpturer tillsammans med de fasta som finns på gården. Gården är alltid öppen för besök.
-
-
-      Inne i verkstaden visas en unik utställning med Torsten Renqvists teckningar och grafik! Där kan även ett antal skulpturer ses,  visning av Torstens ateljé sker varje söndag, ateljén ligger en liten bit från verkstaden.
-
-
-      Till hösten har vi den stora äran att presentera en alldeles speciell utställning. Skulptur av Siri Derkert och Ninnan Santesson. Två stora konstnärer som även var goda vänner. Mer information om utställningen kommer längre fram!
+      Vi är medlemmar i Riksförbundet Sveriges Konstföreningar, vilket innebär att vi kan bedriva vår verksamhet än mer professionellt. Med vårt medlemsskap i Arbetslivsmuseer ArbetSam har vi tillgång till stor kunskap om hur ett litet museum kan drivas.
     image: /images/img_0805.jpg
   - title: Konstkurser
     body: Bokningsbara fördjupnings-kurser för små eller större grupper. I år
