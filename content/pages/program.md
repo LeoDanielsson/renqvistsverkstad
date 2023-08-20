@@ -2,18 +2,162 @@
 title: Program
 sections:
   - body: >-
-      Vi uppmärksammar Torsten Renqvist och Skulptörens verkstad! Ett samarbete
-      med Kulturhuset Dieselverkstaden och Lele Lele Orchestra. 2 september kl
-      11-18.30 Skulptörens verkstad bjuder på familjedag med
-      skulpturutställningar, kafé och ett Äventyrsspel där barnen får vara med
-      och bygga stora skulpturer 11-15.  Dagen fortsätter i Myrsjöparken där
-      "Spelande tjäder" står av Torsten Renqvist. Här bjuds på balkantoner till
-      bandet Lele Lele Orchestra. Först danslektioner i bulgariska ringdanser
-      därefter musik och dans. Anna-Lena Renqvist inviger kvällen.  
+      **2 september: En dag i Skulptörens verkstad och i Myrsjöparken med
+      "Spelande tjäder" av Torsten Renqvist**
 
 
-      Vernissage 3 september för skulpturutställningen "Kajsa Mattas och Marylyn Hamilton Gierow, Solitärer, Kollegor och Vänner" en konstnärlig helhetsupplevelse där två av våra legendariska skulptörer visar sina verk! 12-16 musik kl 14 av Paul Stouthamer, cello
-    title: Öppningshelgen 2-3 september
+      Vi uppmärksammar Torsten Renqvist och SKULPTÖRENS
+
+
+      VERKSTAD. Ett samarbete med Kulturhuset Dieselverkstaden och Lele Lele Orchestra!
+
+
+      Den 2 september 11-18.30
+
+
+      Skulptörens verkstad bjuder på en familjedag med skulpturutställningar, enkelt kafé och ett för dagen nyskrivet äventyrsspel där barnen får vara med och bygga stora skulpturer kl 11-15
+
+
+      Dagen fortsätter sedan kl 17-18.30 i Myrsjöparken där skulpturen "Spelande tjäder” av Torsten Renqvist står. Anna- Lena Renqvist inleder kvällen. Därefter bjuds på Bulgarisk folkmusik och balkanromsk musik till bandet Lele Lele Orchestra. Lär dig dansa bulgarisk ringdans, därefter dans och musik på dansbanan.
+
+
+      **3 september: "Kajsa Mattas och Marylyn Hamilton Gierow, solitärer, kollegor och vänner"**\
+
+      \
+
+      Att vara konstnär är ett ensamt arbete. För att hitta sitt sanna språk krävs de ensamma timmarna i ateljén. Att finna en kollega att då och då dela vardagslivets och arbetslivets olika delar med, är därför ovärderligt. Här presenterar Skulptörens verkstad två kollegor och vänner som var och en uttrycker sig på sitt genuina sätt. Vi får möte olika sätt att hantera materialets formbarhet, olika takt för att följa uttryckets nödvändighet och två olika temperament.\
+
+      Men tron på formens förmåga att uttrycka och förmedla väsentligheter om livets olika skiften - är densamma.\
+
+      \
+
+      Kajsa Mattas f 1948\
+
+      Kungliga Konsthögskolan 75-81\
+
+      Ledamot av kungliga Akademien sedan 1989\
+
+      \
+
+      Marylyn Hamilton Gierow Kungliga Konsthögskolan f 1936\
+
+      Kungliga konsthögskolan 63-68
+
+
+      **Höstens Gårdsutställning**\
+
+      På gården och i trädgården visas högklassig skulptur i\
+
+      i samklang med naturen.\
+
+      \
+
+      Utställare: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed\
+
+      Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund\
+
+      Mats Lodén, Torsten Renqvist, Mats Åberg, Erik Åkerlund\
+
+      \
+
+      Till utställningarna finns också frågelekar som inbjuder till\
+
+      ett aktivt betraktande i nyfikenhetens tecken.\
+
+      \
+
+      **Nyheten "Lilla rundan"**\
+
+      En stig i trädgården speciellt för barn!\
+
+      Kom och upptäck spännande skulpturer i snåren!\
+
+      \
+
+      **Workshops för barn och vuxna, alla dagar!**\
+
+      \
+
+      **ÖPPET HUS**
+
+
+      Lördag och Söndag 2-3 september 12-16\
+
+      2 september Stor familjedag med specialskrivet Äventyrsspel för barnen! Se speciellt program.\
+
+      3 september Vernissage för utställningen\
+
+      "Kajsa Mattas och Marylyn Hamilton Gierow, solitärer, kollegor och vänner"\
+
+      Invigning av Leif Bolter kl 13.00 därefter musik av\
+
+      Paul Staouthamer, cello.\
+
+      Visning av Torsten Renqvists ateljé\
+
+      Förfriskningar och enklare kaffeservering\
+
+      Workshop av olika slag för alla åldrar\
+
+      **\
+
+      Öppet Hus**\
+
+      alla lördagar och söndagar fram till 1 oktober 12-16\
+
+      Utställningarna "Kajsa Mattas och Marylyn Gierow" och "Höstens Gårdsutställning"\
+
+      Lilla Rundan för barn\
+
+      Frågelekar i nyfikenhetens tecken för vuxna och barn\
+
+      Workshops av olika slag för alla åldrar\
+
+      Visning av Torsten Renqvists ateljé kl 14.00\
+
+      Enklare kaffeservering\
+
+      Lördag 30 september och Söndag 1 oktober 12-16\
+
+      Finissage 1 oktober\
+
+      för "Kajsa Mattas och Matylyn Hamilton Gierow" med musik av "Palace on wheels" som presenterar  nordindisk klassisk musik kring temat "Det individuella i konsten och det kollektiva" kl 15.00. [www.stockholmsangeet.se](http://www.stockholmsangeet.se/)\
+
+      I samarbete med Sangeet Festival, Sveriges största festival för klassisk indisk musik och da**ns**\
+
+      Utställningarna Kajsa mattas och marylyn hamilton Gierow samt Höstens Gårdsutställning\
+
+      Workshop av olika slag för alla åldrar\
+
+      Visning Torsten Renqvists ateljé\
+
+      Enklare kaffeservering\
+
+      *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider. Kursiverat nu*
+
+
+      **Kursprogram hösten 2023**\
+
+      **Betongkurs**\
+
+      Lär dig modellera, ta en gipsform och gjut i betong, ytbehandling eller färgbehandling av betong\
+
+      Efter genomgången kurs kan du så mycket att du kan fortsätta att arbeta i betong på egen hand.\
+
+      En tredagarskurs, möjlig att boka för grupper. Exakta datum görs upp separat, anpassat per grupp.\
+
+      Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig.\
+
+      **Lattexmasker**\
+
+      Gör en djurmask, skräck eller rolig mask i lera, ta gipsform och gjut din egen latexmask, måla den\
+
+      Den här kursen är perfekt att göra tillsammans med barn eller ungdomar. Du får din egen mask att bära på fest eller äventyr. Dessutom kan du gjuta fler masker i samma form, kanske till hela familjen!\
+
+      En tre och en halvdagarskurs. Möjlig att boka för för grupper. Exakta tider görs upp separat anpassat per grupp.\
+
+      Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig
+    title: HÖSTEN 2023
   - title: Våren 2023
     body: >-
       ### **Utställningen ”Djur kan inte ljuga”**
