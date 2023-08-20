@@ -2,14 +2,11 @@
 title: Program
 sections:
   - body: >-
-      **2 september: En dag i Skulptörens verkstad och i Myrsjöparken med
+      ### **2 september: En dag i Skulptörens verkstad och i Myrsjöparken med
       "Spelande tjäder" av Torsten Renqvist**
 
 
-      Vi uppmärksammar Torsten Renqvist och SKULPTÖRENS
-
-
-      VERKSTAD. Ett samarbete med Kulturhuset Dieselverkstaden och Lele Lele Orchestra!
+      Vi uppmärksammar Torsten Renqvist och SKULPTÖRENS VERKSTAD. Ett samarbete med Kulturhuset Dieselverkstaden och Lele Lele Orchestra!
 
 
       Den 2 september 11-18.30
@@ -21,30 +18,16 @@ sections:
       Dagen fortsätter sedan kl 17-18.30 i Myrsjöparken där skulpturen "Spelande tjäder” av Torsten Renqvist står. Anna- Lena Renqvist inleder kvällen. Därefter bjuds på Bulgarisk folkmusik och balkanromsk musik till bandet Lele Lele Orchestra. Lär dig dansa bulgarisk ringdans, därefter dans och musik på dansbanan.
 
 
-      **3 september: "Kajsa Mattas och Marylyn Hamilton Gierow, solitärer, kollegor och vänner"**\
+      ### **3 september: "Kajsa Mattas och Marylyn Hamilton Gierow, solitärer, kollegor och vänner"**
+
+
+      Att vara konstnär är ett ensamt arbete. För att hitta sitt sanna språk krävs de ensamma timmarna i ateljén. Att finna en kollega att då och då dela vardagslivets och arbetslivets olika delar med, är därför ovärderligt. Här presenterar Skulptörens verkstad två kollegor och vänner som var och en uttrycker sig på sitt genuina sätt. Vi får möte olika sätt att hantera materialets formbarhet, olika takt för att följa uttryckets nödvändighet och två olika temperament.Men tron på formens förmåga att uttrycka och förmedla väsentligheter om livets olika skiften - är densamma.Kajsa Mattas f 1948Kungliga Konsthögskolan 75-81Ledamot av kungliga Akademien sedan 1989Marylyn Hamilton Gierow Kungliga Konsthögskolan f 1936Kungliga konsthögskolan 63-68
+
+
+      ### **Höstens Gårdsutställning**
+
 
       \
-
-      Att vara konstnär är ett ensamt arbete. För att hitta sitt sanna språk krävs de ensamma timmarna i ateljén. Att finna en kollega att då och då dela vardagslivets och arbetslivets olika delar med, är därför ovärderligt. Här presenterar Skulptörens verkstad två kollegor och vänner som var och en uttrycker sig på sitt genuina sätt. Vi får möte olika sätt att hantera materialets formbarhet, olika takt för att följa uttryckets nödvändighet och två olika temperament.\
-
-      Men tron på formens förmåga att uttrycka och förmedla väsentligheter om livets olika skiften - är densamma.\
-
-      \
-
-      Kajsa Mattas f 1948\
-
-      Kungliga Konsthögskolan 75-81\
-
-      Ledamot av kungliga Akademien sedan 1989\
-
-      \
-
-      Marylyn Hamilton Gierow Kungliga Konsthögskolan f 1936\
-
-      Kungliga konsthögskolan 63-68
-
-
-      **Höstens Gårdsutställning**\
 
       På gården och i trädgården visas högklassig skulptur i\
 
@@ -62,11 +45,15 @@ sections:
 
       Till utställningarna finns också frågelekar som inbjuder till\
 
-      ett aktivt betraktande i nyfikenhetens tecken.\
+      ett aktivt betraktande i nyfikenhetens tecken.
+
 
       \
 
-      **Nyheten "Lilla rundan"**\
+      **Nyheten "Lilla rundan"**
+
+
+      \
 
       En stig i trädgården speciellt för barn!\
 
