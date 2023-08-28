@@ -5,7 +5,7 @@ sections:
   - body: |-
       På gården och i trädgården visas högklassig skulptur i\
       i samklang med naturen.
-
+  - body: |-
       Utställare: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed\
       Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund\
       Mats Lodén, Torsten Renqvist, Mats Åberg, Erik Åkerlund\
