@@ -1,5 +1,5 @@
 ---
-title: KAJSA MATTAS OCH MARYLYN HAMILTON GIEROW, SOLITÄRER, KOLLEGOR OCH VÄNNER
+title: Kajsa Mattas och Marilyn Hamilton Gierow, Solitärer, Kollegor och vänner
 date: 2023-09-03T13:19:01.667Z
 sections:
   - body: Att vara konstnär är ett ensamt arbete. För att hitta sitt sanna språk
