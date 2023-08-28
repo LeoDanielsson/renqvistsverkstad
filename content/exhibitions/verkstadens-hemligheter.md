@@ -1,7 +1,7 @@
 ---
 title: Verkstadens hemligheter
 order: 1
-date: 2021-07-14T18:04:00.000Z
+date: 2021-05-14T18:04:00.000Z
 sections:
   - body: >-
       **Domenico** kom med sin morbror till Sverige som 14 åring från Dizzasco,
