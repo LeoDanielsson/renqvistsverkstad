@@ -1,6 +1,6 @@
 ---
 title: Utställningen ”Djur kan inte ljuga
-date: 2023-08-20T10:44:03.027Z
+date: 2023-05-20T10:44:03.027Z
 sections:
   - body: Skulptörens verkstad presenterar en skulpturutställning där djuren spelar
       huvudrollen. Vi slår också ett slag för Torsten Renqvists bok ”Djur kan
