@@ -18,6 +18,9 @@ sections:
       Dagen fortsätter sedan kl 17-18.30 i Myrsjöparken där skulpturen "Spelande tjäder” av Torsten Renqvist står. Anna- Lena Renqvist inleder kvällen. Därefter bjuds på Bulgarisk folkmusik och balkanromsk musik till bandet Lele Lele Orchestra. Lär dig dansa bulgarisk ringdans, därefter dans och musik på dansbanan.
 
 
+      ![](/images/img_8453.jpg)
+
+
       ### **3 september: "Kajsa Mattas och Marylyn Hamilton Gierow, solitärer, kollegor och vänner"**
 
 
