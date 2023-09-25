@@ -12,4 +12,8 @@ sections:
       \
       Till utställningarna finns också frågelekar som inbjuder till\
       ett aktivt betraktande i nyfikenhetens tecken.
+
+
+
+      Med stöd av Sveriges Konstföreningar
 ---
