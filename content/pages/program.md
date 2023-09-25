@@ -27,6 +27,9 @@ sections:
       Att vara konstnär är ett ensamt arbete. För att hitta sitt sanna språk krävs de ensamma timmarna i ateljén. Att finna en kollega att då och då dela vardagslivets och arbetslivets olika delar med, är därför ovärderligt. Här presenterar Skulptörens verkstad två kollegor och vänner som var och en uttrycker sig på sitt genuina sätt. Vi får möte olika sätt att hantera materialets formbarhet, olika takt för att följa uttryckets nödvändighet och två olika temperament.Men tron på formens förmåga att uttrycka och förmedla väsentligheter om livets olika skiften - är densamma.
 
 
+      Med stöd av Sveriges Konstföreningar 
+
+
       [Läs mer om utställningen](/utstallningar/kajsa-mattas-och-marylyn-hamilton-gierow-solit%C3%A4rer-kollegor-och-v%C3%A4nner)
 
 
@@ -52,6 +55,9 @@ sections:
       Till utställningarna finns också frågelekar som inbjuder till\
 
       ett aktivt betraktande i nyfikenhetens tecken.
+
+
+      Med stöd av Sveriges Konstföreningar 
 
 
       \
