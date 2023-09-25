@@ -16,6 +16,9 @@ sections:
 
 
       Men tron på formens förmåga att uttrycka och förmedla väsentligheter om livets olika skiften - är densamma.
+
+
+      Med stöd av Sveriges Konstföreningar
     image: /images/image7.png
   - body: >-
       > "All rörelse i Kajsa Mattas skulpturer är nertonad, som komprimerad  av
