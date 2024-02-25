@@ -1,6 +1,166 @@
 ---
 title: Program
 sections:
+  - title: PROGRAM VÅREN 2024
+    body: >-
+      **VERNISSAGE 5 MAJ FÖR ”SKULPTÖRENS SAMTAL” TORSTEN Renqvist, RUNE
+      RYDELIUS OCH ANDERS JANSSON** Här kommer ett tyst samtal utspelas mellan
+      skulptörerna via deras verk. Kl 12-16
+
+
+      **HÖSTEN 2024 VI ÄR STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16
+
+
+      **Våren 2024**
+
+
+      **Vi öppnar för säsongen söndagen  5 maj kl: 12-16** 
+
+
+      **ÖPPET TIDER – Skulptörens verkstad håller öppet med start söndag 5 maj därefter alla helger lörd-sönd fram till 2 juni kl 12-16**
+
+
+      I år är det 100 år sedan skulptören Torsten Renqvist föddes. Detta kommer vi uppmärksamma i Skulptörens verkstad samtidigt som det till hösten blir en stor retrospektiv utställning på Konstakademien i Stockholm.
+
+
+      Vi startar upp i verkstaden med
+
+
+      **Vernissage 5 maj kl 12.00 för ”Skulptörens samtal”**
+
+
+      Här kommer ett tyst samtal utspelas mellan skulptörerna Torsten Renqvist, Rune Rydelius och Anders Jansson via deras verk. Tre unika konstnärskap möts med respekt för varandras egenart.
+
+
+      Invigning av utställningarna i verkstaden och på gården invigs kl 14.00 med ett konstnärssamtal mellan Runde Rydelius och Anders Jansson. Moderator Anna_Lena Renqvist.
+
+
+      Musik kl 14.30
+
+
+      Visning Av Torsten Renqvists ateljé kl 15.00
+
+
+      **Vårens gårdsutställning ”Samtal i trädgården”** öppnas 5 maj. Här pågår tysta samtal på gård och i trädgården.
+
+
+      Tio konstnärer, tio uttal!
+
+
+      Deltagande konstnärer: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Bitte Jonason Åkerlund, Filippa von Krusenstjerna, Mats Lodén, Torsten Renqvist, Mats Åberg, Erik Åkerlund
+
+
+      **Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
+
+
+      **Lördag 18 maj** Ansluter bi oss till **Den biologiska mångfaldens dag** i Nacka Vi lär oss mer om rödlistade arter i vår närmiljö och skapar ett myller av insekter och andra djur som får flyga fritt i Skulptörens verkstad. Skapande workshop. Passar alla åldrar från 2 år och uppåt! Fri Entré Varmt Välkomna!
+
+
+      **Söndagen 19 maj** viger vi åt Torsten Renqvist, hans liv och konst. I år är det 100 år sedan Torsten Renqvist föddes.
+
+
+      Anna-Lena Renqvist berättar om vår aktuella utställning och om Torstens liv och konstnärskap.
+
+
+      Musik av Paul Stouthamer , cello
+
+
+      **2 Juni** blir det Finissage med musik och avslutningsfest!
+
+
+      Utställningsprogrammet stöds av Sveriges Konstföreningar
+
+
+      **Visning av Torsten Renqvists ateljé kl 14.00 alla dagar**
+
+
+      **Enklare kaffeservering med bakverk och smörgåsar**
+
+
+      **Kursprogram våren 2024**\
+
+      **Betongkurs**\
+
+      Lär dig modellera, ta en gipsform och gjut i betong, ytbehandling eller färgbehandling av betong\
+
+      Efter genomgången kurs kan du så mycket att du kan fortsätta att arbeta i betong på egen hand.\
+
+      En tredagarskurs, möjlig att boka för grupper. 27-28 april kl 11-16 samt 11 maj kl 11-16\
+
+      Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig.\
+
+      **Lattexmasker**\
+
+      Gör en djurmask, skräck eller rolig mask i lera, ta gipsform och gjut din egen latexmask, måla den\
+
+      Den här kursen är perfekt att göra tillsammans med barn eller ungdomar. Du får din egen mask att bära på fest eller äventyr. Dessutom kan du gjuta fler masker i samma form, kanske till hela familjen!\
+
+      En tre och en halvdagarskurs. Möjlig att boka för för grupper. 24-25 augusti 11-16, 1 september 11-13,  8 september 11-16\
+
+      Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig
+
+
+
+
+      **HÖSTENS program**
+
+
+      **ÖPPET TIDER – Skulptörens verkstad håller öppet med start lördag 31 augusti därefter alla helger lörd-sönd fram till 29 september kl 12-16**
+
+
+      **I verkstaden presenterar vi**
+
+
+      **Lars Kleen**
+
+
+      Vi är stolta att presentera Lars Kleen som visar ett specialbyggt verk för Verkstaden.
+
+
+      På gården och i trädgården visas högklassig skulptur i\
+
+      i samklang med naturen. **”Samtal i trädgården”**
+
+
+      Utställare: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Filippa von Krusenstjerna, Mats Lodén, Torsten Renqvist, Mats Åberg, Erik Åkerlund\
+
+      \
+
+      Till utställningarna finns också frågelekar som inbjuder till\
+
+      ett aktivt betraktande i nyfikenhetens tecken.
+
+
+      **"Lilla rundan"**
+
+
+      En stig i trädgården speciellt för barn!\
+
+      Kom och upptäck spännande skulpturer i snåren!
+
+
+      Med stöd av Sveriges Konstföreningar
+
+
+      \
+
+      **Workshops för barn och vuxna, alla dagar!**
+
+
+      **Enkel kaffeservering med bakverk och smörgåsar**
+
+
+      Höstens kurser presenteras i maj\
+
+      \
+
+      *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider.* 
+
+
+      Verksamheten i Skulptörens verkstad stöds av Nacka kommun   
+
+
+      Sveriges Konstföreningar
   - body: >-
       ### **2 september: En dag i Skulptörens verkstad och i Myrsjöparken med
       "Spelande tjäder" av Torsten Renqvist**
