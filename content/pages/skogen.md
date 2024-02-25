@@ -48,7 +48,10 @@ cards:
       Arrangörer Kulturföreningen Källaren www.renqvistsverkstad.se/skogen
 
 
-      Med stöd av\
+      ***Utställningen arrangeras med stöd av Riksförbundet Sveriges Konstföreningar och Kulturrådet***
+
+
+      Utställningen arrangeras med stöd av Riksförbundet Sveriges Konstföreningar och Kulturrådet\
 
       Ideell Kulturallians-Kulturens kapillärer Upplands Väsby kommun\
 
