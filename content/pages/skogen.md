@@ -1,6 +1,72 @@
 ---
 title: Skulpturskogen Ed
 cards:
+  - title: ENDANGERED- RÖRLIGA SKULPTURER!
+    ingress: EN KONSTUTSTÄLLNING OM BIOLOGISK MÅNGFALD
+    body: >-
+      **INVIGNING 9 MARS KL 14 I SKOGEN. I CAFÉ VILLA ED BERÄTTAR TOMAS
+      BANNERHED OM FÅGLAR OCH BABA ANIMAL BLUES SPELAR KL 16.00!**
+
+
+      ![](/images/affisch-renqvist-2024.jpg)
+
+
+      Kulturföreningen Källaren berättar om och gestaltar\
+
+      tio rödlistade arter i vår närmiljö.\
+
+      Öppning av den rörliga delen av berättelsen om utrotningshotade arter i Skulpturskogen Ed\
+
+      Lördag 9 mars kl 14.00 med invigning av Naturskyddsföreningen Väsbys ordförande Pelle Nordmalm
+
+
+      På olika sätt gestaltas de rödlistade arterna i skogens mitt. En del av dem rör sig med hjälp av solceller, andra av den naturliga vindens kraft.
+
+
+      Deltagande konstnärer: Bo Andersson, Katinka Andersson, Lars Brunström, Åsa Elieson, Lotta Enocsson, Mats Eriksson, Annika Heed, Filippa von Krusenstjerna, Sophi Vejrich, Hélène Vejrich
+
+
+      I Café och Bistro Villa Ed serveras för dagen fjärilslätta bakverk och mat med biologisk mångfald!\
+
+      I Caféet bjuds på ett specialprogram samt förtäring kl 16-17: Ange koden ”Skulpturskogen Ed” så ges ni 10% rabatt i caféet. Presentation av projektet
+
+
+      Författaren Tomas Bannerhed läser en egen text och berättar om en rödlistad favoritfågel. Tomas Bannerhed tilldelades Augustpriset för sin debutroman ”Korparna” och är känd för sin programserie ”Bannerheds bevingade vänner” i Sveriges Radio P1.
+
+
+      Därefter en specialskriven djurisk konsert av Baba Blues för dagen i skepnad av ”Baba Animal Blues”.
+
+
+      Fri entré\
+
+      Varmt Välkomna!
+
+
+      Skulpturskogen Ed i Upplands Väsby Vid Villa Ed och Café och Bistro Villa Ed Edsbyvägen 1 Upplands Väsby
+
+
+      Arrangörer Kulturföreningen Källaren www.renqvistsverkstad.se/skogen
+
+
+      Med stöd av\
+
+      Ideell Kulturallians-Kulturens kapillärer Upplands Väsby kommun\
+
+      Johan Curman markägare\
+
+      Bisslinge förvaltning AB\
+
+      Tack till Hans Hansson
+
+
+      I samarbete med\
+
+      RäddaEnArt\
+
+      Naturskyddsföreningen i Upplands Väsby
+
+
+      ![]()
   - title: SKULPTURSKOGEN ED
     ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
       egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
