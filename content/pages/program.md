@@ -1,7 +1,7 @@
 ---
 title: Program
 sections:
-  - title: PROGRAM VÅREN 2024
+  - title: ÅRSPROGRAM 2024
     body: >-
       **VERNISSAGE 5 MAJ FÖR ”SKULPTÖRENS SAMTAL” TORSTEN RENQVIST, RUNE
       RYDELIUS OCH ANDERS JANSSON** Här kommer ett tyst samtal utspelas mellan
@@ -11,7 +11,7 @@ sections:
       **HÖSTEN 2024 VI ÄR STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16
 
 
-      **Våren 2024**
+      # **VÅREN 2024**
 
 
       **Vi öppnar för säsongen söndagen  5 maj kl: 12-16** 
@@ -141,9 +141,11 @@ sections:
 
 
       Sveriges Konstföreningar
-  - title: HÖSTEN 2024
-    body: >-
-      **HÖSTENS program**
+
+
+
+
+      # **HÖSTEN 2024**
 
 
       **ÖPPETTIDER – Skulptörens verkstad håller öppet med start lördag 31 augusti därefter alla helger lörd-sönd fram till 29 september kl 12-16**
