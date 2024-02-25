@@ -3,7 +3,7 @@ title: Program
 sections:
   - title: PROGRAM VÅREN 2024
     body: >-
-      **VERNISSAGE 5 MAJ FÖR ”SKULPTÖRENS SAMTAL” TORSTEN Renqvist, RUNE
+      **VERNISSAGE 5 MAJ FÖR ”SKULPTÖRENS SAMTAL” TORSTEN RENQVIST, RUNE
       RYDELIUS OCH ANDERS JANSSON** Här kommer ett tyst samtal utspelas mellan
       skulptörerna via deras verk. Kl 12-16
 
@@ -17,7 +17,7 @@ sections:
       **Vi öppnar för säsongen söndagen  5 maj kl: 12-16** 
 
 
-      **ÖPPET TIDER – Skulptörens verkstad håller öppet med start söndag 5 maj därefter alla helger lörd-sönd fram till 2 juni kl 12-16**
+      **ÖPPETTIDER – Skulptörens verkstad håller öppet med start söndag 5 maj därefter alla helger lörd-sönd fram till 2 juni kl 12-16**
 
 
       I år är det 100 år sedan skulptören Torsten Renqvist föddes. Detta kommer vi uppmärksamma i Skulptörens verkstad samtidigt som det till hösten blir en stor retrospektiv utställning på Konstakademien i Stockholm.
@@ -98,23 +98,6 @@ sections:
       En tre och en halvdagarskurs. Möjlig att boka för för grupper. 24-25 augusti 11-16, 1 september 11-13,  8 september 11-16\
 
       Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig
-
-
-
-
-      **HÖSTENS program**
-
-
-      **ÖPPET TIDER – Skulptörens verkstad håller öppet med start lördag 31 augusti därefter alla helger lörd-sönd fram till 29 september kl 12-16**
-
-
-      **I verkstaden presenterar vi**
-
-
-      **Lars Kleen**
-
-
-      Vi är stolta att presentera Lars Kleen som visar ett specialbyggt verk för Verkstaden.
 
 
       På gården och i trädgården visas högklassig skulptur i\
