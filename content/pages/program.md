@@ -130,10 +130,7 @@ sections:
       **Workshops för barn och vuxna, alla dagar!**
 
 
-      **Enkel kaffeservering med bakverk och smörgåsar**
-
-
-      Höstens kurser presenteras i maj\
+      **Enkel kaffeservering med bakverk och smörgåsar**\
 
       \
 
