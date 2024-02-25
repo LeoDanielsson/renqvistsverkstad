@@ -144,6 +144,27 @@ sections:
 
 
       Sveriges Konstföreningar
+  - title: HÖSTEN 2024
+    body: >-
+      **HÖSTENS program**
+
+
+      **ÖPPETTIDER – Skulptörens verkstad håller öppet med start lördag 31 augusti därefter alla helger lörd-sönd fram till 29 september kl 12-16**
+
+
+      **I verkstaden presenterar vi**
+
+
+      **Lars Kleen**
+
+
+      Vi är stolta att presentera Lars Kleen som visar ett specialbyggt verk för Verkstaden.
+
+
+      Mer information kommer!
+
+
+      Höstens kurser presenteras i maj
   - body: >-
       ### **2 september: En dag i Skulptörens verkstad och i Myrsjöparken med
       "Spelande tjäder" av Torsten Renqvist**
