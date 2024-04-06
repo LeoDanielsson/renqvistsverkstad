@@ -431,4 +431,12 @@ cards:
 
 
       Tack till Bisslinge förvaltning AB
+  - title: "Innehåll på hemsidan:"
+    ingress: ""
+    body: |-
+      Aktuella utställningar\
+      Presentation av Skulpturskogen Ed\
+      Tillgänglighet och vägbeskrivning\
+      Introduction in english\
+      Tidigare utställningar
 ---
