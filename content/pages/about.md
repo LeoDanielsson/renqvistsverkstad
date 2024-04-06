@@ -87,7 +87,7 @@ sections:
       I verkstaden och ute på gården kommer det att finnas möjlighet att känna på verktyg och material. Upplev hur det är att hugga i sten eller trä! Testa andra material och tekniker.
 
 
-      Skulptörens verkstad är öppen för bokning av visningar. I anknytning till visningar är det möjligt att även boka kortare workshops i skulpturala tekniker. Läs mer på sidan workshops.
+      Skulptörens verkstad är öppen för bokning av visningar. I anknytning till visningar är det möjligt att även boka kortare workshops i skulpturala tekniker. Läs mer på sidan program.
 
 
       En visning av verkstan passar alla åldrar och grupper. Lämpligt för t.ex. skolor, yrkesskolor, konstföreningar och andra föreningar eller privata grupper.
