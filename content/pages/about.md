@@ -84,7 +84,7 @@ sections:
       visning i Torsten Renqvists ateljé.
 
 
-      I verkstaden och ute på gården kommer det att finnas möjlighet att känna på verktyg och material. Upplev hur det är att hugga i sten eller trä! Testa andra material och tekniker.
+      I verkstaden och ute på gården kommer det att finnas möjlighet att känna på verktyg och material. Upplev hur det är att hugga i sten eller trä! Testa andra material och tekniker. Vi har även kluriga frågeutmaningar som ger både kunksap om teknik och material samt ett mer aktivt seende.  
 
 
       Skulptörens verkstad är öppen för bokning av visningar. I anknytning till visningar är det möjligt att även boka kortare workshops i skulpturala tekniker. Läs mer på sidan program.
