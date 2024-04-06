@@ -14,7 +14,7 @@ sections:
       **Året runt-uställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
-      **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj och är öppet året ut. Här pågår tysta samtal på gården och i trädgården.
+      **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
 
 
       # **VÅREN 2024**
@@ -38,10 +38,10 @@ sections:
       Här kommer ett tyst samtal utspelas mellan skulptörerna Torsten Renqvist, Rune Rydelius och Anders Jansson via deras verk. Tre unika konstnärskap möts med respekt för varandras egenart.
 
 
-      Invigning av utställningarna i verkstaden och på gården invigs kl 14.00 med ett konstnärssamtal mellan Runde Rydelius och Anders Jansson. Moderator Anna_Lena Renqvist.
+      Invigning av utställningarna i verkstaden och på gården invigs kl 14.00 med ett konstsamtal som leds av Anna-Lena Renqvist.
 
 
-      Musik kl 14.30
+      Jazzmusik med saxofonisten Per Thornberg kl 14.30
 
 
       Visning Av Torsten Renqvists ateljé kl 15.00
@@ -59,19 +59,10 @@ sections:
       **Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
-      **Lördag 18 maj** Ansluter bi oss till **Den biologiska mångfaldens dag** i Nacka Vi lär oss mer om rödlistade arter i vår närmiljö och skapar ett myller av insekter och andra djur som får flyga fritt i Skulptörens verkstad. Skapande workshop. Passar alla åldrar från 2 år och uppåt! Fri Entré Varmt Välkomna!
+      **Lördag 18 maj** Ansluter vi oss till **Den biologiska mångfaldens dag** i Nacka Vi lär oss mer om rödlistade arter i vår närmiljö och skapar ett myller av insekter och andra djur som får flyga fritt i Skulptörens verkstad. Skapande workshop. Passar alla åldrar från 2 år och uppåt! Fri Entré Varmt Välkomna!
 
 
-      **Söndagen 19 maj** viger vi åt Torsten Renqvist, hans liv och konst. I år är det 100 år sedan Torsten Renqvist föddes.
-
-
-      Anna-Lena Renqvist berättar om vår aktuella utställning och om Torstens liv och konstnärskap.
-
-
-      Musik av Paul Stouthamer , cello
-
-
-      **2 Juni** blir det Finissage med musik och avslutningsfest!
+      **2 Juni** blir det Finissage med musik av cellisten Paul Stouthamer, och avslutningsfest!
 
 
       Utställningsprogrammet stöds av Sveriges Konstföreningar
@@ -106,12 +97,7 @@ sections:
       Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig
 
 
-      På gården och i trädgården visas högklassig skulptur i\
-
-      i samklang med naturen. **”Samtal i trädgården”**
-
-
-      Utställare: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Filippa von Krusenstjerna, Mats Lodén, Torsten Renqvist, Mats Åberg, Erik Åkerlund\
+      Anmäl er till Kontakt: Annika Heed, [annikaheed@hotmail.com](mailto:annikaheed@hotmail.com) 0738262254.\
 
       \
 
@@ -128,25 +114,21 @@ sections:
       Kom och upptäck spännande skulpturer i snåren!
 
 
-      Med stöd av Sveriges Konstföreningar
+      **Verksamheten i Skulptörens verkstad stöds av Nacka kommun och Riksförbundet Sveriges Konstföreningar**
 
 
-      \
+      ###### \
 
-      **Workshops för barn och vuxna, alla dagar!**
+      Workshops för barn och vuxna, alla dagar!
 
 
-      **Enkel kaffeservering med bakverk och smörgåsar**\
+      Enkel kaffeservering med bakverk och smörgåsar\
 
       \
 
       *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider.* 
 
 
-      Verksamheten i Skulptörens verkstad stöds av Nacka kommun   
-
-
-      Sveriges Konstföreningar
 
 
       # **HÖSTEN 2024**
