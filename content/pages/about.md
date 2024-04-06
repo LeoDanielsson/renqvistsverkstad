@@ -27,7 +27,7 @@ sections:
       I verkstaden visas också en skulpturutställning som är ett resultat av de olika material och tekniker som presenteras.
 
 
-      Gruppens medlemmar är Bo Andersson, Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Ingegerd Lohland, Ulf Lorensson, Anna-Lena Renqvist, Mats Åberg, Erik Åkerlund
+      Gruppens medlemmar är Bo Andersson, Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Mats Lodén, Ulf Lorensson, Anna-Lena Renqvist, Mats Åberg, Erik Åkerlund
     image: /images/img_1598.jpg
     title: Besök oss
   - title: Föreningen
