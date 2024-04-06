@@ -78,7 +78,7 @@ sections:
 
 
       Evert Lindfors, Torsten Renqvist, Asmund Arle, Tomas Qvarsebo, Lena Lervik, Kajsa Mattas, Rune Rudelius, Siri Derkert, Lars Erik Falk, Mats Åberg, Marilyn Gierow, Eva Fornåå, Bitte Jonasson Åkerlund, Jörgen Hammar, Jörgen Martinsson, Ulf Lorenzon, Linnea Jörpeland, Kicki Bergkvist, Selder Bo Andersson, Barbro Hedström, Filippa von Krusenstierna, Mats Eriksson, Annika Heed, Lotta Enocsson, Erik Åkerlund, Ingegerd Lohland, Anders Jansson, Dina Hviid, Harry Modin, Katinka Andersson, Sophi Vejrich, Lars Brunström
-  - title: Besök oss
+  - title: Visningar och bokningar
     body: >-
       I anslutning till en visning i verkstan går det även bra att boka en
       visning i Torsten Renqvists ateljé.
