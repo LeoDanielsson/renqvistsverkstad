@@ -1,6 +1,14 @@
 ---
 title: Skulpturskogen Ed
 cards:
+  - title: "Innehåll på hemsidan:"
+    ingress: ""
+    body: |-
+      Aktuella utställningar\
+      Presentation av Skulpturskogen Ed\
+      Tillgänglighet och vägbeskrivning\
+      Introduction in english\
+      Tidigare utställningar
   - title: ENDANGERED- RÖRLIGA SKULPTURER!
     ingress: EN KONSTUTSTÄLLNING OM BIOLOGISK MÅNGFALD
     body: >-
@@ -431,12 +439,4 @@ cards:
 
 
       Tack till Bisslinge förvaltning AB
-  - title: "Innehåll på hemsidan:"
-    ingress: ""
-    body: |-
-      Aktuella utställningar\
-      Presentation av Skulpturskogen Ed\
-      Tillgänglighet och vägbeskrivning\
-      Introduction in english\
-      Tidigare utställningar
 ---
