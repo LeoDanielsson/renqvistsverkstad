@@ -9,8 +9,8 @@ cards:
       Tillgänglighet och vägbeskrivning\
       Introduction in english\
       Tidigare utställningar
-  - title: ENDANGERED- RÖRLIGA SKULPTURER!
-    ingress: EN KONSTUTSTÄLLNING OM BIOLOGISK MÅNGFALD
+  - title: AKTUELLT I VÅR
+    ingress: ENDANGERED- RÖRLIGA SKULPTURER! EN KONSTUTSTÄLLNING OM BIOLOGISK MÅNGFALD
     body: >-
       **INVIGNING 9 MARS KL 14 I SKOGEN. I CAFÉ VILLA ED BERÄTTAR TOMAS
       BANNERHED OM FÅGLAR OCH BABA ANIMAL BLUES SPELAR KL 16.00!**
