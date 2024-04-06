@@ -59,6 +59,9 @@ sections:
       Deltagande konstnärer: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Bitte Jonason Åkerlund, Mats Lodén, Torsten Renqvist, Mats Åberg, Erik Åkerlund
 
 
+      ![](/images/gårdsutställning-kopia-3-.jpg)
+
+
       **Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
