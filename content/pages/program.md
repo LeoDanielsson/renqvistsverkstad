@@ -20,6 +20,9 @@ sections:
       # **VÅREN 2024**
 
 
+      ![](/images/skulptörens-samtal-alla-bilder.jpg)
+
+
       **Vi öppnar för säsongen söndagen  5 maj kl: 12-16** 
 
 
@@ -119,6 +122,7 @@ sections:
 
       ###### \
 
+
       Workshops för barn och vuxna, alla dagar!
 
 
@@ -127,8 +131,6 @@ sections:
       \
 
       *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider.* 
-
-
 
 
       # **HÖSTEN 2024**
