@@ -47,7 +47,7 @@ sections:
       Visning Av Torsten Renqvists ateljé kl 15.00
 
 
-      **Vårens gårdsutställning ”Samtal i trädgården”** öppnas 5 maj. Här pågår tysta samtal på gård och i trädgården.
+      **Vårens gårdsutställning ”Samtal i trädgården”** öppnas 5 maj.
 
 
       Tio konstnärer, tio uttal!
@@ -59,7 +59,7 @@ sections:
       **Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
-      **Lördag 18 maj** Ansluter vi oss till **Den biologiska mångfaldens dag** i Nacka Vi lär oss mer om rödlistade arter i vår närmiljö och skapar ett myller av insekter och andra djur som får flyga fritt i Skulptörens verkstad. Skapande workshop. Passar alla åldrar från 2 år och uppåt! Fri Entré Varmt Välkomna!
+      **Lördag 18 maj** Ansluter vi oss till **Den biologiska mångfaldens dag** i Nacka. Vi lär oss mer om rödlistade arter i vår närmiljö och skapar ett myller av insekter och andra djur som får flyga fritt i Skulptörens verkstad. Skapande workshop. Passar alla åldrar från 2 år och uppåt! Fri Entré Varmt Välkomna!
 
 
       **2 Juni** blir det Finissage med musik av cellisten Paul Stouthamer, och avslutningsfest!
