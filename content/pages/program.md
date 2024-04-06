@@ -47,7 +47,7 @@ sections:
       Visning Av Torsten Renqvists ateljé kl 15.00
 
 
-      **Vårens gårdsutställning ”Samtal i trädgården”** öppnas 5 maj.
+      **Vårens gårdsutställning ”Samtal i trädgården”** öppnas 5 maj. Här visas skulptur i utomhusmiljö.
 
 
       Tio konstnärer, tio uttal!
