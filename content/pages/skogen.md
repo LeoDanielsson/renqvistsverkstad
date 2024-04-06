@@ -78,6 +78,13 @@ cards:
 
 
       ![]()
+  - body: >-
+      Just nu pågår skapandet av en stig för SMÅ och stora. En slinga i skogen
+      för barn och deras vuxna att upptäcka.\
+
+      Redan i maj går det att se vad som händer. Invigning 6 juni! Den här stigen kommer att förändras och byggas ut med nya händelser att upptäcka under hela kommande år.
+    title: SKULPTURSTIG FÖR SMÅ OCH STORA- INVIGNING 6 JUNI
+    ingress: ""
   - title: SKULPTURSKOGEN ED
     ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
       egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
@@ -439,11 +446,4 @@ cards:
 
 
       Tack till Bisslinge förvaltning AB
-  - body: >-
-      Just nu pågår skapandet av en stig för SMÅ och stora. En slinga i skogen
-      för barn och deras vuxna att upptäcka.\
-
-      Redan i maj går det att se vad som händer. Invigning 6 juni! Den här stigen kommer att förändras och byggas ut med nya händelser att upptäcka under hela kommande år.
-    title: ""
-    ingress: SKULPTURSTIG FÖR SMÅ OCH STORA- INVIGNING 6 JUNI
 ---
