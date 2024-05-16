@@ -50,7 +50,7 @@ sections:
       Visning Av Torsten Renqvists ateljé kl 15.00
 
 
-      **Vårens gårdsutställning ”Samtal i trädgården”** öppnas 5 maj. Här visas skulptur i utomhusmiljö.
+      **Vårens gårdsutställning ”Samtal i trädgården”** öppnas 5 maj, kl 15-16. Här visas skulptur i utomhusmiljö.
 
 
       Tio konstnärer, tio uttal!
@@ -92,7 +92,7 @@ sections:
       [kontakt@renqvistsverkstad.se](mailto:kontakt@renqvistsverkstad.se)
 
 
-      **2 Juni** blir det Finissage med musik av cellisten Paul Stouthamer, och avslutningsfest!
+      **2 Juni, kl 12-16,** blir det Finissage med musik av cellisten Paul Stouthamer, och avslutningsfest!
 
 
       Utställningsprogrammet stöds av Sveriges Konstföreningar
