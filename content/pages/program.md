@@ -65,7 +65,31 @@ sections:
       **Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
-      **Lördag 18 maj** Ansluter vi oss till **Den biologiska mångfaldens dag** i Nacka. Vi lär oss mer om rödlistade arter i vår närmiljö och skapar ett myller av insekter och andra djur som får flyga fritt i Skulptörens verkstad. Skapande workshop. Passar alla åldrar från 2 år och uppåt! Fri Entré Varmt Välkomna!
+      **Lördag den 18 maj uppmärksammar vi Den biologiska mångfaldens dag i Skulptörens verkstad!**\
+
+      \
+
+      Lär känna olika hotade djur-arter och gör en vacker pappers-skulptur tillsammans med våra workshopledare!\
+
+      Vi inbjuder både barn och vuxna till en workshopdag kring rödlistade arter. Vi kommer att koncentrera oss på ett tiotal arter som riskerar att minska och som finns runtom i Storstockholm. Det handlar om skalbaggar, fjärilar men också fåglar och fiskar.\
+
+      Vi får veta hur de ser ut, varför de är hotade och vad vi kan göra för att skydda dem.\
+
+      Vi sitter ute under tak och bygger med vackra färgade papper som vi sedan kan hänga upp till ett allkonstverk. Alla får sen ta hem sina alster.\
+
+      Vi har **öppet 12-16** och det är bara att droppa in när ni kan och stanna så länge ni vill.\
+
+      Caféet har saft, bullar och kaffe till självkostnadspris.\
+
+      \
+
+      Välkomna till Skulptörens verkstad på Spångvägen 23 i Saltsjö-Boo, Kummelnäs!\
+
+      \
+
+      Kontakt 0738 262254 eller 0736 249285\
+
+      [kontakt@renqvistsverkstad.se](mailto:kontakt@renqvistsverkstad.se)
 
 
       **2 Juni** blir det Finissage med musik av cellisten Paul Stouthamer, och avslutningsfest!
