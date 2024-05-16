@@ -232,23 +232,7 @@ sections:
       ett aktivt betraktande i nyfikenhetens tecken.
 
 
-      Med stöd av Sveriges Konstföreningar 
-
-
-      \
-
-      **Nyheten "Lilla rundan"**
-
-
-      \
-
-      En stig i trädgården speciellt för barn!\
-
-      Kom och upptäck spännande skulpturer i snåren!\
-
-      \
-
-      **Workshops för barn och vuxna, alla dagar!**\
+      Med stöd av Sveriges Konstföreningar \
 
       \
 
@@ -308,29 +292,6 @@ sections:
       Enklare kaffeservering\
 
       *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider. Kursiverat nu*
-
-
-      **Kursprogram hösten 2023**\
-
-      **Betongkurs**\
-
-      Lär dig modellera, ta en gipsform och gjut i betong, ytbehandling eller färgbehandling av betong\
-
-      Efter genomgången kurs kan du så mycket att du kan fortsätta att arbeta i betong på egen hand.\
-
-      En tredagarskurs, möjlig att boka för grupper. Exakta datum görs upp separat, anpassat per grupp.\
-
-      Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig.\
-
-      **Lattexmasker**\
-
-      Gör en djurmask, skräck eller rolig mask i lera, ta gipsform och gjut din egen latexmask, måla den\
-
-      Den här kursen är perfekt att göra tillsammans med barn eller ungdomar. Du får din egen mask att bära på fest eller äventyr. Dessutom kan du gjuta fler masker i samma form, kanske till hela familjen!\
-
-      En tre och en halvdagarskurs. Möjlig att boka för för grupper. Exakta tider görs upp separat anpassat per grupp.\
-
-      Kostnad 2500:- Kursen blir av om minst 4 personer anmäler sig
     title: HÖSTEN 2023
   - title: Vinter i Skulptörens Verkstad
     body: >-
