@@ -1,5 +1,5 @@
 ---
-title: Höstens utställningar 2023- historik
+title: Höstens utställningar 2023
 date: 2024-05-16T08:32:14.809Z
 sections:
   - body: >-
