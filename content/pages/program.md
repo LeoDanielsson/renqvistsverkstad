@@ -17,6 +17,11 @@ sections:
       **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
 
 
+
+
+      För separata bokningar och visningar ser mer under fliken ”kontakt” [](mailto:kontakt@renqvistsverkstad.se)
+
+
       # **VÅREN 2024**
 
 
