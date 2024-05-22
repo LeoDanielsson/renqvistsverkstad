@@ -23,7 +23,7 @@ text: >-
   ## Bokningar och visningar
 
 
-  KONTAKT:\
+  KONTAKT: \
 
   Välkommen att boka visningar på Skulptörens verkstad och i Torsten Renqvists ateljé .\
 
