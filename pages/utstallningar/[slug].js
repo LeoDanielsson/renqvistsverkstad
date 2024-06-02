@@ -5,10 +5,12 @@ import YoutubeVideo from '../../components/YoutubeVideo';
 import styled from 'styled-components';
 import fs from 'fs';
 import ReactMarkdown from 'react-markdown';
+import Link from 'next/link';
 
 const Video = styled.div`
   margin-bottom: 2rem;
 `;
+
 
 export async function getStaticProps({ params }) {
   const content = await import(`../../content/exhibitions/${params.slug}.md`);
@@ -37,6 +39,9 @@ const ExhibitionPage = ({
   return (
     <Layout>
       <Container>
+        <Link href="/utstallningar">
+          <a className="block mb-5">&lt; Tillbaka till utställningar</a>
+        </Link>
         <h1>{title}</h1>
         {youtubeUrl && (
           <Video>
