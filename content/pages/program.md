@@ -11,6 +11,9 @@ sections:
       **HÖSTEN 2024 VI ÄR STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16. Läs mer om utställningen längre ner.
 
 
+      ![](/images/img_0421.jpg)
+
+
       **Året runt-utställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
@@ -155,7 +158,7 @@ sections:
       Mer information kommer! 
 
 
-      ![](/images/img_0421.jpg)
+      ![]()
 
 
       **Kursprogram hösten 2024**\
