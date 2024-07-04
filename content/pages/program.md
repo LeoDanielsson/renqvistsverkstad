@@ -5,13 +5,13 @@ sections:
     body: >-
       **VERNISSAGE 5 MAJ FÖR ”SKULPTÖRENS SAMTAL” TORSTEN RENQVIST, RUNE
       RYDELIUS OCH ANDERS JANSSON** Här kommer ett tyst samtal utspelas mellan
-      skulptörerna via deras verk. Kl 12-16
+      skulptörerna via deras verk. Kl 12-16 
 
 
       **HÖSTEN 2024 VI ÄR STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16. Läs mer om utställningen längre ner.
 
 
-      **Året runt-uställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
+      **Året runt-utställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
       **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
@@ -152,7 +152,10 @@ sections:
       Vi är stolta att presentera Lars Kleen som visar ett specialbyggt verk för Verkstaden.
 
 
-      Mer information kommer!
+      Mer information kommer! 
+
+
+      ![](/images/img_0421.jpg)
 
 
       **Kursprogram hösten 2024**\
