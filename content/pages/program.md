@@ -155,9 +155,6 @@ sections:
       Vi är stolta att presentera Lars Kleen som visar ett specialbyggt verk för Verkstaden.
 
 
-      Mer information kommer! 
-
-
       ![]()
 
 
