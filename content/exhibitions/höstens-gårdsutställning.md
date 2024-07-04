@@ -28,5 +28,5 @@ sections:
       Med stöd av Sveriges Konstföreningar
 
 
-      **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
+      **Gårdsutställning ”Samtal i trädgården”** är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
 ---
