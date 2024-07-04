@@ -1,5 +1,5 @@
 ---
-title: "Höstens gårdsutställning "
+title: Höstens gårdsutställning 2024
 date: 2023-09-03T13:21:33.195Z
 sections:
   - body: |-
