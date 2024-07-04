@@ -8,7 +8,7 @@ sections:
       skulptörerna via deras verk. Kl 12-16 
 
 
-      **HÖSTEN 2024 VI ÄR STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16. Läs mer om utställningen längre ner.
+      **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16. Läs mer om utställningen längre ner.
 
 
       ![](/images/img_0421.jpg)
