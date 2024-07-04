@@ -3,9 +3,9 @@ title: Höstens gårdsutställning 2024
 date: 2023-09-03T13:21:33.195Z
 sections:
   - body: >-
-      **HÖSTEN 2024 ÄR STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som
-      gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl.
-      12-16. 
+      **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS
+      KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31
+      augusti kl. 12-16. 
 
 
       På gården och i trädgården visas högklassig skulptur i\
