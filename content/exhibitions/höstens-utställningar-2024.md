@@ -22,45 +22,7 @@ sections:
       ![](/images/img_8453.jpg)
 
 
-      ### **3 september: "Kajsa Mattas och Marylyn Hamilton Gierow, solitärer, kollegor och vänner"**
-
-
-      Att vara konstnär är ett ensamt arbete. För att hitta sitt sanna språk krävs de ensamma timmarna i ateljén. Att finna en kollega att då och då dela vardagslivets och arbetslivets olika delar med, är därför ovärderligt. Här presenterar Skulptörens verkstad två kollegor och vänner som var och en uttrycker sig på sitt genuina sätt. Vi får möte olika sätt att hantera materialets formbarhet, olika takt för att följa uttryckets nödvändighet och två olika temperament.Men tron på formens förmåga att uttrycka och förmedla väsentligheter om livets olika skiften - är densamma.
-
-
-      Med stöd av Sveriges Konstföreningar 
-
-
-      [Läs mer om utställningen](/utstallningar/kajsa-mattas-och-marylyn-hamilton-gierow-solit%C3%A4rer-kollegor-och-v%C3%A4nner)
-
-
-      ### **Höstens Gårdsutställning**
-
-
-      \
-
-      På gården och i trädgården visas högklassig skulptur i\
-
-      i samklang med naturen.\
-
-      \
-
-      Utställare: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed\
-
-      Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund\
-
-      Mats Lodén, Torsten Renqvist, Mats Åberg, Erik Åkerlund\
-
-      \
-
-      Till utställningarna finns också frågelekar som inbjuder till\
-
-      ett aktivt betraktande i nyfikenhetens tecken.
-
-
-      Med stöd av Sveriges Konstföreningar \
-
-      \
+      ### \
 
       **ÖPPET HUS**
 
@@ -107,7 +69,7 @@ sections:
 
       för "Kajsa Mattas och Matylyn Hamilton Gierow" med musik av "Palace on wheels" som presenterar  nordindisk klassisk musik kring temat "Det individuella i konsten och det kollektiva" kl 15.00. [www.stockholmsangeet.se](http://www.stockholmsangeet.se/)\
 
-      I samarbete med Sangeet Festival, Sveriges största festival för klassisk indisk musik och da**ns**\
+      I samarbete med Sangeet Festival, Sveriges största festival för klassisk indisk musik och dans\
 
       Utställningarna Kajsa mattas och marylyn hamilton Gierow samt Höstens Gårdsutställning\
 
@@ -117,5 +79,5 @@ sections:
 
       Enklare kaffeservering\
 
-      *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider. Kursiverat nu*
+      *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider.*
 ---
