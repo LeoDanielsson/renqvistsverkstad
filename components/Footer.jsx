@@ -1,31 +1,9 @@
-import Container from './Container';
-import styled from 'styled-components';
-import { white } from '../colors';
-import { medium } from '../breakpoints';
-
-const Wrapper = styled.footer`
-  color: ${white};
-  address {
-    font-style: normal;
-  }
-`;
-
-const FooterContent = styled(Container)`
-  @media (min-width: ${medium}) {
-    display: flex;
-    justify-content: space-between;
-  }
-`;
-
-const NackaLogo = styled.img`
-  display: block;
-  max-width: 300px;
-`;
+import Container from "./Container";
 
 const Footer = () => (
-  <Wrapper>
-    <FooterContent>
-      <address>
+  <footer className="text-white">
+    <Container className="flex justify-between">
+      <address className="not-italic">
         <p>
           Renqvists Verkstad
           <br />
@@ -34,7 +12,7 @@ const Footer = () => (
           13237 Saltsjöbo
         </p>
         <p>
-          E-post:{' '}
+          E-post:{" "}
           <a href="mailto:kontakt@renqvistsverkstad.se">
             kontakt@renqvistsverkstad.se
           </a>
@@ -45,11 +23,11 @@ const Footer = () => (
       <div>
         Med stöd av Nacka kommun
         <a href="https://www.nacka.se/" target="_blank">
-          <NackaLogo src="/images/nacka_logo1.webp" />
+          <img className="block max-w-72" src="/images/nacka_logo1.webp" />
         </a>
       </div>
-    </FooterContent>
-  </Wrapper>
+    </Container>
+  </footer>
 );
 
 export default Footer;

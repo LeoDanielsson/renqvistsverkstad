@@ -1,9 +1,9 @@
-import styled from 'styled-components';
+import clsx from "clsx";
 
-const Container = styled.div`
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 32px 16px;
-`;
-
-export default Container;
+export default function Container({ children, className }) {
+  return (
+    <div className={clsx("max-w-6xl my-0 mx-auto py-8 px-4", className)}>
+      {children}
+    </div>
+  );
+}

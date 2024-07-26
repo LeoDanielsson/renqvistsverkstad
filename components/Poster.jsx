@@ -1,15 +1,9 @@
-import styled from "styled-components";
-
-const Wrapper = styled.div`
-  max-width: 700px;
-`;
-
-const Poster = ({url}) => (
-  <Wrapper>
+const Poster = ({ url }) => (
+  <div className="max-w-2xl">
     <a href={url} target="_blank">
       <img src={url} />
-    </a>  
-  </Wrapper>
+    </a>
+  </div>
 );
 
 export default Poster;

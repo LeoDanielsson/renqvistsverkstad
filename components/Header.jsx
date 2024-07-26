@@ -1,39 +1,15 @@
-import Nav from './Nav';
-import styled from 'styled-components';
-import { white, darkGreen, black } from '../colors';
-import { medium } from '../breakpoints';
-import Link from 'next/link';
-
-const StyledHeader = styled.header`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 24px 0;
-  background-color: ${darkGreen};
-  padding-bottom: 0;
-`;
-
-const Logo = styled.a`
-  font-size: 32px;
-  text-align: center;
-  cursor: pointer;
-  color: ${white};
-  font-family: 'Montserrat';
-  line-height: 1;
-  margin-bottom: 16px;
-  @media (min-width: ${medium}) {
-    font-size: 48px;
-    margin-bottom: 32px;
-  }
-`;
+import Nav from "./Nav";
+import Link from "next/link";
 
 const Header = () => (
-  <StyledHeader>
+  <header className="flex flex-col items-center py-6 bg-darkGreen pb-0">
     <Link href="/">
-      <Logo>Renqvists verkstad</Logo>
+      <a className="text-3xl md:text-5xl text-center cursor-pointer text-white font-header leading-none mb-4 md:mb-8">
+        Renqvists verkstad
+      </a>
     </Link>
     <Nav />
-  </StyledHeader>
+  </header>
 );
 
 export default Header;

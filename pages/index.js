@@ -1,41 +1,17 @@
-import Layout from '../components/Layout';
-import styled from 'styled-components';
-import { white } from '../colors';
-import Container from '../components/Container';
-import { large, medium } from '../breakpoints';
-import CtaLink from '../components/CtaLink';
-import Poster from '../components/Poster';
-import content from '../content/pages/startpage.md';
+import Layout from "../components/Layout";
+import styled from "styled-components";
+import { white } from "../colors";
+import Container from "../components/Container";
+import { large, medium } from "../breakpoints";
+import CtaLink from "../components/CtaLink";
+import Poster from "../components/Poster";
+import content from "../content/pages/startpage.md";
 
 const poster = content.attributes.poster;
 
-const Hero = styled.div`
-  height: ${poster ? 'auto' : '80vh'};
-  overflow: ${poster ? 'visible' : 'hidden'};
-  position: relative;
-  display: flex;
-  justify-content: center;
-  background-color: black;
-  background-image: url('/images/gryta.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  @media (min-width: ${large}) {
-    background-image: linear-gradient(
-        to left,
-        rgba(0, 0, 0, 1) 0%,
-        rgba(0, 0, 0, 0.1) 30%,
-        rgba(0, 0, 0, 0.1) 70%,
-        rgba(0, 0, 0, 1) 100%
-      ),
-      url('/images/gryta.jpg');
-    background-size: 60%;
-  }
-`;
-
 const HeroContent = styled.div`
   text-align: center;
-  position: ${poster ? 'relative' : 'absolute'};
+  position: ${poster ? "relative" : "absolute"};
   top: 0;
   right: 0;
   bottom: 0;
@@ -66,19 +42,17 @@ const PosterContainer = styled(Container)`
 
 const Home = () => (
   <Layout title="Hem">
-    <Hero>
+    <div className="h-svh md:h-[80vh] overflow-hidden relative flex justify-center bg-[#000] bg-[url('/images/gryta.jpg')] lg:bg-hero-image md:bg-[size:60%] bg-no-repeat bg-center bg-cover">
       <HeroContent>
         <Container>
           <p>{content.attributes.preTitle}</p>
           <h1>{content.attributes.title}</h1>
           <p>{content.attributes.postTitle}</p>
 
-          <CtaLink href="/program" inverted>
-            Se vårt program
-          </CtaLink>
+          <CtaLink href="/program">Se vårt program</CtaLink>
         </Container>
       </HeroContent>
-    </Hero>
+    </div>
     <PosterContainer>{poster && <Poster url={poster} />}</PosterContainer>
   </Layout>
 );

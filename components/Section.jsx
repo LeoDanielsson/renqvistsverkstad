@@ -1,55 +1,37 @@
-import styled from 'styled-components';
-import { medium } from '../breakpoints';
-import Link from 'next/link';
-import CtaLink from './CtaLink';
-
-const StyledSection = styled.section`
-  display: grid;
-  grid-column-gap: 32px;
-  margin-bottom: 32px;
-  @media (min-width: ${medium}) {
-    grid-template-columns: ${({ fullWidth }) =>
-      fullWidth ? '1fr' : '3fr 2fr'};
-  }
-`;
-
-const Header = styled.h2`
-  @media (min-width: ${medium}) {
-    grid-column: span 2;
-  }
-  a {
-    text-decoration: none;
-  }
-`;
-
-const Text = styled.div`
-  margin-bottom: 16px;
-`;
+import Link from "next/link";
+import CtaLink from "./CtaLink";
+import clsx from "clsx";
 
 const Section = ({ title, image, children, link }) => (
-  <StyledSection fullWidth={!image}>
+  <section className="grid gap-x-8 mb-8 grid-cols-5" fullWidth={!image}>
     {title && (
-      <Header>{link ? <Link href={link}>{title}</Link> : title}</Header>
+      <h2 className="col-span-5">
+        {link ? <Link href={link}>{title}</Link> : title}
+      </h2>
     )}
-    <Text>
-      {children}{' '}
-      {link && (
-        <CtaLink href={link}>
-          Klicka för att läsa mer
-        </CtaLink>
+    <div
+      className={clsx(
+        "mb-4",
+        image != null ? "col-span-5 md:col-span-3" : "col-span-5"
       )}
-    </Text>
-    {image &&
-      (link ? (
-        <Link href={link}>
-          <a>
-            <img src={image} alt="" />
-          </a>
-        </Link>
-      ) : (
-        <img src={image} alt="" />
-      ))}
-  </StyledSection>
+    >
+      {children}{" "}
+      {link && <CtaLink href={link}>Klicka för att läsa mer</CtaLink>}
+    </div>
+    {image && (
+      <div className="col-span-5 md:col-span-2">
+        {link ? (
+          <Link href={link}>
+            <a>
+              <img src={image} alt="" />
+            </a>
+          </Link>
+        ) : (
+          <img src={image} alt="" />
+        )}
+      </div>
+    )}
+  </section>
 );
 
 export default Section;

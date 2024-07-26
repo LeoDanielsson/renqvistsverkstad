@@ -1,13 +1,13 @@
-import { createGlobalStyle } from 'styled-components';
-import Typography from 'typography';
-import { darkGreen, white, gold, copper } from '../colors';
+import { createGlobalStyle } from "styled-components";
+import Typography from "typography";
+import { darkGreen, white, gold, copper } from "../colors";
 
 const typography = new Typography({
-  baseFontSize: '18px',
+  baseFontSize: "18px",
   baseLineHeight: 1.666,
   bodyColor: darkGreen,
-  headerFontFamily: ['Montserrat', 'sans-serif'],
-  bodyFontFamily: ['Helvetica Neue', 'sans-serif'],
+  headerFontFamily: ["Montserrat", "sans-serif"],
+  bodyFontFamily: ["Helvetica Neue", "sans-serif"],
 });
 
 const GlobalStyle = createGlobalStyle`
@@ -25,7 +25,6 @@ const GlobalStyle = createGlobalStyle`
   main {
     color: ${white};
     background-color: ${darkGreen};
-    min-height: 80vh;
   }
 
   button {
