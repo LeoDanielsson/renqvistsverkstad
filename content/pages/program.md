@@ -1,14 +1,9 @@
 ---
 title: Program
 sections:
-  - title: Hösten 2024
+  - title: HÖSTEN 2024
     body: >-
-      
-
-      ![](/images/img_0421.jpg)
-
-
-      # **HÖSTEN 2024**
+      ![]()
 
 
       **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16. Läs mer om utställningen längre ner.
