@@ -30,9 +30,6 @@ sections:
       **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj kl 15-16.och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
 
 
-      För separata bokningar och visningar ser mer under fliken ”kontakt” [](mailto:kontakt@renqvistsverkstad.se)
-
-
       ![]()
 
 
@@ -60,6 +57,9 @@ sections:
 
 
       Workshops för barn och vuxna, alla dagar!
+
+
+      För separata bokningar och visningar ser mer under fliken ”kontakt” [](mailto:kontakt@renqvistsverkstad.se)
 
 
       Enkel kaffeservering med bakverk och smörgåsar\
