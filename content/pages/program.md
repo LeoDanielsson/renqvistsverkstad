@@ -1,17 +1,32 @@
 ---
 title: Program
 sections:
-  - title: ÅRSPROGRAM 2024
+  - title: Hösten 2024
     body: >-
-      **VERNISSAGE 5 MAJ FÖR ”SKULPTÖRENS SAMTAL” TORSTEN RENQVIST, RUNE
-      RYDELIUS OCH ANDERS JANSSON** Här kommer ett tyst samtal utspelas mellan
-      skulptörerna via deras verk. Kl 12-16 
+      
+
+      ![](/images/img_0421.jpg)
+
+
+      # **HÖSTEN 2024**
 
 
       **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16. Läs mer om utställningen längre ner.
 
 
-      ![](/images/img_0421.jpg)
+      **ÖPPETTIDER – Skulptörens verkstad håller öppet med start lördag 31 augusti därefter alla helger lörd-sönd fram till 29 september kl 12-16**
+
+
+      **I verkstaden presenterar vi**
+
+
+      **Lars Kleen**
+
+
+      Skulptörens verkstad presenterar en utställning av Lars Kleen som bygger ett verk speciellt anpassat till verkstadens rymd och stämning. Stora konstverk är kännetecknande för Lars Kleen. Han har en känsla för materialens olika egenskaper som resulterar i avancerade konstruktioner i trä, järn och betong.  De tekniska konstruktionerna hänger samman med ett konstnärligt sökande och utstrålar ett rent sakralt uttryck.
+
+
+      ![]()
 
 
       **Året runt-utställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
@@ -21,9 +36,6 @@ sections:
 
 
       För separata bokningar och visningar ser mer under fliken ”kontakt” [](mailto:kontakt@renqvistsverkstad.se)
-
-
-      # **VÅREN 2024**
 
 
       ![]()
@@ -38,25 +50,7 @@ sections:
       I år är det 100 år sedan skulptören Torsten Renqvist föddes. Detta kommer vi uppmärksamma i Skulptörens verkstad samtidigt som det till hösten blir en stor retrospektiv utställning på Konstakademien i Stockholm.
 
 
-      Vi startar upp i verkstaden med
-
-
-      **Vernissage 5 maj kl 12.00 för ”Skulptörens samtal”**
-
-
-      Här kommer ett tyst samtal utspelas mellan skulptörerna Torsten Renqvist, Rune Rydelius och Anders Jansson via deras verk. Tre unika konstnärskap möts med respekt för varandras egenart.
-
-
-      Invigning av utställningarna i verkstaden och på gården invigs kl 14.00 med ett konstsamtal som leds av Anna-Lena Renqvist.
-
-
-      Jazzmusik med saxofonisten Per Thornberg kl 14.30 
-
-
-      Visning Av Torsten Renqvists ateljé kl 15.00
-
-
-      **Vårens gårdsutställning ”Samtal i trädgården”** öppnas 5 maj, kl 15-16. Här visas skulptur i utomhusmiljö.
+      **årets  gårdsutställning ”Samtal i trädgården”** öppnas 5 maj, kl 15-16. Här visas skulptur i utomhusmiljö.
 
 
       Tio konstnärer, tio uttal!
@@ -98,24 +92,6 @@ sections:
       [kontakt@renqvistsverkstad.se](mailto:kontakt@renqvistsverkstad.se)
 
 
-      **2 Juni, kl 12-16,** blir det Finissage med musik av cellisten Paul Stouthamer, och avslutningsfest!
-
-
-      Utställningsprogrammet stöds av Sveriges Konstföreningar
-
-
-      **Visning av Torsten Renqvists ateljé kl 14.00 alla dagar**
-
-
-      **Enklare kaffeservering med bakverk och smörgåsar**\
-
-      \
-
-      Till utställningarna finns också frågelekar som inbjuder till\
-
-      ett aktivt betraktande i nyfikenhetens tecken.
-
-
       **"Lilla rundan"**
 
 
@@ -140,24 +116,6 @@ sections:
       *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider.* 
 
 
-      # **HÖSTEN 2024**
-
-
-      **ÖPPETTIDER – Skulptörens verkstad håller öppet med start lördag 31 augusti därefter alla helger lörd-sönd fram till 29 september kl 12-16**
-
-
-      **I verkstaden presenterar vi**
-
-
-      **Lars Kleen**
-
-
-      Skulptörens verkstad presenterar en utställning av Lars Kleen som bygger ett verk speciellt anpassat till verkstadens rymd och stämning. Stora konstverk är kännetecknande för Lars Kleen. Han har en känsla för materialens olika egenskaper som resulterar i avancerade konstruktioner i trä, järn och betong.  De tekniska konstruktionerna hänger samman med ett konstnärligt sökande och utstrålar ett rent sakralt uttryck.
-
-
-
-
-      ![]()
 
 
       **Kursprogram hösten 2024**\
