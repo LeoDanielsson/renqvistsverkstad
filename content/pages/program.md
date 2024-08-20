@@ -83,7 +83,7 @@ sections:
 
       \
 
-      Program 13 oktober\
+      **Program 13 oktober**\
 
       12.00 Invigning med en presentation av konstnärerna, projektet och dess arter.\
 
@@ -95,7 +95,7 @@ sections:
 
       \
 
-      19 och 20 oktober\
+      **19 och 20 oktober**\
 
       Workshops där vi lär oss om de olika utrotningshotade arterna och vad vi kan göra för att skydda dem. Vi skapar dem i papper, trä och färg. Åldrar från 5 år och uppåt. Anmäl er till [kontakt@renqvistsverkstad.se](mailto:kontakt@renqvistsverkstad.se) eller 0738 262254.\
 
