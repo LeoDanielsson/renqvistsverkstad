@@ -59,7 +59,19 @@ sections:
       Enkel kaffeservering med bakverk och smörgåsar
 
 
-      **Verksamheten i Skulptörens verkstad stöds av Nacka kommun och Riksförbundet Sveriges Konstföreningar**
+
+
+      **Torsten 100 år lördagen den 21a september**
+
+
+
+
+      **Söndagen 13e, 19e och 20e oktober- Utställningen "Utrotningshotade!"** 
+
+
+
+
+      *Verksamheten i Skulptörens verkstad stöds av Nacka kommun och Riksförbundet Sveriges Konstföreningar*
 
 
       ###### \
