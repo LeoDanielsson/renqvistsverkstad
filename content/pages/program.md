@@ -116,8 +116,6 @@ sections:
       *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider.* 
 
 
-
-
       **Kursprogram hösten 2024**\
 
       **Betongkurs**\
