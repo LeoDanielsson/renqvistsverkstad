@@ -74,7 +74,7 @@ sections:
 
       Konstnärer: Bo Andersson, Lars Brunström, Lotta Enocsson,\
 
-                  Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi 
+      Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
 
 
       Lördagen 13, 19 och 20 oktober 12-16 visas en konstnärlig rörlig installation drivna av solceller i Skulptörens verkstad.\
