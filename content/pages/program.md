@@ -32,16 +32,13 @@ sections:
       **Året runt-utställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
-      **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
+      **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj kl 15-16.och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
 
 
       För separata bokningar och visningar ser mer under fliken ”kontakt” [](mailto:kontakt@renqvistsverkstad.se)
 
 
       ![]()
-
-
-      **årets  gårdsutställning ”Samtal i trädgården”** öppnas 5 maj, kl 15-16. Här visas skulptur i utomhusmiljö.
 
 
       Tio konstnärer, tio uttal!
@@ -53,17 +50,12 @@ sections:
       ![]()
 
 
-      **Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
-
-
-
-
       **"Lilla rundan"**
 
 
-      En stig i trädgården speciellt för barn!\
+      En stig i trädgården speciellt för barn och deras vuxna!\
 
-      Kom och upptäck spännande skulpturer i snåren!
+      Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
       **Verksamheten i Skulptörens verkstad stöds av Nacka kommun och Riksförbundet Sveriges Konstföreningar**
