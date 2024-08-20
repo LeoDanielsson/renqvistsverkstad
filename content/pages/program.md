@@ -26,7 +26,7 @@ sections:
       Skulptörens verkstad presenterar en utställning av Lars Kleen som bygger ett verk speciellt anpassat till verkstadens rymd och stämning. Stora konstverk är kännetecknande för Lars Kleen. Han har en känsla för materialens olika egenskaper som resulterar i avancerade konstruktioner i trä, järn och betong.  De tekniska konstruktionerna hänger samman med ett konstnärligt sökande och utstrålar ett rent sakralt uttryck.
 
 
-      ![]()
+      ![](/images/img_0421.jpg)
 
 
       **Året runt-utställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
