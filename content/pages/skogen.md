@@ -9,7 +9,7 @@ cards:
       Tillgänglighet och vägbeskrivning\
       Introduction in english\
       Tidigare utställningar
-  - title: AKTUELLT I VÅR
+  - title: AKTUELLT VÅREN 2024
     ingress: ENDANGERED- RÖRLIGA SKULPTURER! EN KONSTUTSTÄLLNING OM BIOLOGISK MÅNGFALD
     body: >-
       **INVIGNING 9 MARS KL 14 I SKOGEN. I CAFÉ VILLA ED BERÄTTAR TOMAS
