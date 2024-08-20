@@ -50,23 +50,21 @@ sections:
       Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
-      **Verksamheten i Skulptörens verkstad stöds av Nacka kommun och Riksförbundet Sveriges Konstföreningar**
-
-
-      ###### \
-
-
       Workshops för barn och vuxna, alla dagar!
 
 
       För separata bokningar och visningar ser mer under fliken ”kontakt” [](mailto:kontakt@renqvistsverkstad.se)
 
 
-      Enkel kaffeservering med bakverk och smörgåsar\
+      Enkel kaffeservering med bakverk och smörgåsar
 
-      \
 
-      *Skolor, föreningar och privatsällskap är välkomna att boka specialvisningar på övriga tider.* 
+      **Verksamheten i Skulptörens verkstad stöds av Nacka kommun och Riksförbundet Sveriges Konstföreningar**
+
+
+      ###### \
+
+
 
 
       **Kursprogram hösten 2024**\
