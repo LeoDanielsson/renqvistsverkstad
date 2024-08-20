@@ -41,15 +41,6 @@ sections:
       ![]()
 
 
-      **Vi öppnar för säsongen söndagen  5 maj kl: 12-16** 
-
-
-      **ÖPPETTIDER – Skulptörens verkstad håller öppet med start söndag 5 maj därefter alla helger lörd-sönd fram till 2 juni kl 12-16**
-
-
-      I år är det 100 år sedan skulptören Torsten Renqvist föddes. Detta kommer vi uppmärksamma i Skulptörens verkstad samtidigt som det till hösten blir en stor retrospektiv utställning på Konstakademien i Stockholm.
-
-
       **årets  gårdsutställning ”Samtal i trädgården”** öppnas 5 maj, kl 15-16. Här visas skulptur i utomhusmiljö.
 
 
@@ -65,31 +56,6 @@ sections:
       **Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
 
 
-      **Lördag den 18 maj uppmärksammar vi Den biologiska mångfaldens dag i Skulptörens verkstad!**\
-
-      \
-
-      Lär känna olika hotade djur-arter och gör en vacker pappers-skulptur tillsammans med våra workshopledare!\
-
-      Vi inbjuder både barn och vuxna till en workshopdag kring rödlistade arter. Vi kommer att koncentrera oss på ett tiotal arter som riskerar att minska och som finns runtom i Storstockholm. Det handlar om skalbaggar, fjärilar men också fåglar och fiskar.\
-
-      Vi får veta hur de ser ut, varför de är hotade och vad vi kan göra för att skydda dem.\
-
-      Vi sitter ute under tak och bygger med vackra färgade papper som vi sedan kan hänga upp till ett allkonstverk. Alla får sen ta hem sina alster.\
-
-      Vi har **öppet 12-16** och det är bara att droppa in när ni kan och stanna så länge ni vill.\
-
-      Caféet har saft, bullar och kaffe till självkostnadspris.\
-
-      \
-
-      Välkomna till Skulptörens verkstad på Spångvägen 23 i Saltsjö-Boo, Kummelnäs!\
-
-      \
-
-      Kontakt 0738 262254 eller 0736 249285\
-
-      [kontakt@renqvistsverkstad.se](mailto:kontakt@renqvistsverkstad.se)
 
 
       **"Lilla rundan"**
