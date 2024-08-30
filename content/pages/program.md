@@ -84,10 +84,10 @@ sections:
       Skogskonstnärerna
 
 
-      **Torsten 100 år lördagen den 21a september**
+      ### **Torsten 100 år lördagen den 21a september**
 
 
-      **Söndagen 13e, 19e och 20e oktober- Utställningen "Utrotningshotade!"** 
+      ### **Söndagen 13e, 19e och 20e oktober- Utställningen "Utrotningshotade!"** 
 
 
       Ett konstnärligt projekt om rödlistade arter i vår närmiljö.
@@ -152,11 +152,12 @@ sections:
 
       The program will start with an short discussion between visual artists, musicians and organizers about the various eco systems of culture and art and it's threated spots and strenthes.\
 
-      The project is presented by Kulturföreningen Källaren in collaboration with Föreningen Renqvists Verkstad, Boo Miljö- och Naturvänner and Stockholm Sangeet Festival.\
+      The project is presented by Kulturföreningen Källaren in collaboration with Föreningen Renqvists Verkstad, Boo Miljö- och Naturvänner and Stockholm Sangeet Festival.
 
-      **Program 13 October:**\
 
       \
+
+      **Program 13 October:**\
 
       12.00 Inauguration with presentation of the artists, the project and the species.\
 
@@ -199,7 +200,10 @@ sections:
       ###### \
 
 
-      **Kursprogram hösten 2024**\
+      ### **Kursprogram hösten 2024**
+
+
+      \
 
       **Betongkurs**\
 
