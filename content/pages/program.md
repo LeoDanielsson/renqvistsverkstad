@@ -59,44 +59,19 @@ sections:
       Enkel kaffeservering med bakverk och smörgåsar
 
 
-      ### **Safari för utrotningshotade arter i Skulpturskogen Ed**
+      ![]()
 
 
-      **Familjedagen i Villa Ed 7 september 12-16**
+      ![]()
 
 
-      För barn och deras familjer.\
-
-      Välkommen att delta i en rolig jakt på utrotningshotade djur som finns i skogen. Någonstans i buskar och träd hittar ni fjärilar, snokar och andra djur men nu som bilder eller skulpturer, de är mycket större än i verkligheten och kan se lite annorlunda ut än på bilderna ni får på pappret.\
-
-      \
-
-      Ni kommer att få ett tävlingformulär där ni ser bilder på djuren, därefter får ni gå på upptäcktsfärd för att hitta djuret i form av skulptur eller bild. När ni hittat dem så får ni teckna av dem på pappret. En del av de pyttesmå insekterna finns i jättestorlek andra är inte fullt så förstorade. De finns i träden eller på marken eller i växthuset.\
-
-      I skogen finns också skyltar där ni kan lära er mer om djuren eller be någon vuxen att läsa för er.\
-
-      \
-
-      Lycka till!\
-
-      \
-
-      Skogskonstnärerna
-
-
-      ![](/images/fjäril.jpg)
-
-
-      ![](/images/insekt.jpg)
-
-
-      ![](/images/insekt.jpg)
+      ![]()
 
 
       ### **Torsten 100 år lördagen den 21a september**
 
 
-      ### **Söndagen 13e, 19e och 20e oktober- Utställningen "Utrotningshotade!"** 
+      ### **Söndagen 13e, 19e och 20e oktober- Utställningen "Utrotningshotade!"**
 
 
       Ett konstnärligt projekt om rödlistade arter i vår närmiljö.
