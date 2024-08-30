@@ -33,7 +33,7 @@ cards:
 
 
       ![](/images/fjäril.jpg)
-    ingress: '"Safari för utrotningshotade arter i Skulpturskogen Ed"'
+    ingress: Safari för utrotningshotade arter i Skulpturskogen Ed
   - title: AKTUELLT HÖSTEN 2024
     body: >-
       Ett konstnärligt projekt om rödlistade arter i vår närmiljö.
