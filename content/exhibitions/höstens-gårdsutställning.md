@@ -1,6 +1,6 @@
 ---
 title: Höstens gårdsutställning 2024
-date: 2023-09-03T13:21:33.195Z
+date: 2024-08-31T13:21:33.195Z
 sections:
   - body: >-
       **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS
