@@ -1,6 +1,6 @@
 ---
 title: "Höstens utställningar 2023 "
-date: 2024-05-16T08:32:14.809Z
+date: 2023-09-02T08:32:14.809Z
 sections:
   - body: >-
       ### **2 september: En dag i Skulptörens verkstad och i Myrsjöparken med
