@@ -3,14 +3,17 @@ title: Höstens gårdsutställning 2024
 date: 2024-08-31T13:21:33.195Z
 sections:
   - body: >-
-      **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS
-      KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31
-      augusti kl. 12-16. 
+      **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** 
+
+       Vernissage 31 augusti kl. 12-16. 
+
+      Skulptörens verkstad presenterar en utställning av Lars Kleen som bygger ett verk speciellt anpassat till verkstadens rymd och stämning. Stora konstverk är kännetecknande för Lars Kleen. Han har en känsla för materialens olika egenskaper som resulterar i avancerade konstruktioner i trä, järn och betong.  De tekniska konstruktionerna hänger samman med ett konstnärligt sökande och utstrålar ett rent sakralt uttryck.
 
 
       På gården och i trädgården visas högklassig skulptur i\
 
       i samklang med naturen.
+    image: /images/img_0421.jpg
   - body: >-
       Utställare: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed\
 
