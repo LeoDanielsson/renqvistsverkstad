@@ -25,7 +25,7 @@ sections:
       På gården och i trädgården visas högklassig skulptur i\
 
       i samklang med naturen.
-    image: /images/img_0421.jpg
+    image: ""
   - body: >-
       Utställare: Michael Crisp, Lotta Enocsson, Mats Eriksson, Annika Heed\
 
