@@ -6,19 +6,18 @@ sections:
       ![]()
 
 
-      **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** som gör ett specialbyggt verk för vår verkstad. Vernissage 31 augusti kl. 12-16. Läs mer om utställningen längre ner.
+      ### Utställning "Utrotningshotade!" 13 oktober
 
 
-      **ÖPPETTIDER – Skulptörens verkstad håller öppet med start lördag 31 augusti därefter alla helger lörd-sönd fram till 29 september kl 12-16**
+      Skulptörens verkstad gästas av Kulturföreningen Källarens experimentella undersökning av teknik och visuellt samspel på temat  utrotningshotades arter i vår närmiljö. Välkomna söndag 13e oktober kl. 12-16
 
 
-      **I verkstaden presenterar vi**
+      ![](/images/endangered-2-kopia-.jpg)
 
 
-      ### **Lars Kleen**
+      ![](/images/endangered-3.jpg)
 
 
-      Skulptörens verkstad presenterar en utställning av Lars Kleen som bygger ett verk speciellt anpassat till verkstadens rymd och stämning. Stora konstverk är kännetecknande för Lars Kleen. Han har en känsla för materialens olika egenskaper som resulterar i avancerade konstruktioner i trä, järn och betong.  De tekniska konstruktionerna hänger samman med ett konstnärligt sökande och utstrålar ett rent sakralt uttryck.
 
 
       ![](/images/img_0421.jpg)
