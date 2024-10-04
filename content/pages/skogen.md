@@ -24,7 +24,10 @@ cards:
 
       Lördagen 13, 19 och 20 oktober 12-16 visas en konstnärlig rörlig installation drivna av solceller i Skulptörens verkstad.\
 
-      Här får ni möta olika rödlistade arter som finns i Uppland i ett koreografiskt sceneri i verkstaden. Projektet heter Endangered - Investigations och presenteras av Kulturföreningen Källaren i samarbete med Föreningen Renqvists verkstad, Stockholm Sangeet festival och Boo Miljö och naturvänner.\
+      Här får ni möta olika rödlistade arter som finns i Uppland i ett koreografiskt sceneri i verkstaden. Projektet heter Endangered - Investigations och presenteras av Kulturföreningen Källaren i samarbete med Föreningen Renqvists verkstad, Stockholm Sangeet festival och Boo Miljö och Naturvänner.
+
+
+      *Ett experiment där teknik och visuell upplevelse samspelar. Kulturföreningen Källaren undersöker omfattningen av solcellernas förmåga även långt in på hösten. Från mars till september har verken snurrat med hjälp av solens kraft i Skulpturskogen Ed. Nu återstår att testa höstens solkrafter.*\
 
       \
 
