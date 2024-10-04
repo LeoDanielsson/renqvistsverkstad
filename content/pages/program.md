@@ -20,7 +20,7 @@ sections:
 
 
 
-      ![](/images/img_0421.jpg)
+      ![]()
 
 
       **Året runt-utställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
