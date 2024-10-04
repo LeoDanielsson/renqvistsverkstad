@@ -6,7 +6,7 @@ sections:
       ### Utställning "Utrotningshotade!" 13 oktober
 
 
-      Skulptörens verkstad gästas av Kulturföreningen Källarens experimentella undersökning av teknik och visuellt samspel på temat  utrotningshotades arter i vår närmiljö. Välkomna söndag 13e oktober kl. 12-16
+      Skulptörens verkstad gästas av Kulturföreningen Källarens experimentella undersökning av teknik och visuellt samspel på temat  utrotningshotades arter i vår närmiljö. Välkomna söndag 13e oktober kl. 12-16!
 
 
       ![](/images/endangered-2-kopia-.jpg)
