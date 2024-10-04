@@ -36,6 +36,9 @@ cards:
     ingress: Safari för utrotningshotade arter i Skulpturskogen Ed
   - title: AKTUELLT HÖSTEN 2024
     body: >-
+      ![](/images/endangered-2-kopia-.jpg)
+
+
       Ett konstnärligt projekt om rödlistade arter i vår närmiljö.
 
 
