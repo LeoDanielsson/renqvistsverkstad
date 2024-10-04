@@ -21,10 +21,16 @@ sections:
       ![]()
 
 
-      **Året runt-utställningen Lilla Rundan** speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
+      ###### **Året runt-utställningen Lilla Rundan** 
 
 
-      **Gårdsutställning ”Samtal i trädgården”** öppnas 5 maj kl 15-16.och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
+      speciellt för barn och deras vuxna. Besök och upptäck skulpturer i snåren och bland träden. Utför ett hemligt uppdrag och gör en egen skulptur att sätta i Rundan!
+
+
+      ###### **Gårdsutställning ”Samtal i trädgården”** 
+
+
+      öppnas 5 maj kl 15-16.och är öppet året ut. Vi presenterar skulptur på gårdsplanen och i trädgården.
 
 
       ![]()
@@ -39,7 +45,7 @@ sections:
       ![]()
 
 
-      **"Lilla rundan"**
+      ###### **"Lilla rundan"**
 
 
       En stig i trädgården speciellt för barn och deras vuxna!\
