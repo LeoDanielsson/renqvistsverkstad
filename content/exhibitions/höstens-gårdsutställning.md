@@ -3,13 +3,16 @@ title: Höstens gårdsutställning 2024
 date: 2024-08-31T13:21:33.195Z
 sections:
   - body: >-
-      Skulptörens verkstad gästas av Kulturföreningen Källarens experimentella
-      undersökning av teknik och visuellt samspel på temat  utrotningshotades
-      arter i vår närmiljö. Välkomna söndag 13e oktober kl. 12-16
+      ### Utställning "Utrotningshotade!" 13 oktober
 
 
+      Skulptörens verkstad gästas av Kulturföreningen Källarens experimentella undersökning av teknik och visuellt samspel på temat  utrotningshotades arter i vår närmiljö. Välkomna söndag 13e oktober kl. 12-16
 
 
+      ![](/images/endangered-2-kopia-.jpg)
+
+
+      ![](/images/endangered-3.jpg)
 
 
       **HÖSTEN 2024 ÄR VI STOLTA ATT PRESENTERA EN UTSTÄLLNING AV LARS KLEEN** 
