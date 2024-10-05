@@ -30,6 +30,19 @@ collections:
               - { label: Rubrik, name: title, widget: string, required: false }
               - { label: Text, name: body, widget: markdown }
               - { label: Bild, name: image, widget: image, required: false }
+      - label: Kurser och workshops
+        name: kurser-och-workshops
+        file: content/pages/kurser-och-workshops.md
+        fields:
+          - { label: Rubrik, name: title, widget: string }
+          - label: Sektioner
+            name: sections
+            widget: list
+            min: 1
+            fields:
+              - { label: Rubrik, name: title, widget: string, required: false }
+              - { label: Text, name: body, widget: markdown }
+              - { label: Bild, name: image, widget: image, required: false }
       - label: Om oss
         name: about
         file: content/pages/about.md
@@ -74,7 +87,7 @@ collections:
     create: true
     fields:
       - { label: Titel, name: title, widget: string }
-      - { label: Startdatum, name: date, widget: datetime }
+      - { label: Vernissagedatum, name: date, widget: datetime }
       - {
           label: Youtubefilm,
           name: youtubeUrl,

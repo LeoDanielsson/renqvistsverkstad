@@ -1,22 +1,27 @@
-import Layout from '../components/Layout';
-import styled from 'styled-components';
-import { white } from '../colors';
-import Container from '../components/Container';
-import { large, medium } from '../breakpoints';
-import CtaLink from '../components/CtaLink';
-import Poster from '../components/Poster';
-import content from '../content/pages/startpage.md';
+import Layout from "../components/Layout";
+import styled from "styled-components";
+import { white } from "../colors";
+import Container from "../components/Container";
+import { large, medium } from "../breakpoints";
+import CtaLink from "../components/CtaLink";
+import Poster from "../components/Poster";
+import content from "../content/pages/startpage.md";
+import fs from "fs";
+import { getExhibition } from "./utstallningar";
+import Section from "../components/Section";
+import ReactMarkdown from "react-markdown";
+import Link from "next/link";
 
 const poster = content.attributes.poster;
 
 const Hero = styled.div`
-  height: ${poster ? 'auto' : '80vh'};
-  overflow: ${poster ? 'visible' : 'hidden'};
+  min-height: 80vh;
+  overflow: ${poster ? "visible" : "hidden"};
   position: relative;
   display: flex;
   justify-content: center;
   background-color: black;
-  background-image: url('/images/gryta.jpg');
+  background-image: url("/images/gryta.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -28,18 +33,14 @@ const Hero = styled.div`
         rgba(0, 0, 0, 0.1) 70%,
         rgba(0, 0, 0, 1) 100%
       ),
-      url('/images/gryta.jpg');
+      url("/images/gryta.jpg");
     background-size: 60%;
   }
 `;
 
 const HeroContent = styled.div`
   text-align: center;
-  position: ${poster ? 'relative' : 'absolute'};
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -64,7 +65,43 @@ const PosterContainer = styled(Container)`
   justify-content: center;
 `;
 
-const Home = () => (
+export async function getStaticProps() {
+  const filenames = fs.readdirSync("content/exhibitions");
+  const exhibitions = await Promise.all(filenames.map(getExhibition));
+
+  // Find the exhibition with the latest attributes.startDate
+  exhibitions.sort((a, b) => {
+    const dateA = new Date(a.attributes.date);
+    const dateB = new Date(b.attributes.date);
+    return dateB - dateA;
+  });
+
+  return { props: { activeExhibition: exhibitions[0] } };
+}
+
+const ActiveExhibition = ({ exhibition }) => {
+  if (!exhibition) {
+    return null;
+  }
+
+  const {
+    slug,
+    attributes: { title, sections },
+  } = exhibition;
+  const link = `/utstallningar/${slug}`;
+  return (
+    <div className="p-4 bg-darkGreen text-left rounded-md mt-4 mb-2">
+      <h2>Aktuell utställning</h2>
+      <h3>
+        <Link href={link}>{title}</Link>
+      </h3>
+      <ReactMarkdown>{sections[0].body}</ReactMarkdown>
+      <CtaLink href={link}>Klicka för att läsa mer</CtaLink>
+    </div>
+  );
+};
+
+const Home = ({ activeExhibition }) => (
   <Layout title="Hem">
     <Hero>
       <HeroContent>
@@ -72,10 +109,10 @@ const Home = () => (
           <p>{content.attributes.preTitle}</p>
           <h1>{content.attributes.title}</h1>
           <p>{content.attributes.postTitle}</p>
-
           <CtaLink href="/program" inverted>
             Se vårt program
           </CtaLink>
+          <ActiveExhibition exhibition={activeExhibition} />
         </Container>
       </HeroContent>
     </Hero>

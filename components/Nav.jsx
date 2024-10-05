@@ -1,15 +1,16 @@
-import Link from 'next/link';
-import { useRouter } from 'next/router';
-import styled from 'styled-components';
-import { white, darkGreen, copper } from '../colors';
+import Link from "next/link";
+import { useRouter } from "next/router";
+import styled from "styled-components";
+import { white, darkGreen, copper } from "../colors";
 
 const links = [
-  { href: '/', label: 'Hem' },
-  { href: '/program', label: 'Program' },
-  { href: '/utstallningar', label: 'Utställningar' },
-  { href: '/om-oss', label: 'Om oss' },
-  { href: '/kontakt', label: 'Kontakt' },
-  { href: '/skogen', label: 'Skulpturskogen Ed' },
+  { href: "/", label: "Hem" },
+  { href: "/program", label: "Program" },
+  { href: "/kurser-och-workshops", label: "Kurser & Workshops" },
+  { href: "/historik", label: "Historik" },
+  { href: "/om-oss", label: "Om oss" },
+  { href: "/kontakt", label: "Kontakt" },
+  { href: "/skogen", label: "Skulpturskogen Ed" },
 ];
 
 const StyledNav = styled.nav`
@@ -30,7 +31,7 @@ const StyledNav = styled.nav`
 
 const NavLink = styled.a`
   color: ${white};
-  border-bottom: ${({ active }) => (active ? `2px solid ${white}` : 'none')};
+  border-bottom: ${({ active }) => (active ? `2px solid ${white}` : "none")};
   padding: 8px 16px;
   text-decoration: none;
   display: block;

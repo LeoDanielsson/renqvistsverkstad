@@ -1,11 +1,11 @@
-import Layout from "../../components/Layout";
-import Container from "../../components/Container";
-import Section from "../../components/Section";
+import Layout from "../components/Layout";
+import Container from "../components/Container";
+import Section from "../components/Section";
 import fs from "fs";
 import ReactMarkdown from "react-markdown";
 
 export async function getExhibition(filename) {
-  const module = await import(`../../content/exhibitions/${filename}`);
+  const module = await import(`../content/exhibitions/${filename}`);
   return {
     slug: filename.replace(/\.md$/, ""),
     attributes: module.attributes,
@@ -24,11 +24,11 @@ export async function getStaticProps({ params }) {
   };
 }
 
-const Exhibitions = ({ exhibitions }) => (
+const ExhibitionHistory = ({ exhibitions }) => (
   <Layout>
     <Container>
-      <h1>Utställningar</h1>
-      {exhibitions.map(({ slug, attributes: { title, sections } }) => (
+      <h1>Historik</h1>
+      {exhibitions.slice(1).map(({ slug, attributes: { title, sections } }) => (
         <Section
           key={slug}
           title={title}
@@ -42,4 +42,4 @@ const Exhibitions = ({ exhibitions }) => (
   </Layout>
 );
 
-export default Exhibitions;
+export default ExhibitionHistory;
