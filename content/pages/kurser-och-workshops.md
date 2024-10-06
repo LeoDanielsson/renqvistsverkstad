@@ -26,4 +26,11 @@ sections:
       Anmäl er till Kontakt: Annika Heed, [annikaheed@hotmail.com](mailto:annikaheed@hotmail.com) 0738262254.
     title: Kursprogram hösten 2024
     image: /images/workshop4.JPG
+  - title: Konstkurser
+    body: Bokningsbara fördjupnings-kurser för små eller större grupper. I år
+      startar vi upp kurser som erbjuder fördjupning inom ett ämne. Kurserna
+      kommer att ligga under verksamhetsåret och startas upp när vi når upp i
+      erforderligt deltagarantal. Lämpligt för föreningar, privata grupper,
+      olika yrkesgrupper eller andra verksamheter. Se vidare på beskrivning av
+      varje kurs.
 ---
