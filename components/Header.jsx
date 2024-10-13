@@ -17,7 +17,7 @@ const StyledHeader = styled.header`
 `;
 
 const Logo = styled.a`
-  font-size: 16px;
+  font-size: 18px;
   text-align: center;
   cursor: pointer;
   color: ${white};

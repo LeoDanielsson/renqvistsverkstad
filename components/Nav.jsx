@@ -27,10 +27,9 @@ const NavLink = styled.a`
   text-decoration: none;
   display: block;
   cursor: pointer;
-  font-size: 12px;
+  font-size: 16px;
 
   @media (min-width: ${medium}) {
-    font-size: 16px;
     padding: 8px 16px;
   }
 `;
