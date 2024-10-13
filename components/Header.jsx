@@ -12,7 +12,7 @@ const StyledHeader = styled.header`
   background-color: ${darkGreen};
   padding-bottom: 0;
   @media (min-width: ${medium}) {
-    padding: 24px 0;
+    padding-top: 24px;
   }
 `;
 
