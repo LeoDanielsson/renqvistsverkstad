@@ -1,10 +1,12 @@
-import Head from 'next/head';
-import ReactMarkdown from 'react-markdown';
-import styled from 'styled-components';
-import { large, medium } from '../breakpoints';
-import GlobalStyle from '../components/GlobalStyle';
+import Head from "next/head";
+import ReactMarkdown from "react-markdown";
+import styled from "styled-components";
+import { large, medium } from "../breakpoints";
+import GlobalStyle from "../components/GlobalStyle";
 
-import content from '../content/pages/skogen.md';
+import content from "../content/pages/skogen.md";
+import Nav from "../components/Nav";
+import { darkGreen } from "../colors";
 
 const Background = styled.div`
   position: fixed;
@@ -13,14 +15,14 @@ const Background = styled.div`
   bottom: 0;
   left: 0;
   min-height: 100vh;
-  background-image: url('/images/mossigskog_desk.jpg');
+  background-image: url("/images/mossigskog_desk.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
   @media (min-width: ${large}) {
-    background-image: url('/images/mossigskog_xl.jpg');
+    background-image: url("/images/mossigskog_xl.jpg");
   }
 `;
 
@@ -35,7 +37,7 @@ const Container = styled.div`
 
 const Title = styled.h1`
   color: #eee;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "Segoe UI", sans-serif;
   font-weight: 400;
   font-size: 9vw;
   text-transform: uppercase;
@@ -74,6 +76,11 @@ const Ingress = styled.p`
   color: #d1530f;
 `;
 
+const NavWrapper = styled.div`
+  position: absolute;
+  width: 100vw;
+  background-color: #03191eaa;
+`;
 
 const Skogen = () => {
   return (
@@ -85,8 +92,11 @@ const Skogen = () => {
       <main>
         <Background />
         <Container>
+          <NavWrapper>
+            <Nav />
+          </NavWrapper>
           <Title>{content.attributes.title}</Title>
-          {content.attributes.cards.map(card => (
+          {content.attributes.cards.map((card) => (
             <Card key={card.title}>
               {card.title && <h2>{card.title}</h2>}
               {card.ingress && <Ingress>{card.ingress}</Ingress>}

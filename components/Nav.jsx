@@ -1,17 +1,8 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 import styled from "styled-components";
-import { white, darkGreen, copper } from "../colors";
-
-const links = [
-  { href: "/", label: "Hem" },
-  { href: "/program", label: "Program" },
-  { href: "/kurser-och-workshops", label: "Kurser & Workshops" },
-  { href: "/historik", label: "Historik" },
-  { href: "/om-oss", label: "Om oss" },
-  { href: "/kontakt", label: "Kontakt" },
-  { href: "/skogen", label: "Skulpturskogen Ed" },
-];
+import { white } from "../colors";
+import { medium } from "../breakpoints";
 
 const StyledNav = styled.nav`
   white-space: nowrap;
@@ -32,14 +23,34 @@ const StyledNav = styled.nav`
 const NavLink = styled.a`
   color: ${white};
   border-bottom: ${({ active }) => (active ? `2px solid ${white}` : "none")};
-  padding: 8px 16px;
+  padding: 8px;
   text-decoration: none;
   display: block;
   cursor: pointer;
+  font-size: 12px;
+
+  @media (min-width: ${medium}) {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
 `;
 
-const Nav = () => {
+const Nav = ({ activeExhibition }) => {
   const { pathname } = useRouter();
+
+  const links = [
+    { href: "/", label: "Hem" },
+    {
+      href: `/aktuell-utstallning`,
+      label: "Aktuell utställning",
+    },
+    { href: "/program", label: "Program" },
+    { href: "/kurser-och-workshops", label: "Kurser & Workshops" },
+    { href: "/historik", label: "Utställningshistorik" },
+    { href: "/om-oss", label: "Om oss" },
+    { href: "/kontakt", label: "Kontakt" },
+    { href: "/skogen", label: "Skulpturskogen Ed" },
+  ];
   return (
     <StyledNav>
       <ul>

@@ -23,18 +23,27 @@ const Hero = styled.div`
   background-color: black;
   background-image: url("/images/gryta.jpg");
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-image: linear-gradient(
+      to left,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.2) 30%,
+      rgba(0, 0, 0, 0.2) 70%,
+      rgba(0, 0, 0, 1) 100%
+    ),
+    url("/images/gryta.jpg");
+  background-size: 100vw;
+  background-position: center -40vw;
   @media (min-width: ${large}) {
     background-image: linear-gradient(
         to left,
         rgba(0, 0, 0, 1) 0%,
-        rgba(0, 0, 0, 0.1) 30%,
-        rgba(0, 0, 0, 0.1) 70%,
+        rgba(0, 0, 0, 0.2) 30%,
+        rgba(0, 0, 0, 0.2) 70%,
         rgba(0, 0, 0, 1) 100%
       ),
       url("/images/gryta.jpg");
-    background-size: 60%;
+    background-size: 30vw;
+    background-position: center -10vw;
   }
 `;
 
@@ -45,18 +54,27 @@ const HeroContent = styled.div`
   flex-direction: column;
   align-items: center;
   color: ${white};
-  font-size: 20px;
+  font-size: 16px;
 
   h1 {
-    margin-top: 1.666rem;
-    font-size: 2.5em;
     color: ${white};
+    font-size: 24px;
   }
   @media (min-width: ${medium}) {
     padding: 2rem 0;
+    font-size: 18px;
+    h1 {
+      color: ${white};
+      font-size: 24px;
+    }
   }
   @media (min-width: ${large}) {
+    margin-top: 1.666rem;
     padding: 4rem 0;
+    h1 {
+      color: ${white};
+      font-size: 48px;
+    }
   }
 `;
 
@@ -88,7 +106,7 @@ const ActiveExhibition = ({ exhibition }) => {
     slug,
     attributes: { title, sections },
   } = exhibition;
-  const link = `/utstallningar/${slug}`;
+  const link = `/aktuell-utstallning`;
   return (
     <div className="p-4 bg-darkGreen text-left rounded-md mt-4 mb-2">
       <h2>Aktuell utställning</h2>
