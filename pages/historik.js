@@ -27,7 +27,7 @@ export async function getStaticProps({ params }) {
 const ExhibitionHistory = ({ exhibitions }) => (
   <Layout>
     <Container>
-      <h1>Historik</h1>
+      <h1>Utställningshistorik</h1>
       {exhibitions
         .sort((a, b) => {
           const dateA = new Date(a.attributes.date);
