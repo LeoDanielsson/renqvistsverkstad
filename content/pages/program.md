@@ -1,6 +1,11 @@
 ---
 title: Program
 sections:
+  - title: Våren 2025
+    body: |-
+      Läs om vårens utställning under fliken aktuell uställning!
+
+      Mer information om vårens program kommer senare
   - title: HÖSTEN 2024
     body: >-
       ![]()
