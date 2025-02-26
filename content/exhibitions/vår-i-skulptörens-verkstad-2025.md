@@ -10,7 +10,7 @@ sections:
       \-Utställare inne i verkstaden 
 
 
-      Mats Eriksson, Viktor Korneev, Gunilla Poignant , Sophi Vejrich
+      Mats Eriksson, Viktor Korneev, Gunilla Poignant, Sophi Vejrich
 
 
       Fyra skulptörer som arbetar i trä under temat ”I have a dream” 
