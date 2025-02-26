@@ -42,6 +42,9 @@ cards:
       Projektet presenteras av Kulturföreningen Källaren med stöd av Kulturförvaltningen Region Stockholm och Upplands Väsby kommun.
 
 
+      ![](/images/fjaril.jpg)
+
+
       **Skulpturstigen för små och stora får nya skulpturer 10 maj!**
 
 
@@ -57,6 +60,9 @@ cards:
       Musik kl 12.00 i skogen! Workshop för alla barn!
 
 
+      ![](/images/barn.jpg)
+
+
       **Nationaldagen 6 juni**
 
 
@@ -67,6 +73,9 @@ cards:
 
 
       Hitta en orm, ödla eller annat kryp i trä och måla den i vackra färger
+
+
+      ![](/images/bur.jpg)
 
 
       **Hösten 2025**
