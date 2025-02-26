@@ -74,6 +74,92 @@ cards:
 
       Efter sommaren dyker nya skulpturer upp i Skulptörskogen!
     title: Aktuellt vår, sommar och höst 2025
+  - title: SKULPTURSKOGEN ED
+    ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
+      egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
+      intill Villa Ed, ligger skogen med höga bokar och gamla ekar. I skogen
+      visas konst av hög kvalitet. Konsten hänger samman med skogen men också
+      med landskapet runtomkring, med sjön och den medeltida kyrkan och med
+      ”Upplevelsestråket” en vandringsled som går kors och tvärs genom Upplands
+      Väsby och sträcker sig ut till Sollentuna och de andra grannkommunerna.
+    body: >-
+      I Skulpturskogen kan ni vandra på små stigar och upptäcka konst på ett
+      nytt sätt, ni kan finna skulpturer i en dunge eller högt upp i
+      trädkronorna eller gömda i kvisthålet på ett träd. Vandra runt och upplev
+      konst i den vackra naturen och i friska luften. I skulpturskogen finns
+      även olika ”Upptäcktsvandringar” att göra. Varje verk har något att
+      berätta om historien, naturen eller om sin egen hemlighet. Läs gåtorna och
+      se om ni kan svaren, det gör att ni deltar i skulpturskogen på ett roligt
+      och lärorikt sätt. Foldrar med gåtor, frågor och svar finns att hämta i
+      vårt skåp som finns intill skogens ingång. Vi har spännande
+      ”upptäcktsvandringar” anpassade till olika åldrar, några för riktigt små
+      barn.
+
+
+      När ni vandrat är ni varmt välkomna till Villa Ed för en stunds vila och avkoppling. I den vackra trädgården med uteservering kan ni njuta av varma drycker, hembakat och hemlagat. Villa Ed är en gammal och vacker villa som idag är en unik handels- och mötesplats för alla sinnen. Förutom cafe & bistro hyser villan verksamheter såsom inredningsbutik, underkläder, massage, frisör, olika skönhetsbehandlingar, konsthantverk samt samtal och terapi.
+
+
+      Skulpturskogen Ed invigdes lördag 24 april kl 13.00 2021. För speciella händelser se separat program nedan på denna hemsida och på Villa Eds hemsida, [www.villaed.com](https://www.villaed.com) där även en karta finns på vägbeskrivning. Upplevelsestråket kan ni läsa om på Upplands Väsbys hemsida [www.upplandsvasby.se](https://www.upplandsvasby.se)
+
+
+      **Tillgänglighet** vid Skulpturskogen Ed: Intill skogen finns en Parkeringsplats. Det löper promenadvägar runt skogen som fungerar för rullstol. Från vägen ser man många av skulpturerna i skogen samt den lilla utställningen som visas på de små socklarna utmed vägen. Med hjälp kan man rulla in i skogens centrumglänta där många av skogens skulpturer finns. Det är däremot svårt att nå de skulpturala installationer som finns i mer otillgänglig skog.l Till Villa Eds café finns rullstolsramp.
+
+
+
+
+      Kulturföreningen Källaren deltar i olika projekt förutom att driva Skulpturskogen Ed. Den 15 och 16 juni deltar fyra av föreningens medlemmar i äventyrsspelet "Skulptursnurran" Läs mer här nedan!
+
+
+      ![](https://www.renqvistsverkstad.se/images/stuga.jpg)
+
+
+      Tack till Johan Curman, markägare
+
+
+      Tack till Bisslinge och Svartinge gårdar
+
+
+      Med stöd av Kultur och fritid, Upplands Väsby kommun
+
+
+      Varmt Välkomna till Skulpturskogen Ed!
+  - body: >-
+      In the Forest of Sculptures you can walk along the small paths while
+      discovering art in a completely new way. There are sculptures to be found
+      in the most unexpected places: in the groves, high up in the treetops or
+      why not hidden in the knothole of a tree. This is an art exhibition that
+      you can enjoy out in the fresh air and in the freedom of nature.
+
+
+      If you like, you can explore the Forest of Sculptures in a fun and enlightening way by following different “discovery adventures”. Each work of art has a story to tell about nature, history or maybe a secret of its own, and it’s up to you to solve its riddles! Pick up the questions and answers in the cabinet at the entrance of the forest. There are several different “discovery adventures” for children of all ages, even for the very youngest.
+
+
+      After the walk in the forest, Villa Ed welcomes you to a moment of rest and relaxation in the beautiful garden where you can enjoy a hot beverage, a homemade meal or a pastry. Villa Ed is a beautiful old house that has become a meeting point for all kinds of minds. Alongside the café and bistro the Villa’s businesses offers interior design shopping, lingerie, art handicrafts, massage therapists, hairdressers, beauty treatments as well as counseling and therapy. 
+
+
+      Ed, the Forest of Sculptures opened for the first time on the 24th of April 2021. Events and happenings will be posted in a separate program on this website and on the website of Villa Ed [www.villaed.com](http://www.villaed.com/) where you can also find instructions on how to get here. If you want to read more about the walking trail “Upplevelsestråket” you can find the information on the website of Upplands Väsby [www.upplandsvasby.se](http://www.upplandsvasby.se/)
+
+
+      Thank you to Johan Curman, landowner
+
+
+      Thank you to Bisslinge and Svartinge estates.
+
+
+      With funding from Kultur och fritid, Upplands Väsby kommun.
+
+
+      We wish you a warm welcome to Ed, the Forest of Sculptures!
+    title: ED- THE FOREST OF SCULPTURES
+    ingress: The Forest of Sculptures is something as remarkable as a sculpture park
+      doubling as a forest. In the middle of the beautiful cultural landscape of
+      Upplands Väsby, next to Villa Ed, lays the forest with its high beeches
+      and old oak trees. Here you can find an art exhibition of high quality.
+      The artwork harmonizes with not only the forest itself but also with the
+      landscape that surrounds it, with the lake and the medieval church and
+      with the walking trail called “Upplevelsestråket” that continues
+      throughout Upplands Väsby and stretches out to Sollentuna and the other
+      surrounding municipalities.
   - title: AKTUELLT HÖSTEN 2024
     body: >-
       ![](/images/endangered-2-kopia-.jpg)
@@ -190,92 +276,6 @@ cards:
 
       ###### \
     ingress: Söndagen 13e, 19e och 20e oktober- Utställningen "Utrotningshotade!
-  - title: SKULPTURSKOGEN ED
-    ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
-      egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
-      intill Villa Ed, ligger skogen med höga bokar och gamla ekar. I skogen
-      visas konst av hög kvalitet. Konsten hänger samman med skogen men också
-      med landskapet runtomkring, med sjön och den medeltida kyrkan och med
-      ”Upplevelsestråket” en vandringsled som går kors och tvärs genom Upplands
-      Väsby och sträcker sig ut till Sollentuna och de andra grannkommunerna.
-    body: >-
-      I Skulpturskogen kan ni vandra på små stigar och upptäcka konst på ett
-      nytt sätt, ni kan finna skulpturer i en dunge eller högt upp i
-      trädkronorna eller gömda i kvisthålet på ett träd. Vandra runt och upplev
-      konst i den vackra naturen och i friska luften. I skulpturskogen finns
-      även olika ”Upptäcktsvandringar” att göra. Varje verk har något att
-      berätta om historien, naturen eller om sin egen hemlighet. Läs gåtorna och
-      se om ni kan svaren, det gör att ni deltar i skulpturskogen på ett roligt
-      och lärorikt sätt. Foldrar med gåtor, frågor och svar finns att hämta i
-      vårt skåp som finns intill skogens ingång. Vi har spännande
-      ”upptäcktsvandringar” anpassade till olika åldrar, några för riktigt små
-      barn.
-
-
-      När ni vandrat är ni varmt välkomna till Villa Ed för en stunds vila och avkoppling. I den vackra trädgården med uteservering kan ni njuta av varma drycker, hembakat och hemlagat. Villa Ed är en gammal och vacker villa som idag är en unik handels- och mötesplats för alla sinnen. Förutom cafe & bistro hyser villan verksamheter såsom inredningsbutik, underkläder, massage, frisör, olika skönhetsbehandlingar, konsthantverk samt samtal och terapi.
-
-
-      Skulpturskogen Ed invigdes lördag 24 april kl 13.00 2021. För speciella händelser se separat program nedan på denna hemsida och på Villa Eds hemsida, [www.villaed.com](https://www.villaed.com) där även en karta finns på vägbeskrivning. Upplevelsestråket kan ni läsa om på Upplands Väsbys hemsida [www.upplandsvasby.se](https://www.upplandsvasby.se)
-
-
-      **Tillgänglighet** vid Skulpturskogen Ed: Intill skogen finns en Parkeringsplats. Det löper promenadvägar runt skogen som fungerar för rullstol. Från vägen ser man många av skulpturerna i skogen samt den lilla utställningen som visas på de små socklarna utmed vägen. Med hjälp kan man rulla in i skogens centrumglänta där många av skogens skulpturer finns. Det är däremot svårt att nå de skulpturala installationer som finns i mer otillgänglig skog.l Till Villa Eds café finns rullstolsramp.
-
-
-
-
-      Kulturföreningen Källaren deltar i olika projekt förutom att driva Skulpturskogen Ed. Den 15 och 16 juni deltar fyra av föreningens medlemmar i äventyrsspelet "Skulptursnurran" Läs mer här nedan!
-
-
-      ![](https://www.renqvistsverkstad.se/images/stuga.jpg)
-
-
-      Tack till Johan Curman, markägare
-
-
-      Tack till Bisslinge och Svartinge gårdar
-
-
-      Med stöd av Kultur och fritid, Upplands Väsby kommun
-
-
-      Varmt Välkomna till Skulpturskogen Ed!
-  - body: >-
-      In the Forest of Sculptures you can walk along the small paths while
-      discovering art in a completely new way. There are sculptures to be found
-      in the most unexpected places: in the groves, high up in the treetops or
-      why not hidden in the knothole of a tree. This is an art exhibition that
-      you can enjoy out in the fresh air and in the freedom of nature.
-
-
-      If you like, you can explore the Forest of Sculptures in a fun and enlightening way by following different “discovery adventures”. Each work of art has a story to tell about nature, history or maybe a secret of its own, and it’s up to you to solve its riddles! Pick up the questions and answers in the cabinet at the entrance of the forest. There are several different “discovery adventures” for children of all ages, even for the very youngest.
-
-
-      After the walk in the forest, Villa Ed welcomes you to a moment of rest and relaxation in the beautiful garden where you can enjoy a hot beverage, a homemade meal or a pastry. Villa Ed is a beautiful old house that has become a meeting point for all kinds of minds. Alongside the café and bistro the Villa’s businesses offers interior design shopping, lingerie, art handicrafts, massage therapists, hairdressers, beauty treatments as well as counseling and therapy. 
-
-
-      Ed, the Forest of Sculptures opened for the first time on the 24th of April 2021. Events and happenings will be posted in a separate program on this website and on the website of Villa Ed [www.villaed.com](http://www.villaed.com/) where you can also find instructions on how to get here. If you want to read more about the walking trail “Upplevelsestråket” you can find the information on the website of Upplands Väsby [www.upplandsvasby.se](http://www.upplandsvasby.se/)
-
-
-      Thank you to Johan Curman, landowner
-
-
-      Thank you to Bisslinge and Svartinge estates.
-
-
-      With funding from Kultur och fritid, Upplands Väsby kommun.
-
-
-      We wish you a warm welcome to Ed, the Forest of Sculptures!
-    title: ED- THE FOREST OF SCULPTURES
-    ingress: The Forest of Sculptures is something as remarkable as a sculpture park
-      doubling as a forest. In the middle of the beautiful cultural landscape of
-      Upplands Väsby, next to Villa Ed, lays the forest with its high beeches
-      and old oak trees. Here you can find an art exhibition of high quality.
-      The artwork harmonizes with not only the forest itself but also with the
-      landscape that surrounds it, with the lake and the medieval church and
-      with the walking trail called “Upplevelsestråket” that continues
-      throughout Upplands Väsby and stretches out to Sollentuna and the other
-      surrounding municipalities.
   - title: Familjedagen i Villa Ed 2024
     body: >-
       **Familjedagen i Villa Ed 7 september**\
