@@ -9,6 +9,71 @@ cards:
       Tillgänglighet och vägbeskrivning\
       Introduction in english\
       Tidigare utställningar
+  - body: >-
+      Endangered – Investigations om rörelser, solceller och utrotningshotade
+      djur
+
+
+      Ett konstnärligt projekt om rödlistade arter i vår närmiljö.
+
+
+      Konstnärer: Bo Andersson, Lars Brunström, Lotta Enocsson,\
+
+      Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
+
+
+      \
+
+      Här får ni möta olika rödlistade arter som finns i Skulpturskogen Ed i en rumslig iscensättning i skogens mitt. Vi experimenterar med teknik, rörelser drivna av solceller och visuella upplevelser. 
+
+
+      Ett konstnärligt projekt där ni samtidigt får inblick i djurens sammanhang och levnadsförutsättningar i deras närmiljö.
+
+
+      Vernissage lördag 10 maj kl 12-16!
+
+
+      Musik kl 13.00
+
+
+      Workshop för alla barn om små och stora kryp
+
+
+      Projektet presenteras av Kulturföreningen Källaren med stöd av Kulturförvaltningen Region Stockholm och Upplands Väsby kommun.
+
+
+      **Skulpturstigen för små och stora får nya skulpturer 10 maj!**
+
+
+      En slinga för barn och deras vuxna att upptäcka. 
+
+
+      Vi inviger de nya spännande skulpturerna och händelserna som finns att upptäcka i skogen. 
+
+
+      Följ de vita stenarna!
+
+
+      Musik kl 12.00 i skogen! Workshop för alla barn!
+
+
+      **Nationaldagen 6 juni**
+
+
+      Vi berättar om de rödlistade arterna i skogens mitt kl 12.00
+
+
+      Workshop för alla barn vid Barnstigen!
+
+
+      Hitta en orm, ödla eller annat kryp i trä och måla den i vackra färger
+
+
+      **Hösten 2025**
+
+
+      Efter sommaren dyker nya skulpturer upp i Skulptörskogen!
+    title: Aktuellt vår, sommar och höst 2025
   - title: AKTUELLT HÖSTEN 2024
     body: >-
       ![](/images/endangered-2-kopia-.jpg)
