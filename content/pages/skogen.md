@@ -22,6 +22,9 @@ cards:
       Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
 
 
+      ![](/images/fladdermusen-affisch.jpg)
+
+
       \
 
       Här får ni möta olika rödlistade arter som finns i Skulpturskogen Ed i en rumslig iscensättning i skogens mitt. Vi experimenterar med teknik, rörelser drivna av solceller och visuella upplevelser. 
