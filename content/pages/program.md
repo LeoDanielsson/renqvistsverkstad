@@ -8,6 +8,8 @@ sections:
       Mer information om vårens program kommer senare
 
       ![](/images/affisch-i-have-a-dream-klar.jpg)
+
+      ![](/images/affisch-trädgård.jpg)
   - title: Vinter i Skulptörens Verkstad
     body: >-
       Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
