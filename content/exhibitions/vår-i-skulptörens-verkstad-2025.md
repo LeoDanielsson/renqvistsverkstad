@@ -40,6 +40,9 @@ sections:
       Utställningen pågår hela året 2025 ÖPPET med bemanning Lördag-Söndag t.o.m 1 juni
 
 
+      ![](/images/affisch-trädgård.jpg)
+
+
       **SKULPTURSTIGEN FÖR BARN**
 
 
