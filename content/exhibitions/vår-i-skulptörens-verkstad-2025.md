@@ -22,6 +22,9 @@ sections:
       Utställningen pågår t.o.m. 1 juni ÖPPET Lördag-Söndag
 
 
+      ![](/images/affisch-i-have-a-dream-klar.jpg)
+
+
       \-Utställare i gård och i trädgård: 
 
 
