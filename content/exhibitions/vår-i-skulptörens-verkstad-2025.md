@@ -40,7 +40,12 @@ sections:
       Utställningen pågår hela året 2025 ÖPPET med bemanning Lördag-Söndag t.o.m 1 juni
 
 
+      "Skulptur som fredligt instrument" är ett omfattande projekt i Skulptörförbundets regi som omfattar konstutställningar, workshops och mycket mer. Projektet stöds av Svenska Postkodlotteriets Stiftelse och Region Stockholm. [www.skulptorforbundet.se](www.skulptorforbundet.se)
+
+
       ![](/images/affisch-trädgård.jpg)
+
+
 
 
       **SKULPTURSTIGEN FÖR BARN**
