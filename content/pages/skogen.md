@@ -36,7 +36,7 @@ cards:
       Vernissage lördag 10 maj kl 12-16!
 
 
-      Musik kl 13.00
+      Öppning kl 13 med Tomas Bannerhed som berättar om fåglar och musik med Valerias Klezmer Chariot, klarinett och piano
 
 
       Workshop för alla barn om små och stora kryp
