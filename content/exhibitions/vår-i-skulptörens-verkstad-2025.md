@@ -34,7 +34,7 @@ sections:
       Temat ”I have a dream”
 
 
-      Vernissage 3 maj 12-16
+      Vernissage 3 maj kl. 12-16 - Musik med Valerias Klezmer Chariot, klarinett och piano
 
 
       Utställningen pågår hela året 2025 ÖPPET med bemanning Lördag-Söndag t.o.m 1 juni
