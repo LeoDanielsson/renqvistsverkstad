@@ -3,8 +3,14 @@ title: Vår i Skulptörens verkstad 2025
 date: 2025-05-03T10:00:55.732Z
 sections:
   - body: >-
-      **I samband med Skulptörförbundets 50 års jubileum på temat fred och
-      demokrati presenterar Skulptörens verkstad två utställningar:**
+      **Söndagen 1 juni** har vi Finissage för vår fina utställning med fyra
+      konstnärer som arbetar i trä. Vi dukar upp lite och kl 14.30 blir det
+      franska valser och drömsk pop med Marilla Delprat på sång och dragspel!
+
+
+
+
+      **I samband med Skulptörförbundets 50 års jubileum på temat fred och demokrati presenterar Skulptörens verkstad två utställningar:**
 
 
       \-Utställare inne i verkstaden 
@@ -44,8 +50,6 @@ sections:
 
 
       ![](/images/affisch-trädgård.jpg)
-
-
 
 
       **SKULPTURSTIGEN FÖR BARN**
