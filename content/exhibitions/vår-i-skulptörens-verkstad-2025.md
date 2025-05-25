@@ -8,6 +8,7 @@ sections:
       franska valser och drömsk pop med Marilla Delprat på sång och dragspel!
 
 
+      ![](/images/img_5151.jpg)
 
 
       **I samband med Skulptörförbundets 50 års jubileum på temat fred och demokrati presenterar Skulptörens verkstad två utställningar:**
