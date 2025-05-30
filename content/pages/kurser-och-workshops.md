@@ -5,8 +5,7 @@ sections:
       ![](/images/img_1574.jpg)
 
 
-
-
+      ![](/images/img_1568.jpg)
 
 
       **Betongkurs**\
