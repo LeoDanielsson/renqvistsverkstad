@@ -2,6 +2,13 @@
 title: Kurser och workshops
 sections:
   - body: >-
+      ![](/images/img_1574.jpg)
+
+
+
+
+
+
       **Betongkurs**\
 
       Lär dig modellera, ta en gipsform och gjut i betong, ytbehandling eller färgbehandling av betong\
@@ -24,7 +31,7 @@ sections:
 
 
       Anmäl er till Kontakt: Annika Heed, [annikaheed@hotmail.com](mailto:annikaheed@hotmail.com) 0738262254.
-    title: Kursprogram hösten 2024
+    title: Kursprogram hösten 2025
     image: /images/workshop4.JPG
   - title: Konstkurser
     body: Bokningsbara fördjupnings-kurser för små eller större grupper. I år
