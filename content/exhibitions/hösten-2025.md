@@ -2,8 +2,7 @@
 title: Utställning- La Mano med flera
 date: 2025-08-10T10:59:40.020Z
 sections:
-  - title: La Mano med flera- Liss Eriksson med Lars Kleen och Torsten Renqvist i
-      verkstan
+  - title: Liss Eriksson med Lars Kleen och Torsten Renqvist i verkstan
     body: >-
       
 
