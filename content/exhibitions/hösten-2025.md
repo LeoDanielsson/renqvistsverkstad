@@ -4,11 +4,8 @@ date: 2025-08-10T10:59:40.020Z
 sections:
   - title: Liss Eriksson med Lars Kleen och Torsten Renqvist i verkstan
     body: >-
-      
-
-
-
-      **Vernissage lördagen 6 september kl 12-16 pågår t.o.m. 5 oktober, öppet lördagar och söndagar**\
+      **Vernissage lördagen 6 september kl 12-16 pågår t.o.m. 5 oktober, öppet
+      lördagar och söndagar**\
 
       \
 
@@ -59,4 +56,23 @@ sections:
       \
 
       Visning av utställningen och Torsten Renqvists ateljé kl 14.00
+
+
+
+
+      #### Utställning på gård och i trädgård
+
+
+      **I samband med Skulptörförbundets 50 års jubileum på temat fred och demokrati presenterar Skulptörens verkstad en utställning på gård och i trädgården på temat "I have a dream" citat av Martin Luther King.**\
+
+      Utställare på gård och i trädgård:\
+
+      Michael Crisp, Lotta Enocsson, Annika Heed, Dina Hviid, Anders Jansson, Mats Lodén, Torsten Rehnqvist, Bitte Jonason Åkerlund, Mats Eriksson, Kajsa Mattas, Mats Åberg\
+
+      Utställningen pågår hela året t.o.m. 5 oktober 2025 den är öppen varje dag för besökare och med bemanning Lördag-Söndag från 6 september till 5 oktober 12-16.\
+
+      Visning i Torsten Renqvists närbelägna ateljé kl 14 under de öppna helgerna.\
+
+      "Skulptur som fredligt instrument" är ett omfattande projekt i Skulptörförbundets regi som omfattar konstutställningar, workshops och mycket mer. Projektet stöds av Svenska Postkodlotteriets Stiftelse och Region Stockholm. [www.skulptorforbundet.se](https://www.renqvistsverkstad.se/www.skulptorforbundet.se)
+    image: /images/affisch-trädgård.jpg
 ---
