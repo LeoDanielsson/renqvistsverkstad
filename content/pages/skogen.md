@@ -85,7 +85,7 @@ cards:
 
 
       Efter sommaren dyker nya skulpturer upp i Skulptörskogen!
-    title: Aktuellt vår, sommar och höst 2025
+    title: Aktuellt vår och sommar 025
   - title: SKULPTURSKOGEN ED
     ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
       egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
