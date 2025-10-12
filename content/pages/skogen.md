@@ -9,83 +9,36 @@ cards:
       Tillgänglighet och vägbeskrivning\
       Introduction in english\
       Tidigare utställningar
-  - body: >-
-      Endangered – Investigations om rörelser, solceller och utrotningshotade
-      djur
+  - title: Aktuellt hösten 2025
+    body: >-
+      Höstens satsning i Skulpturskogen består av ett antal platser eller
+      "skogsrum" med skulptur och skulpturala installationer i.\
 
+      Dessa platser kan beses från de små vägarna som löper runt skogen. Promenerar ni ett varv runt den lilla skogen får ni se en hel skulpturutställning.\
 
-      Ett konstnärligt projekt om rödlistade arter i vår närmiljö.
-
-
-      Konstnärer: Bo Andersson, Lars Brunström, Lotta Enocsson,\
-
-      Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
-
-
-      ![](/images/fladdermusen-affisch.jpg)
+      Skogens konst blir nu tillgänglig med rullstol, rullator eller barnvagnar. I skogen placeras också nya stadiga bänkar för en stunds kontemplation.
 
 
       \
 
-      Här får ni möta olika rödlistade arter som finns i Skulpturskogen Ed i en rumslig iscensättning i skogens mitt. Vi experimenterar med teknik, rörelser drivna av solceller och visuella upplevelser. 
+      Det firar vi med en öppning **19 oktober kl 14** med indiska toner i skogen, något som utvecklar sig till en hel konsert på café Villa Ed kl 14 med Indisk musik och soppa!\
+
+      Deltagande konstnärer hösten 2025: Bo Andersson, Katinka Andersson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
 
 
-      Ett konstnärligt projekt där ni samtidigt får inblick i djurens sammanhang och levnadsförutsättningar i deras närmiljö.
+      \
+
+      Skulpturstigen för barn är alltid öppen för besök.\
+
+      Inne i skogen finns fler skulpturer att upptäcka.
 
 
-      Vernissage lördag 10 maj kl 12-16!
+      \
+
+      Varmt välkomna!
 
 
-      Öppning kl 13 med Tomas Bannerhed som berättar om fåglar och musik med Valerias Klezmer Chariot, klarinett och piano
-
-
-      Workshop för alla barn om små och stora kryp
-
-
-      Projektet presenteras av Kulturföreningen Källaren med stöd av Kulturförvaltningen Region Stockholm och Upplands Väsby kommun.
-
-
-      ![](/images/fjaril.jpg)
-
-
-      **Skulpturstigen för små och stora får nya skulpturer 10 maj!**
-
-
-      En slinga för barn och deras vuxna att upptäcka. 
-
-
-      Vi inviger de nya spännande skulpturerna och händelserna som finns att upptäcka i skogen. 
-
-
-      Följ de vita stenarna!
-
-
-      Musik kl 12.00 i skogen! Workshop för alla barn!
-
-
-      ![](/images/barn.jpg)
-
-
-      **Nationaldagen 6 juni**
-
-
-      Vi berättar om de rödlistade arterna i skogens mitt kl 12.00
-
-
-      Workshop för alla barn vid Barnstigen!
-
-
-      Hitta en orm, ödla eller annat kryp i trä och måla den i vackra färger
-
-
-      ![](/images/bur.jpg)
-
-
-      **Hösten 2025**
-
-
-      Efter sommaren dyker nya skulpturer upp i Skulptörskogen!
-    title: Aktuellt vår och sommar 025
+      ![](/images/skogen-ed-2025-höst-klar-kopia-.jpg)
   - title: SKULPTURSKOGEN ED
     ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
       egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
@@ -172,6 +125,83 @@ cards:
       with the walking trail called “Upplevelsestråket” that continues
       throughout Upplands Väsby and stretches out to Sollentuna and the other
       surrounding municipalities.
+  - body: >-
+      Endangered – Investigations om rörelser, solceller och utrotningshotade
+      djur
+
+
+      Ett konstnärligt projekt om rödlistade arter i vår närmiljö.
+
+
+      Konstnärer: Bo Andersson, Lars Brunström, Lotta Enocsson,\
+
+      Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
+
+
+      ![](/images/fladdermusen-affisch.jpg)
+
+
+      \
+
+      Här får ni möta olika rödlistade arter som finns i Skulpturskogen Ed i en rumslig iscensättning i skogens mitt. Vi experimenterar med teknik, rörelser drivna av solceller och visuella upplevelser. 
+
+
+      Ett konstnärligt projekt där ni samtidigt får inblick i djurens sammanhang och levnadsförutsättningar i deras närmiljö.
+
+
+      Vernissage lördag 10 maj kl 12-16!
+
+
+      Öppning kl 13 med Tomas Bannerhed som berättar om fåglar och musik med Valerias Klezmer Chariot, klarinett och piano
+
+
+      Workshop för alla barn om små och stora kryp
+
+
+      Projektet presenteras av Kulturföreningen Källaren med stöd av Kulturförvaltningen Region Stockholm och Upplands Väsby kommun.
+
+
+      ![](/images/fjaril.jpg)
+
+
+      **Skulpturstigen för små och stora får nya skulpturer 10 maj!**
+
+
+      En slinga för barn och deras vuxna att upptäcka. 
+
+
+      Vi inviger de nya spännande skulpturerna och händelserna som finns att upptäcka i skogen. 
+
+
+      Följ de vita stenarna!
+
+
+      Musik kl 12.00 i skogen! Workshop för alla barn!
+
+
+      ![](/images/barn.jpg)
+
+
+      **Nationaldagen 6 juni**
+
+
+      Vi berättar om de rödlistade arterna i skogens mitt kl 12.00
+
+
+      Workshop för alla barn vid Barnstigen!
+
+
+      Hitta en orm, ödla eller annat kryp i trä och måla den i vackra färger
+
+
+      ![](/images/bur.jpg)
+
+
+      **Hösten 2025**
+
+
+      Efter sommaren dyker nya skulpturer upp i Skulptörskogen!
+    title: Aktuellt vår och sommar 2025
   - title: AKTUELLT HÖSTEN 2024
     body: >-
       ![](/images/endangered-2-kopia-.jpg)
