@@ -39,6 +39,26 @@ cards:
 
 
       ![](/images/skogen-ed-2025-höst-klar-kopia-.jpg)
+
+
+      **This autumn’s initiative in the Sculpture Forest features a number of sites or “forest rooms” containing sculptures and sculptural installations.**\
+
+      These spots can be viewed from the small paths that wind around the forest. A walk around the small forest will take you through an entire sculpture exhibition.\
+
+      The forest’s art is now accessible by wheelchair, walker, or stroller. New sturdy benches will also be placed in the forest for moments of contemplation.
+
+
+      We celebrate this with an **opening on October 19 at 2 PM**, when the forest comes alive with the sounds of Indian music — an experience that will evolve into a full concert at Café Villa Ed, featuring Indian music and soup!\
+
+      Participating artists in autumn 2025: Bo Andersson, Katinka Andersson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
+
+
+      The children’s sculpture trail is always open for visits.\
+
+      More sculptures await discovery inside the forest.
+
+
+      **A warm welcome!**
   - title: SKULPTURSKOGEN ED
     ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
       egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
