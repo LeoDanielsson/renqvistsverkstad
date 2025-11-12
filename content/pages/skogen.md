@@ -145,6 +145,44 @@ cards:
       with the walking trail called “Upplevelsestråket” that continues
       throughout Upplands Väsby and stretches out to Sollentuna and the other
       surrounding municipalities.
+  - title: '"Investigations i Täby Bibliotek!"'
+    body: >-
+      
+
+      Ett konstnärligt projekt om rödlistade arter i vår närmiljö gör nu ett nedslag i Täby Bibliotek från 15 – 30 november. Ni hittar våra djur, insekter och berättelser på barnavdelningen i glasmontern och bredvid på väggen.
+
+
+      Här kan ni få insikt i djurens sammanhang och levnadsförutsättningar.
+
+
+      När en art blir rödlistad beror det ofta på att orsakerna finns i ett större sammanhang som att äldre trädbestånd huggs ner, ängsmark , våtmarker, grustäkter försvinner på grund av vårt moderna levnadssätt. Att lära sig mer om de här arterna är att lära sig mer om att vi alla befinner oss i ett större sammanhang och att allt hänger ihop.
+
+
+      Kulturföreningen Källaren består av tio konstnärer som har tagit sig an problemet och visualiserar det i skulptur, fotografi och skulpturala installationer. Ofta är våra skulpturer rörliga och drivna av solceller eller el. Vi kopplar samman information om arterna, varför de är rödlistade och vad vi kan göra för att förbättra situationen för dem. Vi vill framhålla att allt hänger samman och att vi alla, människor, djur och fauna är beroende av varandra och påverkar varandra.
+
+
+      Med långa eller korta nedslag runtom i Stockholm berättar vi om olika arter i bild, form och ord.
+
+
+      Vi samarbetar med RäddaEnArt, Naturskyddsföreningen och lokala naturskyddsföreningar som t.ex Boo Natur och miljövänner.
+
+
+      Projektet stöds av Ideell Kulturallians, Kulturens kapillärer, Region Stockholm, Nacka kommun och Upplands Väsby kommun och drivs av Kulturföreningen Källaren, Skulpturskogen Ed.
+
+
+      Konstnärer i Täby:
+
+
+      Filippa von Krusenstjerna och Annika Heed 
+
+
+      ![](/images/fjäril.jpg)
+
+
+      ![](/images/täby-2.jpg)
+
+
+      ![](/images/täby-3.jpg)
   - body: >-
       Endangered – Investigations om rörelser, solceller och utrotningshotade
       djur
