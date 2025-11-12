@@ -59,7 +59,7 @@ cards:
 
 
       **A warm welcome!**
-  - title: '"Investigations i Täby Bibliotek!"'
+  - title: Investigations i Täby Bibliotek!
     body: >-
       
 
