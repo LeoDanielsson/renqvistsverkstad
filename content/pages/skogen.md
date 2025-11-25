@@ -61,9 +61,10 @@ cards:
       **A warm welcome!**
   - title: Investigations i Täby Bibliotek!
     body: >-
-      
-
-      Ett konstnärligt projekt om rödlistade arter i vår närmiljö gör nu ett nedslag i Täby Bibliotek från 15 – 30 november. Ni hittar våra djur, insekter och berättelser på barnavdelningen i glasmontern och bredvid på väggen.
+      Ett konstnärligt projekt om rödlistade arter i vår närmiljö gör nu ett
+      nedslag i Täby Bibliotek från 15 – 30 november. Ni hittar våra djur,
+      insekter och berättelser på barnavdelningen i glasmontern och bredvid på
+      väggen.
 
 
       Här kan ni få insikt i djurens sammanhang och levnadsförutsättningar.
@@ -84,10 +85,19 @@ cards:
       Projektet stöds av Ideell Kulturallians, Kulturens kapillärer, Region Stockholm, Nacka kommun och Upplands Väsby kommun och drivs av Kulturföreningen Källaren, Skulpturskogen Ed.
 
 
+      I Täby bibliotek kan ni möta olika rödlistade arter och lära er mer om dem. Det är Kulturföreningen Källaren som presenterar en miniutställning. 15 -30 november med stöd av Region Stockholm.
+
+
       Konstnärer i Täby:
 
 
       Filippa von Krusenstjerna och Annika Heed 
+
+
+      ![](/images/taby.jpg)
+
+
+      ![](/images/t¨åby-1.jpg)
 
 
       ![](/images/fjäril.jpg)
