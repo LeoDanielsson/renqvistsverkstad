@@ -85,6 +85,7 @@ sections:
       **Träsnideri 5 kurstillfällen**\
 
       **Metall och naturmaterial 5 kurstillfällen**
+    image: /images/kurser-våren-26-kopia-3-.jpg
   - body: >-
       ![](/images/img_1574.jpg)
 
