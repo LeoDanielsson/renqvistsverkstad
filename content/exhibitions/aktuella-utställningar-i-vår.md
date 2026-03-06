@@ -1,0 +1,30 @@
+---
+title: Aktuella utställningar i vår
+date: 2026-05-02T10:00:19.774Z
+sections:
+  - body: >-
+      **"Lerans solitärer"** Hertha Hillfon och Evert Lindfors två fantaster som
+      med skicklighet och mod uttryckte sig i materialet lera.\
+
+      Vernissage lördag 2 maj 12-16\
+
+      Hertha-eftermiddag söndag 24 maj kl 15.00 keramikern Calle Forsberg berättar kring leran som material, om sin faster Hertha och sitt eget arbete .\
+
+      \
+
+      Dryck och lättare förtäring finns att köpa.\
+
+      Finissage söndag 31 maj Utställningen avslutas med ett program kl 15.00 med konstsamtal om Hertha Hillfon och Evert Lindfors.\
+
+      Mer information kommer om programmet.\
+
+      På gården och i trädgården möter ni årets utställning " Fredens liljor"\
+
+      Utställare: Michael Crisp,  Lotta Enocsson, Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Mats Lodén, Kajsa Mattas Mats Åberg.\
+
+      \
+
+      Alla är även välkomna att vandra i Skulpturstigen för barn!\
+
+      Bohemiskt café
+---
