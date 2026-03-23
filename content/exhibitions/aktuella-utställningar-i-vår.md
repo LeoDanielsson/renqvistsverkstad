@@ -1,5 +1,5 @@
 ---
-title: Aktuella utställningar i vår
+title: Aktuella utställningar i vår 2026
 date: 2026-05-02T10:00:19.774Z
 sections:
   - body: >-
