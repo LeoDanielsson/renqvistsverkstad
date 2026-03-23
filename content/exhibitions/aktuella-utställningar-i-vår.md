@@ -35,5 +35,14 @@ sections:
 
 
       ![](/images/info-blad-evert-lindfors.jpg)
-    image: /images/info-blad-evert-lindfors-2.jpg
+
+
+      ![](/images/info-blad-evert-lindfors-2.jpg)
+
+
+      ![](/images/info-blad-lerans-solitärer-hertha-kopia-.jpg)
+
+
+      ![](/images/info-blad-lerans-solitärer-hertha-kopia-2.jpg)
+    image: ""
 ---
