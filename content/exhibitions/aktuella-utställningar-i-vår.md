@@ -3,8 +3,10 @@ title: Aktuella utställningar i vår
 date: 2026-05-02T10:00:19.774Z
 sections:
   - body: >-
-      **"Lerans solitärer"** Hertha Hillfon och Evert Lindfors två fantaster som
-      med skicklighet och mod uttryckte sig i materialet lera.\
+      ![](/images/affisch-lerans-solitärer-vår-26.jpg)
+
+
+      **"Lerans solitärer"** Hertha Hillfon och Evert Lindfors två fantaster som med skicklighet och mod uttryckte sig i materialet lera.\
 
       Vernissage lördag 2 maj 12-16\
 
