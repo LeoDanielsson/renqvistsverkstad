@@ -28,5 +28,5 @@ sections:
 
       Alla är även välkomna att vandra i Skulpturstigen för barn!\
 
-      Bohemiskt café
+      Vi har även enklare servering på vårt bohemiska café !
 ---
