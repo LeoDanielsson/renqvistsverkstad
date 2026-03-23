@@ -1,39 +1,6 @@
 ---
 title: Program
 sections:
-  - title: Hösten 2025
-    body: >-
-      ### ***"La Mano med flera"*** - Liss Eriksson med Lars Kleen och Torsten
-      Renqvist i verkstan.
-
-
-      \
-
-      Vernissage lördagen 6 september kl 12-16 pågår t.o.m. 5 oktober, öppet lördagar och söndagar\
-
-      \
-
-      Här lyfts skulpturkonstens roll som fredsbevarande i det kollektiva minnet fram.\
-
-      Skisser och monument över krigets offer av Liss Eriksson, Torsten Renqvist och Lars Kleen.\
-
-      På gården fortsätter utställningen "Skulptur som fredligt instrument" en del av Skulptörförbundets stora fredsprojekt.\
-
-      Kl. 13.00 Invigning av Magnus Silferhielm, arkitekt och tidigare ordförande i Liss Erikssons Vänförening.\
-
-      Därefter musik med Ann Pajunen, röst/sång och Lars Warnstad, violin
-
-
-      ![](/images/la-mano-affisch-kopia-.jpg)
-  - title: Våren 2025
-    body: |-
-      Läs om vårens utställning under fliken aktuell uställning!
-
-      Mer information om vårens program kommer senare
-
-      ![](/images/affisch-i-have-a-dream-klar.jpg)
-
-      ![](/images/affisch-trädgård.jpg)
   - title: Vinter i Skulptörens Verkstad
     body: >-
       Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
