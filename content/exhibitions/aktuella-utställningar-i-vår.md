@@ -29,4 +29,8 @@ sections:
       Alla är även välkomna att vandra i Skulpturstigen för barn!\
 
       Vi har även enklare servering på vårt bohemiska café !
+
+
+      ![](/images/info-blad-evert-lindfors.jpg)
+    image: /images/info-blad-evert-lindfors-2.jpg
 ---
