@@ -6,7 +6,7 @@ sections:
       ![](/images/kurser-våren-26-kopia-6-.jpg)
 
 
-      ![](/images/kurser-våren-26-kopia-6-2.jpg)
+      ![](/images/img_2511.jpeg)
 
 
       ### LILLA SKULPTURATELJÉN
