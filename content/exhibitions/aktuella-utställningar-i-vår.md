@@ -3,11 +3,10 @@ title: Aktuella utställningar i vår 2026
 date: 2026-05-02T10:00:19.774Z
 sections:
   - body: >-
+      ![](/images/utskick-24-maj-och-31-maj.jpg)
+
+
       ![](/images/affisch-lerans-solitärer-vår-26.jpg)
-
-
-
-
 
 
       ![]()
