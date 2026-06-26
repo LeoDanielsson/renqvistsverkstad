@@ -9,104 +9,6 @@ cards:
       Tillgänglighet och vägbeskrivning\
       Introduction in english\
       Tidigare utställningar
-  - title: Aktuellt hösten 2025
-    body: >-
-      Höstens satsning i Skulpturskogen består av ett antal platser eller
-      "skogsrum" med skulptur och skulpturala installationer i.\
-
-      Dessa platser kan beses från de små vägarna som löper runt skogen. Promenerar ni ett varv runt den lilla skogen får ni se en hel skulpturutställning.\
-
-      Skogens konst blir nu tillgänglig med rullstol, rullator eller barnvagnar. I skogen placeras också nya stadiga bänkar för en stunds kontemplation.
-
-
-      \
-
-      Det firar vi med en öppning **19 oktober kl 14** med indiska toner i skogen, något som utvecklar sig till en hel konsert på café Villa Ed kl 14 med Indisk musik och soppa!\
-
-      Deltagande konstnärer hösten 2025: Bo Andersson, Katinka Andersson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
-
-
-      \
-
-      Skulpturstigen för barn är alltid öppen för besök.\
-
-      Inne i skogen finns fler skulpturer att upptäcka.
-
-
-      \
-
-      Varmt välkomna!
-
-
-      ![](/images/skogen-ed-2025-höst-klar-kopia-.jpg)
-
-
-      **This autumn’s initiative in the Sculpture Forest features a number of sites or “forest rooms” containing sculptures and sculptural installations.**\
-
-      These spots can be viewed from the small paths that wind around the forest. A walk around the small forest will take you through an entire sculpture exhibition.\
-
-      The forest’s art is now accessible by wheelchair, walker, or stroller. New sturdy benches will also be placed in the forest for moments of contemplation.
-
-
-      We celebrate this with an **opening on October 19 at 2 PM**, when the forest comes alive with the sounds of Indian music — an experience that will evolve into a full concert at Café Villa Ed, featuring Indian music and soup!\
-
-      Participating artists in autumn 2025: Bo Andersson, Katinka Andersson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
-
-
-      The children’s sculpture trail is always open for visits.\
-
-      More sculptures await discovery inside the forest.
-
-
-      **A warm welcome!**
-  - title: Investigations i Täby Bibliotek!
-    body: >-
-      Ett konstnärligt projekt om rödlistade arter i vår närmiljö gör nu ett
-      nedslag i Täby Bibliotek från 15 – 30 november. Ni hittar våra djur,
-      insekter och berättelser på barnavdelningen i glasmontern och bredvid på
-      väggen.
-
-
-      Här kan ni få insikt i djurens sammanhang och levnadsförutsättningar.
-
-
-      När en art blir rödlistad beror det ofta på att orsakerna finns i ett större sammanhang som att äldre trädbestånd huggs ner, ängsmark , våtmarker, grustäkter försvinner på grund av vårt moderna levnadssätt. Att lära sig mer om de här arterna är att lära sig mer om att vi alla befinner oss i ett större sammanhang och att allt hänger ihop.
-
-
-      Kulturföreningen Källaren består av tio konstnärer som har tagit sig an problemet och visualiserar det i skulptur, fotografi och skulpturala installationer. Ofta är våra skulpturer rörliga och drivna av solceller eller el. Vi kopplar samman information om arterna, varför de är rödlistade och vad vi kan göra för att förbättra situationen för dem. Vi vill framhålla att allt hänger samman och att vi alla, människor, djur och fauna är beroende av varandra och påverkar varandra.
-
-
-      Med långa eller korta nedslag runtom i Stockholm berättar vi om olika arter i bild, form och ord.
-
-
-      Vi samarbetar med RäddaEnArt, Naturskyddsföreningen och lokala naturskyddsföreningar som t.ex Boo Natur och miljövänner.
-
-
-      Projektet stöds av Ideell Kulturallians, Kulturens kapillärer, Region Stockholm, Nacka kommun och Upplands Väsby kommun och drivs av Kulturföreningen Källaren, Skulpturskogen Ed.
-
-
-      I Täby bibliotek kan ni möta olika rödlistade arter och lära er mer om dem. Det är Kulturföreningen Källaren som presenterar en miniutställning. 15 -30 november med stöd av Region Stockholm.
-
-
-      Konstnärer i Täby:
-
-
-      Filippa von Krusenstjerna och Annika Heed 
-
-
-      ![](/images/taby.jpg)
-
-
-      ![](/images/t¨åby-1.jpg)
-
-
-      ![](/images/fjäril.jpg)
-
-
-      ![](/images/täby-2.jpg)
-
-
-      ![](/images/täby-3.jpg)
   - title: SKULPTURSKOGEN ED
     ingress: Skulpturskogen Ed är något så ovanligt som en skulpturpark som
       egentligen är en skog. Mitt i Upplands Väsbys vackra kulturlandskap,
@@ -193,6 +95,118 @@ cards:
       with the walking trail called “Upplevelsestråket” that continues
       throughout Upplands Väsby and stretches out to Sollentuna and the other
       surrounding municipalities.
+  - body: >-
+      Utefter den lilla promenadvägen runt Skulpturskogen Ed finner ni olika
+      verk som intar sin plats i skulpturskogen. Inne i skogen finner ni fler
+      verk att upptäcka eller sitta en stund och meditera på bänkarna. I
+      Skulpturstigen för barn följer ni de vita stenarna för att upptäcka alla
+      skulpturer som finns där.\
+
+      \
+
+      I arrangemang av Kulturföreningen Källaren med stöd av Riksförbundet Sveriges Konstföreningar
+
+
+      ![](/images/skulptur.jpg)
+    title: '"En plats i skogen"'
+  - title: Investigations i Täby Bibliotek!
+    body: >-
+      Ett konstnärligt projekt om rödlistade arter i vår närmiljö gör nu ett
+      nedslag i Täby Bibliotek från 15 – 30 november. Ni hittar våra djur,
+      insekter och berättelser på barnavdelningen i glasmontern och bredvid på
+      väggen.
+
+
+      Här kan ni få insikt i djurens sammanhang och levnadsförutsättningar.
+
+
+      När en art blir rödlistad beror det ofta på att orsakerna finns i ett större sammanhang som att äldre trädbestånd huggs ner, ängsmark , våtmarker, grustäkter försvinner på grund av vårt moderna levnadssätt. Att lära sig mer om de här arterna är att lära sig mer om att vi alla befinner oss i ett större sammanhang och att allt hänger ihop.
+
+
+      Kulturföreningen Källaren består av tio konstnärer som har tagit sig an problemet och visualiserar det i skulptur, fotografi och skulpturala installationer. Ofta är våra skulpturer rörliga och drivna av solceller eller el. Vi kopplar samman information om arterna, varför de är rödlistade och vad vi kan göra för att förbättra situationen för dem. Vi vill framhålla att allt hänger samman och att vi alla, människor, djur och fauna är beroende av varandra och påverkar varandra.
+
+
+      Med långa eller korta nedslag runtom i Stockholm berättar vi om olika arter i bild, form och ord.
+
+
+      Vi samarbetar med RäddaEnArt, Naturskyddsföreningen och lokala naturskyddsföreningar som t.ex Boo Natur och miljövänner.
+
+
+      Projektet stöds av Ideell Kulturallians, Kulturens kapillärer, Region Stockholm, Nacka kommun och Upplands Väsby kommun och drivs av Kulturföreningen Källaren, Skulpturskogen Ed.
+
+
+      I Täby bibliotek kan ni möta olika rödlistade arter och lära er mer om dem. Det är Kulturföreningen Källaren som presenterar en miniutställning. 15 -30 november med stöd av Region Stockholm.
+
+
+      Konstnärer i Täby:
+
+
+      Filippa von Krusenstjerna och Annika Heed 
+
+
+      ![](/images/taby.jpg)
+
+
+      ![](/images/t¨åby-1.jpg)
+
+
+      ![](/images/fjäril.jpg)
+
+
+      ![](/images/täby-2.jpg)
+
+
+      ![](/images/täby-3.jpg)
+  - title: Aktuellt hösten 2025
+    body: >-
+      Höstens satsning i Skulpturskogen består av ett antal platser eller
+      "skogsrum" med skulptur och skulpturala installationer i.\
+
+      Dessa platser kan beses från de små vägarna som löper runt skogen. Promenerar ni ett varv runt den lilla skogen får ni se en hel skulpturutställning.\
+
+      Skogens konst blir nu tillgänglig med rullstol, rullator eller barnvagnar. I skogen placeras också nya stadiga bänkar för en stunds kontemplation.
+
+
+      \
+
+      Det firar vi med en öppning **19 oktober kl 14** med indiska toner i skogen, något som utvecklar sig till en hel konsert på café Villa Ed kl 14 med Indisk musik och soppa!\
+
+      Deltagande konstnärer hösten 2025: Bo Andersson, Katinka Andersson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
+
+
+      \
+
+      Skulpturstigen för barn är alltid öppen för besök.\
+
+      Inne i skogen finns fler skulpturer att upptäcka.
+
+
+      \
+
+      Varmt välkomna!
+
+
+      ![](/images/skogen-ed-2025-höst-klar-kopia-.jpg)
+
+
+      **This autumn’s initiative in the Sculpture Forest features a number of sites or “forest rooms” containing sculptures and sculptural installations.**\
+
+      These spots can be viewed from the small paths that wind around the forest. A walk around the small forest will take you through an entire sculpture exhibition.\
+
+      The forest’s art is now accessible by wheelchair, walker, or stroller. New sturdy benches will also be placed in the forest for moments of contemplation.
+
+
+      We celebrate this with an **opening on October 19 at 2 PM**, when the forest comes alive with the sounds of Indian music — an experience that will evolve into a full concert at Café Villa Ed, featuring Indian music and soup!\
+
+      Participating artists in autumn 2025: Bo Andersson, Katinka Andersson, Annika Heed, Filippa von Krusenstjerna, Hélène Vejrich, Sophi Vejrich
+
+
+      The children’s sculpture trail is always open for visits.\
+
+      More sculptures await discovery inside the forest.
+
+
+      **A warm welcome!**
   - body: >-
       Endangered – Investigations om rörelser, solceller och utrotningshotade
       djur
