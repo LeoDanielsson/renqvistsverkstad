@@ -7,7 +7,7 @@ sections:
 
       Vernissage 5/9 till 4/10
 
-      ![](/images/skulpturart.jpeg)
+      ![](/images/asmund-arle-kopia-2-.jpg)
   - title: Vinter i Skulptörens Verkstad
     body: >-
       Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
