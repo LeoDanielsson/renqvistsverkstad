@@ -3,11 +3,11 @@ title: Program
 sections:
   - title: Kommande utställningar hösten 2026
     body: |-
-      # Asmund Arle 
+      # Asmund Arle
 
       Vernissage 5/9 till 4/10
 
-      Mer information kommer!
+      ![](/images/skulpturart.jpeg)
   - title: Vinter i Skulptörens Verkstad
     body: >-
       Vintern är planeringstid i Skulptörens Verkstad. Planering för vårens
