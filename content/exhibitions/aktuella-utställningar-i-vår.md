@@ -11,11 +11,17 @@ sections:
 
       \
 
-      Skulptörens verkstad presenterar en utställning av Asmund Arle, en av våra stora skulptörer, känd för sina fantastiska häststudier i full skala.\
+      Skulptörens verkstad presenterar en utställning av Asmund Arle, en av våra stora skulptörer, känd för sina fantastiska häststudier i full skala.
+
+
+      \
 
       Många av de verk som kan ses hos oss i höst, har varit i privat ägo och inte visats offentligt på länge. I samarbete med Staffan Arle, son till Asmund kan vi nu hösten 2026 visa en unik samling i verkstaden.\
 
-      I utställningen visas även en målerisk kommentar till Asmunds konst av Staffan Arle, utbildad på Konsthögskolan 1970-75\
+      I utställningen visas även en målerisk kommentar till Asmunds konst av Staffan Arle, utbildad på Konsthögskolan 1970-75
+
+
+      \
 
       **På gård och i trädgård visas utställningen ”Fredens liljor”** med: Michael Crisp, Lotta Enocsson,  Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Mats Lodén, Kajsa Mattas, Torsten Renqvist
 
