@@ -79,6 +79,9 @@ sections:
       Föreningen Renqvists verkstad som driver Skulptörens verkstad
 
 
+      ### Tidigare utställningar 2026
+
+
       ![](/images/utskick-24-maj-och-31-maj.jpg)
 
 
