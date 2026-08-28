@@ -3,6 +3,9 @@ title: Aktuella utställningar 2026
 date: 2026-09-05T10:00:19.774Z
 sections:
   - body: >-
+      ![](/images/asmund-arle-färdig.jpg)
+
+
       ### **Hösten 2026   ASMUND ARLE     5-26 september**
 
 
