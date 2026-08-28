@@ -17,7 +17,7 @@ sections:
       **På gård och i trädgård visas utställningen ”Fredens liljor”** med: Michael Crisp, Lotta Enocsson,  Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Mats Lodén, Kajsa Mattas, Torsten Renqvist
 
 
-      \
+      #### \
 
       **Program**
 
