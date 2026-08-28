@@ -58,20 +58,11 @@ sections:
 
       Kl 15.20 Konstsamtal med konstnärerna Lena Lervik, Bitte Jonason Åkerlund och Leif Bolter alla elever till Asmund på Konsthögskolan. Samtal som utgår från Asmunds konstnärskap till hans lärargärning som professor på Konsthögskolan 1961-71 och vidare till ett samtal om konstnärlig pedagogik satt i ett tidsmässigt sammanhang.\
 
-      Enkel förtäring finns.
+      Enkel förtäring finns.\
 
+      **Söndag 20 september 12-16** Utställningarna, visning av T Renqvists ateljé kl 14\
 
-      \
-
-      **Söndag 20 september 12-16** Utställningarna, visning av T Renqvists ateljé kl 14
-
-
-      \
-
-      **Lördag 26 september kl 12-16** Utställningarna, visning av T Renqvists ateljé kl 14
-
-
-      \
+      **Lördag 26 september kl 12-16** Utställningarna, visning av T Renqvists ateljé kl 14\
 
       **Söndag 27 september kl 12-16** Utställningarna, Finissage visning av T Renqvists ateljé kl 14
 
