@@ -109,6 +109,7 @@ cards:
 
       ![](/images/skulptur.jpg)
     title: '"En plats i skogen"'
+    ingress: 1 januari - 27 september 2026
   - title: Investigations i Täby Bibliotek!
     body: >-
       Ett konstnärligt projekt om rödlistade arter i vår närmiljö gör nu ett
