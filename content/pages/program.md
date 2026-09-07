@@ -5,7 +5,7 @@ sections:
     body: |-
       # Asmund Arle
 
-      Vernissage 5/9 till 4/10
+      Vernissage 5/9 till 27/9
 
       ![](/images/asmund-arle-kopia-2-.jpg)
   - title: Vinter i Skulptörens Verkstad
