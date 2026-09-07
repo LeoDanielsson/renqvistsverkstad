@@ -107,6 +107,9 @@ cards:
       I arrangemang av Kulturföreningen Källaren med stöd av Riksförbundet Sveriges Konstföreningar
 
 
+      ![Riksförbundet Sveriges Konstföreningar logotyp](https://sverigeskonstforeningar.nu/wp-content/uploads/2020/05/logo_one_row_screen.png)
+
+
       ![](/images/skulptur.jpg)
     title: '"En plats i skogen"'
     ingress: 1 januari - 27 september 2026
