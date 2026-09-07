@@ -6,7 +6,7 @@ sections:
       ![](/images/asmund-arle-färdig.jpg)
 
 
-      ### **Hösten 2026   ASMUND ARLE     5-26 september**
+      ### **Hösten 2026   ASMUND ARLE     5-27 september**
 
 
       \
@@ -26,12 +26,14 @@ sections:
       **På gård och i trädgård visas utställningen ”Fredens liljor”** med: Michael Crisp, Lotta Enocsson,  Mats Eriksson, Annika Heed, Dina Hviid, Anders Jansson, Bitte Jonason Åkerlund, Mats Lodén, Kajsa Mattas, Torsten Renqvist
 
 
-      # \
+      Utställningen arrangeras med stöd av Riksförbundet Sveriges Konstföreningar och Kulturrådet
+
+
+      ![Riksförbundet Sveriges Konstföreningar Logotyp](https://sverigeskonstforeningar.nu/wp-content/uploads/2020/05/logo_one_row_screen.png)
+
 
       **Program**
 
-
-      ###### \
 
       **Lördag 5 september** **Vernissage 12-16**\
 
